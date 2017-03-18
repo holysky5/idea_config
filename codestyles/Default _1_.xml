@@ -1,0 +1,11 @@
+<code_scheme name="Default (1)">
+  <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+  </codeStyleSettings>
+</code_scheme>
