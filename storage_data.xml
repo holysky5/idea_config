@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="去除底层 bean 中不必要的依赖" />
+      <item value="change comment" />
       <item value="展示字段" />
       <item value="matched Detail Ids" />
       <item value="Array List" />
@@ -49,8 +51,6 @@
       <item value="imitating" />
       <item value="return" />
       <item value="Message Digest Hash Function" />
-      <item value="curdate" />
-      <item value="result Info" />
     </histories>
   </component>
 </application>
