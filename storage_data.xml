@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="展示字段" />
       <item value="matched Detail Ids" />
       <item value="Array List" />
       <item value="sort" />
@@ -50,7 +51,6 @@
       <item value="Message Digest Hash Function" />
       <item value="curdate" />
       <item value="result Info" />
-      <item value="String" />
     </histories>
   </component>
 </application>
