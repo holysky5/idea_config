@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Documented" />
+      <item value="Retention" />
       <item value="去除底层 bean 中不必要的依赖" />
       <item value="change comment" />
       <item value="展示字段" />
@@ -49,8 +51,6 @@
       <item value="HK 等" />
       <item value="Stage" />
       <item value="imitating" />
-      <item value="return" />
-      <item value="Message Digest Hash Function" />
     </histories>
   </component>
 </application>
