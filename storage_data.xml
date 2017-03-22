@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mechanism" />
+      <item value="机制" />
       <item value="Documented" />
       <item value="Retention" />
       <item value="去除底层 bean 中不必要的依赖" />
@@ -49,8 +51,6 @@
       <item value="main" />
       <item value="Resource" />
       <item value="HK 等" />
-      <item value="Stage" />
-      <item value="imitating" />
     </histories>
   </component>
 </application>
