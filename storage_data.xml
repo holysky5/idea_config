@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symmetric" />
       <item value="mechanism" />
       <item value="机制" />
       <item value="Documented" />
@@ -50,7 +51,6 @@
       <item value="因为它的约定就是只有出现 Rpc Exception 时才执行" />
       <item value="main" />
       <item value="Resource" />
-      <item value="HK 等" />
     </histories>
   </component>
 </application>
