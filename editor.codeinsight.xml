@@ -8,7 +8,7 @@
     <EXCLUDED_PACKAGE NAME="javafx" />
     <EXCLUDED_PACKAGE NAME="org.glassfish" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Square">
+  <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="JSCodeFoldingSettings">
