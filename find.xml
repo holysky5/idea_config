@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -13,11 +14,11 @@
       <mask>*.properties</mask>
       <mask>*.js</mask>
       <mask>*.html</mask>
-      <mask>pom.xml</mask>
       <mask>*.pom</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.ts</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
