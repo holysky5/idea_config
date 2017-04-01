@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quietly" />
       <item value="LOCATION NOT EMPTY" />
       <item value="affiliated" />
       <item value="If the transformer throws an exception ( which it doesn ' t catch ), subsequent transformers will still be called and the load , redefine or retransform will still be attempted ." />
@@ -50,7 +51,6 @@
       <item value="token 过期秒数" />
       <item value="或者第一次 get Connection 时" />
       <item value="invocation" />
-      <item value="get Attachment" />
     </histories>
   </component>
 </application>
