@@ -3,13 +3,13 @@
     <property name="created">2017-03-29T16:19:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-03-29T20:09:01</property>
+    <property name="modified">2017-03-30T12:24:56</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
@@ -557,7 +557,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="252b39" />
+        <option name="BACKGROUND" value="4e4d64" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">

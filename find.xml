@@ -13,11 +13,11 @@
       <mask>*.properties</mask>
       <mask>*.js</mask>
       <mask>*.html</mask>
-      <mask>pom.xml</mask>
       <mask>*.pom</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.ts</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
