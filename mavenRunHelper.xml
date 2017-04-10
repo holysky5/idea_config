@@ -76,6 +76,9 @@
             <Goal>
               <option name="commandLine" value="clean deploy" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="install" />
+            </Goal>
           </list>
         </option>
       </Goals>
