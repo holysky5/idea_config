@@ -79,6 +79,9 @@
             <Goal>
               <option name="commandLine" value="install" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="compile test-compile" />
+            </Goal>
           </list>
         </option>
       </Goals>
