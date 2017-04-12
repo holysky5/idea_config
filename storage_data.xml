@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates" />
+      <item value="elided" />
       <item value="locally" />
       <item value="subtype" />
       <item value="is Assignable From" />
@@ -49,8 +51,6 @@
       <item value="resources" />
       <item value="operation" />
       <item value="任务名称" />
-      <item value="object" />
-      <item value="Validation Filter" />
     </histories>
   </component>
 </application>
