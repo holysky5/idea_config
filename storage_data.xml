@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="locally" />
       <item value="subtype" />
       <item value="is Assignable From" />
       <item value="vms Bt Client Inventory Dao" />
@@ -50,7 +51,6 @@
       <item value="任务名称" />
       <item value="object" />
       <item value="Validation Filter" />
-      <item value="alidation = com . alibaba . dubbo . validation . filter . Validation Filter" />
     </histories>
   </component>
 </application>
