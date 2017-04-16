@@ -3,12 +3,10 @@
     <property name="created">2017-03-29T16:19:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2017-03-30T12:24:56</property>
+    <property name="modified">2017-04-12T13:49:40</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
@@ -465,8 +463,8 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="d3423e" />
+        <option name="FOREGROUND" value="ff5370" />
+        <option name="EFFECT_COLOR" value="c14360" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -561,9 +559,7 @@
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f3f349" />
-      </value>
+      <value />
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>

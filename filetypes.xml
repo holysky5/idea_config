@@ -9,6 +9,8 @@
       <mapping pattern="jquery_validate_doc" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
+      <mapping ext="validation" type="PLAIN_TEXT" />
+      <mapping ext="g" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="VTL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />

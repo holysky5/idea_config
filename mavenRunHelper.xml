@@ -58,6 +58,30 @@
             <Goal>
               <option name="commandLine" value="clean package -X" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package deployee" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean deploye" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean deployee" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean deploy" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="install" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="compile test-compile" />
+            </Goal>
           </list>
         </option>
       </Goals>
