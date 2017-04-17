@@ -13,11 +13,11 @@
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
       <option name="GROOVY" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="RHTML" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="HAML" value="false" />
+      <option name="RHTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="SQL" value="false" />
       <option name="XML" value="false" />
       <option name="KOTLIN" value="false" />
