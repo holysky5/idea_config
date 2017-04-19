@@ -82,6 +82,9 @@
             <Goal>
               <option name="commandLine" value="compile test-compile" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="deploy" />
+            </Goal>
           </list>
         </option>
       </Goals>
