@@ -68,12 +68,6 @@
               <option name="commandLine" value="clean package deployee" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean deploye" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="clean deployee" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="clean deploy" />
             </Goal>
             <Goal>
