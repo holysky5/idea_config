@@ -5,13 +5,7 @@
         <option name="goals">
           <list>
             <Goal>
-              <option name="commandLine" value="clean package" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="source:jar" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="jrebel:generate" />
             </Goal>
             <Goal>
               <option name="commandLine" value="validate" />
@@ -41,12 +35,6 @@
               <option name="commandLine" value="clean compile" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="mvn package -rf :voyageone-batchjob-ims" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="package -rf :voyageone-batchjob-ims" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="dependency:tree" />
             </Goal>
             <Goal>
@@ -56,22 +44,10 @@
               <option name="commandLine" value="duplicate-finder:check" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean package -X" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="clean package" />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean install" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="clean package deployee" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="clean deploye" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="clean deployee" />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean deploy" />
@@ -81,6 +57,12 @@
             </Goal>
             <Goal>
               <option name="commandLine" value="compile test-compile" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="deploy" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:resolve -U" />
             </Goal>
           </list>
         </option>
