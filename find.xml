@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="Project 'ecerp-common-parent'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project 'ecerp-common-parent'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -15,16 +15,16 @@
       <mask>*.html</mask>
       <mask>*.pom</mask>
       <mask>*.ts</mask>
-      <mask>*.properties</mask>
       <mask>properties</mask>
       <mask>.xml</mask>
       <mask>.java</mask>
       <mask>pom</mask>
       <mask>java</mask>
       <mask>xml</mask>
-      <mask>pom.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.properties</mask>
+      <mask>*.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
