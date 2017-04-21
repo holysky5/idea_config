@@ -3,5 +3,8 @@
     <variable name="directiveName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="directiveDeps" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ctrl" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HAML" value="false" />
+    </context>
   </template>
 </templateSet>
