@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enhancer" />
       <item value="Indicates" />
       <item value="elided" />
       <item value="locally" />
@@ -50,7 +51,6 @@
       <item value="true" />
       <item value="resources" />
       <item value="operation" />
-      <item value="任务名称" />
     </histories>
   </component>
 </application>
