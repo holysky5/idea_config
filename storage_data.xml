@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ROLE INFRASTRUCTURE" />
       <item value="enhancer" />
       <item value="Indicates" />
       <item value="elided" />
@@ -50,7 +51,6 @@
       <item value="Handler Interceptor" />
       <item value="true" />
       <item value="resources" />
-      <item value="operation" />
     </histories>
   </component>
 </application>
