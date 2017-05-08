@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test File System" />
+      <item value="Exception" />
+      <item value="is Read Only" />
+      <item value="ROLE INFRASTRUCTURE" />
+      <item value="enhancer" />
       <item value="Indicates" />
       <item value="elided" />
       <item value="locally" />
@@ -46,11 +51,6 @@
       <item value="@ Override" />
       <item value="sso" />
       <item value="Wms Bt Location Stock Book Service" />
-      <item value="Handler Interceptor" />
-      <item value="true" />
-      <item value="resources" />
-      <item value="operation" />
-      <item value="任务名称" />
     </histories>
   </component>
 </application>
