@@ -1,5 +1,5 @@
 <templateSet group="java">
-  <template name="lam" value="(it)-&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+  <template name="lam" value="()-&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -27,7 +27,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lam0" value="()-&gt;$END$" description="lambda without parameters" toReformat="false" toShortenFQNames="true">
+  <template name="lam1" value="(it)-&gt;$END$" description="lambda without parameters" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="CF" value="CompletableFuture" description="CompletableFuture" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
