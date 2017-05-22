@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="naughty" />
       <item value="test File System" />
       <item value="Exception" />
       <item value="is Read Only" />
@@ -50,7 +51,6 @@
       <item value="测试操作" />
       <item value="@ Override" />
       <item value="sso" />
-      <item value="Wms Bt Location Stock Book Service" />
     </histories>
   </component>
 </application>
