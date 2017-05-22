@@ -25,6 +25,9 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="ContextHelp" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
   <action id="Debugger.Tree.AddToWatches">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
