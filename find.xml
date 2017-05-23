@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File 'C:\Users\dell\.m2\repository\com\voyageone\common\ecerp-common\0.1.20170522160031-SNAPSHOT\ecerp-common-0.1.20170522160031-20170522.080053-1.jar!\com\voyageone\ecerp\common\util\JaxbUtils.class'" />
+    <option name="defaultScopeName" value="File 'C:\Users\dell\.m2\repository\com\voyageone\common\ecerp-common\0.1.20170522160031-SNAPSHOT\ecerp-common-0.1.20170522160031-20170522.080053-1.jar!\com\voyageone\ecerp\common\util\JaxbUtils.class'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\dell\.m2\repository\com\voyageone\common\ecerp-common\0.1.20170522160031-SNAPSHOT\ecerp-common-0.1.20170522160031-20170522.080053-1.jar!\com\voyageone\ecerp\common\util\JaxbUtils.class'" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.css</mask>
