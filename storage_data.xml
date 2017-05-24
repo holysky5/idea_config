@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="underlying" />
       <item value="naughty" />
       <item value="test File System" />
       <item value="Exception" />
@@ -50,7 +51,6 @@
       <item value="authorization Scope" />
       <item value="测试操作" />
       <item value="@ Override" />
-      <item value="sso" />
     </histories>
   </component>
 </application>
