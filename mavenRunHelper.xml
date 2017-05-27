@@ -64,6 +64,9 @@
             <Goal>
               <option name="commandLine" value="dependency:resolve -U" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="release:prepare" />
+            </Goal>
           </list>
         </option>
       </Goals>
