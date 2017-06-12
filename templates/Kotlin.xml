@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="anno" value="@Target(AnnotationTarget.CLASS, AnnotationTarget.FUNCTION,&#10;        AnnotationTarget.VALUE_PARAMETER, AnnotationTarget.EXPRESSION)&#10;@Retention(AnnotationRetention.RUNTIME)&#10;@MustBeDocumented&#10;annotation class $VAR0$" description="annotation 简写" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
