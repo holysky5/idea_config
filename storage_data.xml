@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Koala" />
       <item value="suspend" />
       <item value="suspend Coroutine" />
       <item value="underlying" />
@@ -50,7 +51,6 @@
       <item value="aop" />
       <item value="org" />
       <item value="100000" />
-      <item value="authorization Scope" />
     </histories>
   </component>
 </application>
