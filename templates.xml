@@ -11,10 +11,6 @@
           <option name="key" value="St" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="plain" />
-          <option name="key" value="thr" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="surround" />
           <option name="key" value="B" />
         </TemplateKey>
