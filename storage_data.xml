@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lenient" />
       <item value="spurious" />
       <item value="Koala" />
       <item value="suspend" />
@@ -50,7 +51,6 @@
       <item value="&lt;/ div &gt;" />
       <item value="strong" />
       <item value="aop" />
-      <item value="org" />
     </histories>
   </component>
 </application>
