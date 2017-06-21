@@ -80,6 +80,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="insert" />
   </action>
+  <action id="Git.CreateNewBranch">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl b" />
+  </action>
   <action id="GoogleSearchAction" />
   <action id="Macro.save &amp; make">
     <keyboard-shortcut first-keystroke="ctrl s" />
