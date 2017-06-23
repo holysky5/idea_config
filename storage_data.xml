@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Synchronous Queue" />
       <item value="lenient" />
       <item value="spurious" />
       <item value="Koala" />
@@ -50,7 +51,6 @@
       <item value="function" />
       <item value="&lt;/ div &gt;" />
       <item value="strong" />
-      <item value="aop" />
     </histories>
   </component>
 </application>
