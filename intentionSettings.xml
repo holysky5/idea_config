@@ -86,7 +86,6 @@
     <ignoreAction name="Groovy/Groovy-style/Remove unnecessary 'return' keyword" />
     <ignoreAction name="Groovy/Groovy-style/Remove unnecessary semicolons from selected text" />
     <ignoreAction name="Groovy/Other/Alias import statically imported member" />
-    <ignoreAction name="Groovy/Other/Copy string concatenation text to clipboard" />
     <ignoreAction name="Groovy/Other/Create missing 'switch' branches" />
     <ignoreAction name="Groovy/Other/Sort map entries alphabetically" />
     <ignoreAction name="Guice/Move Binding Scope To Class" />
