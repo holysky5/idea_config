@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do Jd Platform Category Sub" />
+      <item value="do Jd Platform Category Common" />
       <item value="Synchronous Queue" />
       <item value="lenient" />
       <item value="spurious" />
@@ -49,8 +51,6 @@
       <item value="btn" />
       <item value="delete Container" />
       <item value="function" />
-      <item value="&lt;/ div &gt;" />
-      <item value="strong" />
     </histories>
   </component>
 </application>
