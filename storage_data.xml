@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="认识" />
+      <item value="不认识" />
       <item value="do Jd Platform Category Sub" />
       <item value="do Jd Platform Category Common" />
       <item value="Synchronous Queue" />
@@ -49,8 +51,6 @@
       <item value="Transfer Container Add Request" />
       <item value="a" />
       <item value="btn" />
-      <item value="delete Container" />
-      <item value="function" />
     </histories>
   </component>
 </application>
