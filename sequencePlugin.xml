@@ -3,27 +3,21 @@
     <option name="excludeList">
       <list>
         <excludeEntry>
-          <option name="enabled" value="true" />
           <option name="excludeName" value="com.voyageone.common" />
         </excludeEntry>
         <excludeEntry>
-          <option name="enabled" value="true" />
           <option name="excludeName" value="com.voyageone.service.dao" />
         </excludeEntry>
         <excludeEntry>
-          <option name="enabled" value="true" />
           <option name="excludeName" value="com.voyageone.base" />
         </excludeEntry>
         <excludeEntry>
-          <option name="enabled" value="true" />
           <option name="excludeName" value="com.voyageone.base.dao.mongodb" />
         </excludeEntry>
         <excludeEntry>
-          <option name="enabled" value="true" />
           <option name="excludeName" value="com.voyageone.components.rabbitmq.utils" />
         </excludeEntry>
         <excludeEntry>
-          <option name="enabled" value="true" />
           <option name="excludeName" value="com.voyageone.service.dao.ims" />
         </excludeEntry>
       </list>
