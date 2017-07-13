@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not present" />
+      <item value="present" />
       <item value="认识" />
       <item value="不认识" />
       <item value="do Jd Platform Category Sub" />
@@ -49,8 +51,6 @@
       <item value="Resource 进行注入" />
       <item value="z" />
       <item value="Transfer Container Add Request" />
-      <item value="a" />
-      <item value="btn" />
     </histories>
   </component>
 </application>
