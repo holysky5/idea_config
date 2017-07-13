@@ -63,5 +63,30 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 3.5.1 virtualenv at C:\Users\dell\idea_env interpreter library">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/idea_env/Lib/site-packages/setuptools-18.1-py3.5.egg!/" />
+        <root url="file://$USER_HOME$/idea_env/Lib/site-packages/pip-7.1.0-py3.5.egg" />
+        <root url="file://$PYTHON_HOME$/DLLs" />
+        <root url="file://$PYTHON_HOME$/Lib" />
+        <root url="file://$PYTHON_HOME$" />
+        <root url="file://$USER_HOME$/idea_env" />
+        <root url="file://$USER_HOME$/idea_env/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-873408286" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/idea_env/Lib/site-packages/setuptools-18.1-py3.5.egg!/" />
+        <root url="file://$USER_HOME$/idea_env/Lib/site-packages/pip-7.1.0-py3.5.egg" />
+        <root url="file://$PYTHON_HOME$/DLLs" />
+        <root url="file://$PYTHON_HOME$/Lib" />
+        <root url="file://$PYTHON_HOME$" />
+        <root url="file://$USER_HOME$/idea_env" />
+        <root url="file://$USER_HOME$/idea_env/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-873408286" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
   </component>
 </application>
