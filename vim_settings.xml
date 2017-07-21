@@ -271,7 +271,7 @@
         <text>0</text>
       </register>
       <register name=":" type="4">
-        <text>exit</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -283,6 +283,8 @@
       <history-cmd>
         <entry>i</entry>
         <entry>exit</entry>
+        <entry>split</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
