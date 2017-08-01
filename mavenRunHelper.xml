@@ -67,6 +67,9 @@
             <Goal>
               <option name="commandLine" value="release:prepare" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:tree" />
+            </Goal>
           </list>
         </option>
       </Goals>
