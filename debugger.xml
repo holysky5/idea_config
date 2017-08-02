@@ -74,7 +74,7 @@
     <general />
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration captureAsyncStackTraces="false">
           <custom-object-presentation enabled="true" />
         </configuration>
       </debugger>
