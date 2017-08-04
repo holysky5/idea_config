@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Prefix" />
       <item value="not present" />
       <item value="present" />
       <item value="认识" />
@@ -50,7 +51,6 @@
       <item value="Integer" />
       <item value="Resource 进行注入" />
       <item value="z" />
-      <item value="Transfer Container Add Request" />
     </histories>
   </component>
 </application>
