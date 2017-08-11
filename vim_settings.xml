@@ -14,6 +14,9 @@
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
         <mark key="[" line="78" column="107" />
       </file>
+      <file name="E:/workspace/brandcrawler/src/js-main/branddata_regular.js" timestamp="1502432502766">
+        <mark key="[" line="326" column="36" />
+      </file>
       <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/java/com/voyageone/batch/wms/service/SynOrderToOldSynshipService.java" timestamp="1477535231721">
         <mark key="[" line="58" column="31" />
         <mark key="]" line="58" column="30" />
@@ -63,6 +66,9 @@
         <mark key="]" line="1465" column="13" />
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
+      </file>
+      <file name="E:/workspace/brandcrawler/src/main/resources/perfumesclub.co.uk_brand_result.txt" timestamp="1502432530988">
+        <mark key="'" line="532" column="289" />
       </file>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/wms/service/impl/WmsReservationServiceImpl.java" timestamp="1477880053782">
         <mark key="[" line="322" column="42" />
@@ -115,6 +121,7 @@
       <jump line="249" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
       <jump line="251" column="0" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
       <jump line="215" column="14" filename="E:/project/readfiles/file2csv.py" />
+      <jump line="532" column="289" filename="E:/workspace/brandcrawler/src/main/resources/perfumesclub.co.uk_brand_result.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
