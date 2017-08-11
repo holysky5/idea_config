@@ -1,5 +1,6 @@
 <templateSet group="java">
-  <template name="lam" value="()-&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+  <template name="lam" value="($it$)-&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="it" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
