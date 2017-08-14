@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preserve Spacing" />
       <item value="is Prefix" />
       <item value="not present" />
       <item value="present" />
@@ -50,7 +51,6 @@
       <item value="Autowired" />
       <item value="Integer" />
       <item value="Resource 进行注入" />
-      <item value="z" />
     </histories>
   </component>
 </application>
