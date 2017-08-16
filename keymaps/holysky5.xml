@@ -68,9 +68,6 @@
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl b" />
   </action>
   <action id="GoogleSearchAction" />
-  <action id="Macro.save &amp; make">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="Maven.ReimportProject">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl r" />
   </action>
@@ -91,7 +88,6 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl e" />
   </action>
-  <action id="SaveAll" />
   <action id="ShowContent" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt a" />
