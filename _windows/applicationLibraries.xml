@@ -72,7 +72,6 @@
         <root url="file://$PYTHON_HOME$" />
         <root url="file://$USER_HOME$/idea_env" />
         <root url="file://$USER_HOME$/idea_env/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-873408286" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
@@ -84,8 +83,6 @@
         <root url="file://$PYTHON_HOME$" />
         <root url="file://$USER_HOME$/idea_env" />
         <root url="file://$USER_HOME$/idea_env/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-873408286" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
   </component>
