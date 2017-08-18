@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="params Map" />
       <item value="NEWLINE" />
       <item value="preserve Spacing" />
       <item value="is Prefix" />
@@ -50,7 +51,6 @@
       <item value="sort" />
       <item value="translate" />
       <item value="Autowired" />
-      <item value="Integer" />
     </histories>
   </component>
 </application>
