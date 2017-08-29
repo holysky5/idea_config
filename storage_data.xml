@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Advice" />
       <item value="restrict" />
       <item value="params Map" />
       <item value="NEWLINE" />
@@ -50,7 +51,6 @@
       <item value="matched Detail Ids" />
       <item value="Array List" />
       <item value="sort" />
-      <item value="translate" />
     </histories>
   </component>
 </application>
