@@ -54,6 +54,9 @@
   </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorToggleInsertState" />
+  <action id="EmmetEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
