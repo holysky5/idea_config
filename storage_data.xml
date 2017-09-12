@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="merchant Id" />
       <item value="Advice" />
       <item value="restrict" />
       <item value="params Map" />
@@ -50,7 +51,6 @@
       <item value="展示字段" />
       <item value="matched Detail Ids" />
       <item value="Array List" />
-      <item value="sort" />
     </histories>
   </component>
 </application>
