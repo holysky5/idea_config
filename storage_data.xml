@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you use Update , all specified information overwrites any existing information . Any unspecified information is erased ." />
       <item value="merchant Id" />
       <item value="Advice" />
       <item value="restrict" />
@@ -50,7 +51,6 @@
       <item value="change comment" />
       <item value="展示字段" />
       <item value="matched Detail Ids" />
-      <item value="Array List" />
     </histories>
   </component>
 </application>
