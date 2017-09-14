@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diverged" />
+      <item value="ambiguous argument ' origin / dev ^{}': unknown revision or path not in the working tree ." />
       <item value="If you use Update , all specified information overwrites any existing information . Any unspecified information is erased ." />
       <item value="merchant Id" />
       <item value="Advice" />
@@ -49,8 +51,6 @@
       <item value="Retention" />
       <item value="去除底层 bean 中不必要的依赖" />
       <item value="change comment" />
-      <item value="展示字段" />
-      <item value="matched Detail Ids" />
     </histories>
   </component>
 </application>
