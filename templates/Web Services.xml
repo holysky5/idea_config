@@ -32,32 +32,6 @@
     <variable name="methodname" expression="&quot;methodname&quot;" defaultValue="&quot;methodname&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="mjo" value="try {&#10;  // create a JAXBContext capable of handling classes generated into package&#10;  javax.xml.bind.JAXBContext jaxbContext = javax.xml.bind.JAXBContext.newInstance( &quot;$mypackage$&quot; );&#10;  // create an object to marshal&#10;  $Type$ $object$ = new $Type$();&#10;  // create a Marshaller and do marshal&#10;  javax.xml.bind.Marshaller marshaller = jaxbContext.createMarshaller();&#10;  marshaller.setProperty( javax.xml.bind.Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE );&#10;  marshaller.marshal( $object$, new java.io.FileOutputStream(&quot;$filename$&quot;) );&#10;} catch( javax.xml.bind.JAXBException je ) {&#10;  je.printStackTrace();&#10;} catch( java.io.FileNotFoundException io ) {&#10;  io.printStackTrace();&#10;}" description="Generate JAXB object 2 xml serialization" toReformat="true" toShortenFQNames="false" deactivated="true">
-    <variable name="mypackage" expression="complete()" defaultValue="&quot;mypackage&quot;" alwaysStopAt="true" />
-    <variable name="Type" expression="&quot;TypeToMarshal&quot;" defaultValue="&quot;TypeToMarshal&quot;" alwaysStopAt="true" />
-    <variable name="object" expression="&quot;objectToMarshal&quot;" defaultValue="&quot;objectToMarshal&quot;" alwaysStopAt="true" />
-    <variable name="filename" expression="complete()" defaultValue="&quot;filename.xml&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="ujo" value="try {&#10;  // create a JAXBContext capable of handling classes generated into package&#10;  javax.xml.bind.JAXBContext jaxbContext = javax.xml.bind.JAXBContext.newInstance( &quot;$mypackage$&quot; );&#10;  // create an Unmarshaller&#10;  javax.xml.bind.Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();&#10;  // unmarshal an instance document into a tree of Java content&#10;  // objects composed of classes from the package.&#10;  $Type$ $object$ = ($Type$)unmarshaller.unmarshal( new java.io.FileInputStream( &quot;$filename$&quot; ) );&#10;} catch( javax.xml.bind.JAXBException je ) {&#10;  je.printStackTrace();&#10;} catch( java.io.IOException ioe ) {&#10;  ioe.printStackTrace();&#10;}" description="Generate JAXB xml 2 object serialization" toReformat="true" toShortenFQNames="false" deactivated="true">
-    <variable name="mypackage" expression="complete()" defaultValue="&quot;mypackage&quot;" alwaysStopAt="true" />
-    <variable name="Type" expression="&quot;TypeToUnmarshal&quot;" defaultValue="&quot;TypeToUnmarshal&quot;" alwaysStopAt="true" />
-    <variable name="object" expression="&quot;unmarshalledObject&quot;" defaultValue="&quot;unmarshalledObject&quot;" alwaysStopAt="true" />
-    <variable name="filename" expression="complete()" defaultValue="&quot;filename.xml&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="mxb" value="try {&#10;  $Type$ $object$ = $Type$.Factory.newInstance();&#10;  $object$.save(new java.io.File(&quot;$filename$&quot;));&#10;} catch (java.io.IOException e) {&#10;  e.printStackTrace();&#10;}" description="Generate XmlBeans object 2 xml serialization" toReformat="true" toShortenFQNames="false" deactivated="true">
-    <variable name="Type" expression="&quot;TypeToMarshal&quot;" defaultValue="&quot;TypeToMarshal&quot;" alwaysStopAt="true" />
-    <variable name="object" expression="&quot;objectToMarshal&quot;" defaultValue="&quot;objectToMarshal&quot;" alwaysStopAt="true" />
-    <variable name="filename" expression="complete()" defaultValue="&quot;filename.xml&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="uxb" value="try {&#10;  $Type$ $object$ = $Type$.Factory.parse(&#10;    new java.io.File(&quot;$filename$&quot;),&#10;    null&#10;  );&#10;} catch (java.io.IOException e) {&#10;  e.printStackTrace();&#10;} catch (org.apache.xmlbeans.XmlException e) {&#10;  e.printStackTrace();&#10;}" description="Generate XmlBeans xml 2 object deserialization" toReformat="true" toShortenFQNames="false" deactivated="true">
-    <variable name="Type" expression="&quot;TypeToUnmarshal&quot;" defaultValue="&quot;TypeToUnmarshal&quot;" alwaysStopAt="true" />
-    <variable name="object" expression="&quot;unmarshalledObject&quot;" defaultValue="&quot;unmarshalledObject&quot;" alwaysStopAt="true" />
-    <variable name="filename" expression="complete()" defaultValue="&quot;filename.xml&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="itaws" value="try {&#10;  $WebServiceStub$ $stub$ = new $WebServiceStub$();&#10;  $stub$.$businessMethod$($END$);&#10;} catch(Exception ex) { ex.printStackTrace(); }&#10;" description="Generate Axis2 web service invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="WebServiceStub" expression="descendantClassesEnum(&quot;org.apache.axis2.client.Stub&quot;)" defaultValue="&quot;MyServiceStub&quot;" alwaysStopAt="true" />
     <variable name="stub" expression="&quot;stub&quot;" defaultValue="&quot;stub&quot;" alwaysStopAt="true" />
