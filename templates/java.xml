@@ -38,4 +38,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="json2beanList" value="objectMapper.readValue(json, objectMapper.getTypeFactory().constructCollectionType(List.class, $class$.class))" description="json to bean list" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
