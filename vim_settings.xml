@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/stocktakeMapper.xml" timestamp="1464578880362">
@@ -73,6 +73,11 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="4" />
         <mark key="." line="86" column="4" />
+      </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/Item.java" timestamp="1506316980305">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
       </file>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/wms/service/impl/WmsPickupServiceImpl.java" timestamp="1466575544954">
         <mark key="[" line="579" column="45" />
@@ -147,7 +152,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>_</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -200,7 +205,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>_</text>
       </register>
       <register name="1" type="4">
         <text>0@bjk</text>
