@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.pom</mask>
       <mask>properties</mask>
@@ -21,7 +22,6 @@
       <mask>.tx</mask>
       <mask>.txt</mask>
       <mask>*.txt</mask>
-      <mask>*</mask>
       <mask>p.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
@@ -29,12 +29,13 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.ts</mask>
       <mask>*.ts\</mask>
-      <mask>*.t</mask>
       <mask>*.tj</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
