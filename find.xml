@@ -4,16 +4,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.pom</mask>
-      <mask>properties</mask>
-      <mask>.java</mask>
-      <mask>pom</mask>
       <mask>java</mask>
       <mask>xml</mask>
       <mask>*.properties</mask>
-      <mask>*.ja</mask>
       <mask>*.xmo</mask>
       <mask>.</mask>
       <mask>.t</mask>
@@ -24,8 +19,6 @@
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.ts\</mask>
       <mask>*.tj</mask>
@@ -33,9 +26,16 @@
       <mask>*</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.p</mask>
+      <mask>*.po</mask>
+      <mask>*.pom</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
