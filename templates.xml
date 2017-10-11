@@ -326,6 +326,10 @@
           <option name="groupName" value="spring" />
           <option name="key" value="httpServerFactoryBean" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="scala" />
+          <option name="key" value="priv" />
+        </TemplateKey>
       </list>
     </option>
   </component>
