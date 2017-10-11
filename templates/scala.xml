@@ -11,4 +11,30 @@
     <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="lam" value="()=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="lam1" value="($VAR1$)=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="scala_typeOfVariable" defaultValue="el" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="lam2" value="($VAR1$,$VAR2$)=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="scalaVariableOfType(&quot;&quot;)" defaultValue="a" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="b" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="lam3" value="($VAR1$,$VAR2$,$VAR3$)=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="scalaVariableOfType" defaultValue="a" alwaysStopAt="true" />
+    <variable name="VAR2" expression="scalaVariableOfType" defaultValue="b" alwaysStopAt="true" />
+    <variable name="VAR3" expression="scalaVariableOfType" defaultValue="c" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
 </templateSet>
