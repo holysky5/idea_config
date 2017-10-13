@@ -11,7 +11,8 @@
     <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="lam" value="()=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+  <template name="lam" value="($START$)=&gt;$END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="SCALA" value="true" />
     </context>
