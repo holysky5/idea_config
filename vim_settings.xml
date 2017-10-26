@@ -8,19 +8,6 @@
         <mark key="]" line="445" column="14" />
         <mark key="." line="445" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464578847716">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
-        <mark key="[" line="78" column="107" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/payload/SplItemsBean.java" timestamp="1506317774874">
-        <mark key="'" line="39" column="26" />
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="38" column="38" />
-      </file>
       <file name="E:/workspace/brandcrawler/src/js-main/branddata_regular.js" timestamp="1502432502766">
         <mark key="[" line="326" column="36" />
       </file>
@@ -29,12 +16,6 @@
         <mark key="]" line="1465" column="13" />
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
-      </file>
-      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/java/com/voyageone/batch/wms/service/SynOrderToOldSynshipService.java" timestamp="1477535231721">
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="58" column="30" />
       </file>
       <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/resources/applicationContext-wms.xml" timestamp="1478153193502">
         <mark key="[" line="14" column="121" />
@@ -45,23 +26,11 @@
       <file name="/a.dummy" timestamp="1464578847723">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" timestamp="1464598126741">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="141" column="28" />
-        <mark key="]" line="141" column="28" />
-        <mark key="^" line="141" column="28" />
-        <mark key="." line="141" column="28" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/427e52f5-a8e0-4079-affe-ce0857d9bb27/console.sql" timestamp="1490334539185">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="39" column="54" />
         <mark key="^" line="49" column="9" />
         <mark key="." line="39" column="54" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/src/com/company/Main.java" timestamp="1460352768277">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="E:/project/readfiles/file2csv.py" timestamp="1477457123013">
         <mark key="'" line="215" column="14" />
@@ -76,16 +45,47 @@
         <mark key="." line="293" column="19" />
         <mark key="^" line="293" column="19" />
       </file>
-      <file name="E:/project/voyageone-parent/voyageone-service2/voyageone-service2-impl/src/test/java/com/voyageone/service/impl/cms/jumei/CmsBtJmPromotionServiceTest.java" timestamp="1461556478962">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="4" />
-        <mark key="." line="86" column="4" />
-      </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/Item.java" timestamp="1506317040378">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="17" />
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1464578847716">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
+        <mark key="[" line="78" column="107" />
+      </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/payload/SplItemsBean.java" timestamp="1506317774874">
+        <mark key="'" line="39" column="26" />
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="38" column="38" />
+      </file>
+      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/java/com/voyageone/batch/wms/service/SynOrderToOldSynshipService.java" timestamp="1477535231721">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="58" column="30" />
+        <mark key="." line="58" column="30" />
+        <mark key="^" line="58" column="30" />
+      </file>
+      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" timestamp="1464598126741">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="141" column="28" />
+        <mark key="]" line="141" column="28" />
+        <mark key="^" line="141" column="28" />
+        <mark key="." line="141" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled1/src/com/company/Main.java" timestamp="1460352768277">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="E:/project/voyageone-parent/voyageone-service2/voyageone-service2-impl/src/test/java/com/voyageone/service/impl/cms/jumei/CmsBtJmPromotionServiceTest.java" timestamp="1461556478962">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="4" />
+        <mark key="." line="86" column="4" />
       </file>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/wms/service/impl/WmsPickupServiceImpl.java" timestamp="1466575544954">
         <mark key="[" line="579" column="45" />
@@ -103,6 +103,12 @@
         <mark key="]" line="63" column="38" />
         <mark key="^" line="63" column="38" />
         <mark key="." line="63" column="38" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/StyleNoUtils.java" timestamp="1509024825731">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
       </file>
       <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/test/java/com/voyageone/batch/synship/dao/TrackingDaoTest.java" timestamp="1466478461940">
         <mark key="[" line="31" column="14" />
