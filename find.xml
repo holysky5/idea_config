@@ -2,10 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>java</mask>
       <mask>xml</mask>
       <mask>*.properties</mask>
       <mask>*.xmo</mask>
@@ -19,22 +21,23 @@
       <mask>*.ts\</mask>
       <mask>*.tj</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.po</mask>
       <mask>*.pom</mask>
-      <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>.xml</mask>
       <mask>p.xml</mask>
       <mask>pom.xml</mask>
+      <mask>*,</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
