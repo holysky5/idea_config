@@ -9,6 +9,7 @@
     <resource url="http://www.springframework.org/schema/data/mongo" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/73ef5832_spring-mongo.xsd" />
     <resource url="http://www.springframework.org/schema/data/repository/spring-repository.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/977a1048_spring-repository.xsd" />
     <resource url="http://www.springframework.org/schema/data/solr" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/d48fcbb8_spring-solr.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/769d3afd_spring-task-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/5f7618a3_spring-tool-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/946a6b65_spring-tool-4.3.xsd" />
   </component>
