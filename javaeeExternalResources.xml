@@ -12,5 +12,6 @@
     <resource url="http://www.springframework.org/schema/task/spring-task-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/769d3afd_spring-task-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/5f7618a3_spring-tool-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/ddbdc277_spring-util-3.2.xsd" />
   </component>
 </application>
