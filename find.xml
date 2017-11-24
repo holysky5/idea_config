@@ -4,8 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.p</mask>
       <mask>*.po</mask>
@@ -15,10 +15,6 @@
       <mask>pom.xml</mask>
       <mask>*,</mask>
       <mask>*.x</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>hjt</mask>
       <mask>hj</mask>
       <mask>h</mask>
@@ -32,9 +28,14 @@
       <mask>*.ujav</mask>
       <mask>*.uj</mask>
       <mask>*.u</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.xm,</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
