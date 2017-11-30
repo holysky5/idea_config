@@ -10,6 +10,7 @@
       <mapping pattern=".default-cli-xjcStaleFlag" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="jquery_validate_doc" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
