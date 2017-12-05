@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="solr Dist Product Dao" />
       <item value="diverged" />
       <item value="ambiguous argument ' origin / dev ^{}': unknown revision or path not in the working tree ." />
       <item value="If you use Update , all specified information overwrites any existing information . Any unspecified information is erased ." />
@@ -50,7 +51,6 @@
       <item value="Documented" />
       <item value="Retention" />
       <item value="去除底层 bean 中不必要的依赖" />
-      <item value="change comment" />
     </histories>
   </component>
 </application>
