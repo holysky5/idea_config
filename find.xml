@@ -4,18 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.wxss" />
     <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.p</mask>
-      <mask>*.po</mask>
-      <mask>*.pom</mask>
-      <mask>.xml</mask>
-      <mask>p.xml</mask>
-      <mask>pom.xml</mask>
-      <mask>*,</mask>
-      <mask>hjt</mask>
-      <mask>hj</mask>
-      <mask>h</mask>
       <mask>.html</mask>
       <mask>.htm</mask>
       <mask>.ht</mask>
@@ -27,14 +17,25 @@
       <mask>*.uj</mask>
       <mask>*.u</mask>
       <mask>*.xm,</mask>
-      <mask>*.jav</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.ba</mask>
+      <mask>*.bac</mask>
+      <mask>*.bacm,</mask>
+      <mask>*.bacm]</mask>
+      <mask>*.bacm]==</mask>
+      <mask>*.bacm]=</mask>
+      <mask>*.b</mask>
+      <mask>*.</mask>
+      <mask>*.w</mask>
+      <mask>*.wx</mask>
+      <mask>*.wxs</mask>
+      <mask>*.wxss</mask>
     </recentFileMasks>
   </component>
 </application>
