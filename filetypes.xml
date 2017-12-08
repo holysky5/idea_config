@@ -14,6 +14,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="html_back" type="PLAIN_TEXT" />
       <mapping ext="validation" type="PLAIN_TEXT" />
