@@ -7,10 +7,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.ht</mask>
-      <mask>.h</mask>
-      <mask>.</mask>
-      <mask>*</mask>
       <mask>*.uja</mask>
       <mask>*.ujav</mask>
       <mask>*.uj</mask>
@@ -33,10 +29,14 @@
       <mask>*.wxs</mask>
       <mask>*.wx</mask>
       <mask>*.w</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js'</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.pom</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
