@@ -8,6 +8,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="javax.management.Query" />
     <EXCLUDED_PACKAGE NAME="org.glassfish" />
     <EXCLUDED_PACKAGE NAME="sun.misc.IOUtils" />
   </component>
