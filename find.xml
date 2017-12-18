@@ -3,23 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.uj</mask>
-      <mask>*.u</mask>
-      <mask>*.xm,</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.ba</mask>
-      <mask>*.bac</mask>
       <mask>*.bacm,</mask>
       <mask>*.bacm]</mask>
       <mask>*.bacm]==</mask>
@@ -30,15 +18,26 @@
       <mask>*.wx</mask>
       <mask>*.w</mask>
       <mask>*.js'</mask>
-      <mask>*.j</mask>
       <mask>*.pom</mask>
       <mask>*.po</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>.</mask>
       <mask>.js</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.property</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
