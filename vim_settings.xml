@@ -140,6 +140,11 @@
         <mark key="^" line="533" column="7" />
         <mark key="." line="533" column="7" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" timestamp="1514189295005">
+        <mark key="[" line="490" column="25" />
+        <mark key="]" line="490" column="26" />
+        <mark key="." line="490" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="118" column="12" filename="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" />
