@@ -125,6 +125,12 @@
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/bean/SchemaRequest.java" timestamp="1500359958500">
         <mark key="[" line="57" column="8" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/api/controller/DistBrandController.java" timestamp="1514176562646">
+        <mark key="[" line="32" column="61" />
+        <mark key="]" line="32" column="62" />
+        <mark key="^" line="32" column="62" />
+        <mark key="." line="32" column="62" />
+      </file>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/locationMapper.xml" timestamp="1464846876617">
         <mark key="[" line="533" column="56" />
         <mark key="]" line="533" column="7" />
@@ -361,6 +367,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
