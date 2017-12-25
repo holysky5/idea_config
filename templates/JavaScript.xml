@@ -18,7 +18,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="fun" value="funtion(){&#10;$END$&#10;}" description="new function" toReformat="false" toShortenFQNames="true">
+  <template name="fun" value="function(){&#10;$END$&#10;}" description="new function" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
