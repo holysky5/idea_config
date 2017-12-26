@@ -6,9 +6,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.pom</mask>
-      <mask>*.po</mask>
       <mask>.</mask>
       <mask>.js</mask>
       <mask>*.p</mask>
@@ -31,12 +30,14 @@
       <mask>js</mask>
       <mask>j</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
