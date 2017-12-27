@@ -140,10 +140,10 @@
         <mark key="^" line="533" column="7" />
         <mark key="." line="533" column="7" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" timestamp="1514192104856">
-        <mark key="[" line="439" column="0" />
-        <mark key="]" line="439" column="3" />
-        <mark key="." line="439" column="3" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" timestamp="1514353682983">
+        <mark key="[" line="149" column="38" />
+        <mark key="]" line="149" column="38" />
+        <mark key="." line="149" column="38" />
         <mark key="^" line="439" column="3" />
       </file>
     </filemarks>
@@ -182,7 +182,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>com</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -235,7 +235,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IHBlbmRpbmdDaGFuZ2VzOwo=</text>
@@ -382,6 +382,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
