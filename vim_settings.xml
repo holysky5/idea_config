@@ -17,6 +17,12 @@
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/recommand/views/RecommandController.java" timestamp="1514549639066">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="76" column="50" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/resources/applicationContext-wms.xml" timestamp="1478153193502">
         <mark key="[" line="14" column="121" />
         <mark key="]" line="15" column="7" />
@@ -201,7 +207,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -254,34 +260,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>brand</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgICAgIFJhbmdlPEludGVnZXI+IHJhbmdlID0gUmFuZ2Uub3BlbkNsb3NlZCgxLCAxMCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IHBlbmRpbmdDaGFuZ2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbkZhaWwoIs3GvPbK/b7dvtu6z8qnsNwiLHJjLGUpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>0@bjk</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjZi5zZXRIYW5kbGVyKChhciktPnsKICAgICAgICAgICAgICAgIGpzb25TdWNjZXNzKCLNxrz2yv2+3b7bus+zybmmIixwYXlsb2FkLHJjKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>'</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgICAgIFJhbmdlPEludGVnZXI+IHJhbmdlID0gUmFuZ2Uub3BlbkNsb3NlZCgxLCAxMCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -337,11 +343,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IHBlbmRpbmdDaGFuZ2VzOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>0@bjk</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
