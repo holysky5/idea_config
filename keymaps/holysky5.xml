@@ -53,9 +53,6 @@
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="insert" />
@@ -120,7 +117,6 @@
   <action id="TabSwitcherExtreme.NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
-  <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
