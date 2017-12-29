@@ -63,6 +63,9 @@
   <action id="Git.CreateNewBranch">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl b" />
   </action>
+  <action id="Github.Create.Gist">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl g" />
+  </action>
   <action id="GoogleSearchAction" />
   <action id="Maven.ReimportProject">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl r" />
