@@ -3,6 +3,11 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/stocktakeMapper.xml" timestamp="1464578880362">
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="445" column="14" />
+        <mark key="." line="445" column="14" />
+      </file>
       <file name="E:/workspace/brandcrawler/src/js-main/branddata_regular.js" timestamp="1502432502766">
         <mark key="[" line="326" column="36" />
       </file>
@@ -75,6 +80,21 @@
         <mark key="^" line="141" column="28" />
         <mark key="." line="141" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled1/src/com/company/Main.java" timestamp="1460352768277">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="E:/project/voyageone-parent/voyageone-service2/voyageone-service2-impl/src/test/java/com/voyageone/service/impl/cms/jumei/CmsBtJmPromotionServiceTest.java" timestamp="1461556478962">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="4" />
+        <mark key="." line="86" column="4" />
+      </file>
+      <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/wms/service/impl/WmsPickupServiceImpl.java" timestamp="1466575544954">
+        <mark key="[" line="579" column="45" />
+        <mark key="]" line="579" column="45" />
+        <mark key="." line="579" column="45" />
+      </file>
       <file name="E:/workspace/brandcrawler/src/main/resources/perfumesclub.co.uk_brand_result.txt" timestamp="1502432530988">
         <mark key="'" line="532" column="289" />
       </file>
@@ -92,6 +112,12 @@
         <mark key="]" line="15" column="26" />
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/CategoriesService.java" timestamp="1514532943763">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/test/java/com/voyageone/batch/synship/dao/TrackingDaoTest.java" timestamp="1466478461940">
         <mark key="[" line="31" column="14" />
@@ -120,11 +146,23 @@
         <mark key="^" line="533" column="7" />
         <mark key="." line="533" column="7" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/recommand/greatest-brand.html" timestamp="1514533252950">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="73" />
+        <mark key="]" line="71" column="62" />
+        <mark key="^" line="71" column="62" />
+        <mark key="." line="71" column="62" />
+      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" timestamp="1514353682983">
         <mark key="[" line="149" column="38" />
         <mark key="]" line="149" column="38" />
         <mark key="." line="149" column="38" />
         <mark key="^" line="439" column="3" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/dao/mongodb/model/DistGreatestBrandModuleModel.java" timestamp="1514532781460">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -143,6 +181,7 @@
       <jump line="215" column="14" filename="E:/project/readfiles/file2csv.py" />
       <jump line="532" column="289" filename="E:/workspace/brandcrawler/src/main/resources/perfumesclub.co.uk_brand_result.txt" />
       <jump line="39" column="26" filename="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/payload/SplItemsBean.java" />
+      <jump line="0" column="0" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/recommand/greatest-brand.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -161,8 +200,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -217,29 +256,32 @@
       <register name="-" type="4">
         <text>com</text>
       </register>
+      <register name="/" type="4">
+        <text>brand</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IHBlbmRpbmdDaGFuZ2VzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
-      <register name="2" type="4">
-        <text>0@bjk</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgICAgIFJhbmdlPEludGVnZXI+IHJhbmdlID0gUmFuZ2Uub3BlbkNsb3NlZCgxLCAxMCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IHBlbmRpbmdDaGFuZ2VzOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>0@bjk</text>
       </register>
       <register name="5" type="4">
         <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>,</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -296,21 +338,26 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>@</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>brand</last-search>
+      <last-offset />
+      <last-pattern>brand</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>brand</entry>
+      </history-search>
       <history-cmd>
         <entry>i</entry>
         <entry>exit</entry>
