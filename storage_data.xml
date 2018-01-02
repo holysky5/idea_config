@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Autowired" />
       <item value="solr Dist Product Dao" />
       <item value="diverged" />
       <item value="ambiguous argument ' origin / dev ^{}': unknown revision or path not in the working tree ." />
@@ -50,7 +51,6 @@
       <item value="机制" />
       <item value="Documented" />
       <item value="Retention" />
-      <item value="去除底层 bean 中不必要的依赖" />
     </histories>
   </component>
 </application>
