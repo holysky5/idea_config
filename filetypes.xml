@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
+      <mapping pattern="vue-template.html" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="sitemesh3.xml" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
