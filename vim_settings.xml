@@ -17,6 +17,7 @@
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
       </file>
+      <file name="/index-new.html" timestamp="1515046573740" />
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/recommand/views/RecommandController.java" timestamp="1514549639066">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -192,11 +193,12 @@
         <mark key="^" line="63" column="115" />
         <mark key="." line="60" column="16" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" timestamp="1514353682983">
-        <mark key="[" line="149" column="38" />
-        <mark key="]" line="149" column="38" />
-        <mark key="." line="149" column="38" />
-        <mark key="^" line="439" column="3" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" timestamp="1515047293996">
+        <mark key="'" line="142" column="8" />
+        <mark key="[" line="169" column="28" />
+        <mark key="]" line="169" column="28" />
+        <mark key="." line="169" column="28" />
+        <mark key="^" line="169" column="15" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/dao/mongodb/model/DistGreatestBrandModuleModel.java" timestamp="1514532781460">
         <mark key="[" line="67" column="0" />
@@ -222,6 +224,12 @@
       <jump line="39" column="26" filename="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/payload/SplItemsBean.java" />
       <jump line="0" column="0" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/recommand/greatest-brand.html" />
       <jump line="823" column="5" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.6.RELEASE/spring-data-mongodb-1.9.6.RELEASE-sources.jar!/org/springframework/data/mongodb/core/convert/MappingMongoConverter.java" />
+      <jump line="159" column="22" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" />
+      <jump line="164" column="32" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" />
+      <jump line="158" column="23" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" />
+      <jump line="117" column="19" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" />
+      <jump line="251" column="8" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" />
+      <jump line="142" column="8" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/index-new.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -241,7 +249,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ite</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -294,10 +302,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ite</text>
       </register>
       <register name="/" type="4">
-        <text>brand</text>
+        <text encoding="base64">XDx0b2RheVJlY29tbWFuZE5hdlw+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -388,15 +396,16 @@
       </register>
     </registers>
     <search>
-      <last-search>brand</last-search>
+      <last-search encoding="base64">XDx0b2RheVJlY29tbWFuZE5hdlw+</last-search>
       <last-offset />
-      <last-pattern>brand</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx0b2RheVJlY29tbWFuZE5hdlw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>brand</entry>
+        <entry encoding="base64">XDx0b2RheVJlY29tbWFuZE5hdlw+</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
