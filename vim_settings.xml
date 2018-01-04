@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/stocktakeMapper.xml" timestamp="1464578880362">
@@ -122,6 +122,7 @@
         <mark key="]" line="579" column="45" />
         <mark key="." line="579" column="45" />
       </file>
+      <file name="/solr-config.xml" timestamp="1515043011308" />
       <file name="E:/workspace/brandcrawler/src/main/resources/perfumesclub.co.uk_brand_result.txt" timestamp="1502432530988">
         <mark key="'" line="532" column="289" />
       </file>
@@ -134,10 +135,10 @@
         <mark key="^" line="365" column="54" />
         <mark key="." line="365" column="54" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-task/task-dist/src/main/resources/conf/solr-config.xml" timestamp="1515039346820">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="E:/workspace/voyageone-distribution/distribution-task/task-dist/src/main/resources/conf/solr-config.xml" timestamp="1515042973136">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="E:/project/ecerp-common-parent/ecerp-common-components/ecerp-data/ecerp-data-mongo/src/test/java/com/voyageone/common/mongodb/JongoDaoTest.java" timestamp="1492760675697">
         <mark key="[" line="63" column="53" />
@@ -239,8 +240,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -293,7 +294,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>brand</text>
