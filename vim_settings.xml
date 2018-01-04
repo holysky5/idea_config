@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/stocktakeMapper.xml" timestamp="1464578880362">
@@ -134,6 +134,12 @@
         <mark key="^" line="365" column="54" />
         <mark key="." line="365" column="54" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-task/task-dist/src/main/resources/conf/solr-config.xml" timestamp="1515037732100">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+      </file>
       <file name="E:/project/ecerp-common-parent/ecerp-common-components/ecerp-data/ecerp-data-mongo/src/test/java/com/voyageone/common/mongodb/JongoDaoTest.java" timestamp="1492760675697">
         <mark key="[" line="63" column="53" />
         <mark key="]" line="63" column="38" />
@@ -235,7 +241,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>is</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -288,7 +294,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>is</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>brand</text>
