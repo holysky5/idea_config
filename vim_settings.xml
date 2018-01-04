@@ -107,11 +107,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/SearchService.java" timestamp="1514971850985">
-        <mark key="[" line="85" column="15" />
-        <mark key="]" line="85" column="16" />
-        <mark key="." line="85" column="16" />
-        <mark key="^" line="85" column="16" />
+      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/SearchService.java" timestamp="1515050558850">
+        <mark key="[" line="122" column="25" />
+        <mark key="]" line="128" column="36" />
+        <mark key="^" line="128" column="36" />
+        <mark key="." line="128" column="36" />
       </file>
       <file name="E:/project/voyageone-parent/voyageone-service2/voyageone-service2-impl/src/test/java/com/voyageone/service/impl/cms/jumei/CmsBtJmPromotionServiceTest.java" timestamp="1461556478962">
         <mark key="[" line="86" column="0" />
@@ -248,8 +248,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ite</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -302,7 +302,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ite</text>
+        <text>getDiscount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RheVJlY29tbWFuZE5hdlw+</text>
@@ -317,19 +317,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheWxvYWQucHV0KCJsZXR0ZXJCcmFuZEdyb3VwIiwgYXIucmVzdWx0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYW5nZS51cHBlckVuZHBvaW50KCksIHRydWUsIGZhbHNlKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgY29tcGxldGVGdXR1cmUoZnV0dXJlMixhcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuYWRkQ3JpdGVyaWEod2hlcmUoImRpc2NvdW50IikuYmV0d2VlbihyYW5nZS5sb3dlckVuZHBvaW50KCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPiA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGFuZ2VyIiBAY2xpY2s9ImRlbGV0ZUl0ZW0oaW5kZXgpIj7JvrP9PC9idXR0b24+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmFuZ2U8SW50ZWdlcj4gcmFuZ2UgPSByZXNvdmVEaXNjb3VudFJhbmdlKHJlcS5nZXREaXNjb3VudCgpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -386,10 +386,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpoZGRkZGsiKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAoKSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
