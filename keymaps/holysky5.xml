@@ -64,6 +64,9 @@
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl g" />
   </action>
   <action id="GoogleSearchAction" />
+  <action id="Macro.save &amp; make">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="Maven.ReimportProject">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl r" />
   </action>
@@ -136,6 +139,7 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="com.xiaohansong.codemaker.action.DocGenerateAction" />
   <action id="org.intellij.ideaplugins.tabswitch.action.NextTabAction">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
