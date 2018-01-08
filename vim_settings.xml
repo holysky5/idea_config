@@ -3,12 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" timestamp="1515141761434">
-        <mark key="'" line="82" column="8" />
-        <mark key="[" line="34" column="57" />
-        <mark key="]" line="35" column="23" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" timestamp="1515382143597">
+        <mark key="'" line="108" column="32" />
+        <mark key="[" line="307" column="8" />
+        <mark key="]" line="307" column="10" />
         <mark key="^" line="35" column="23" />
-        <mark key="." line="35" column="23" />
+        <mark key="." line="307" column="8" />
       </file>
       <file name="E:/workspace/brandcrawler/src/js-main/branddata_regular.js" timestamp="1502432502766">
         <mark key="[" line="326" column="36" />
@@ -31,18 +31,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.9.6.RELEASE/spring-data-mongodb-1.9.6.RELEASE-sources.jar!/org/springframework/data/mongodb/core/convert/MappingMongoConverter.java" timestamp="1514946253394">
         <mark key="'" line="823" column="5" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/dao/mongodb/DistProductInfoDao.java" timestamp="1515382426865" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/427e52f5-a8e0-4079-affe-ce0857d9bb27/console.sql" timestamp="1490334539185">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="39" column="54" />
         <mark key="^" line="49" column="9" />
         <mark key="." line="39" column="54" />
-      </file>
-      <file name="E:/project/readfiles/file2csv.py" timestamp="1477457123013">
-        <mark key="'" line="215" column="14" />
-        <mark key="[" line="247" column="13" />
-        <mark key="]" line="247" column="14" />
-        <mark key="^" line="247" column="14" />
-        <mark key="." line="247" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a17f433-5d7f-4a74-8ba0-e43c06246a48/console.sql" timestamp="1471514894934">
         <mark key="[" line="293" column="18" />
@@ -62,13 +56,6 @@
         <mark key="^" line="29" column="39" />
         <mark key="." line="27" column="62" />
       </file>
-      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/main/java/com/voyageone/mybatis/mappers/synship/OrderMapper.xml" timestamp="1464598126741">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="141" column="28" />
-        <mark key="]" line="141" column="28" />
-        <mark key="^" line="141" column="28" />
-        <mark key="." line="141" column="28" />
-      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/SearchService.java" timestamp="1515050558850">
         <mark key="[" line="122" column="25" />
         <mark key="]" line="128" column="36" />
@@ -81,6 +68,7 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="/solr-config.xml" timestamp="1515043011308" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/service/DistProductAddService.java" timestamp="1515382345688" />
       <file name="E:/workspace/brandcrawler/src/main/resources/perfumesclub.co.uk_brand_result.txt" timestamp="1502432530988">
         <mark key="'" line="532" column="289" />
       </file>
@@ -175,13 +163,6 @@
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
         <mark key="[" line="78" column="107" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/payload/SplItemsBean.java" timestamp="1506317774874">
-        <mark key="'" line="39" column="26" />
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="38" column="38" />
-      </file>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/wms/service/impl/WmsReservationServiceImpl.java" timestamp="1477880053782">
         <mark key="[" line="322" column="42" />
       </file>
@@ -219,13 +200,6 @@
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/webroot/styles/product-filter.css" timestamp="1515140992091">
         <mark key="'" line="28" column="30" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/recommand/greatest-brand.html" timestamp="1514877495261">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="60" column="16" />
-        <mark key="^" line="63" column="115" />
-        <mark key="." line="60" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -268,6 +242,8 @@
       <jump line="82" column="8" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
       <jump line="311" column="6" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/webroot/js/lib/vue/vue-tree.js" />
       <jump line="0" column="1" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/webroot/js/lib/vue/vue-tree.js" />
+      <jump line="307" column="19" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="108" column="32" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -286,8 +262,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$(&quot;.brand .more button&quot;).click(function() {
+            if($(&quot;.brand&quot;).hasClass(&quot;brand-h&quot;)){
+                $(&quot;.brand&quot;).removeClass(&quot;brand-h&quot;)
+            }else{
+                $(&quot;.brand&quot;).addClass(&quot;brand-h&quot;)
+            }
+        })</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -343,10 +325,16 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jdGlvblw+</text>
+        <text encoding="base64">XDxtb3JlXD4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>$(&quot;.brand .more button&quot;).click(function() {
+            if($(&quot;.brand&quot;).hasClass(&quot;brand-h&quot;)){
+                $(&quot;.brand&quot;).removeClass(&quot;brand-h&quot;)
+            }else{
+                $(&quot;.brand&quot;).addClass(&quot;brand-h&quot;)
+            }
+        })</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
@@ -355,19 +343,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS08YSBocmVmPSIiIGNsYXNzPSJsb2dpbiI+tcfCvDwvYT4tLT4KPCEtLTwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLTxkaXYgY2xhcy1jb250ZW50Ij4tLT4K</text>
+        <text encoding="base64">ICAgIDwhLS08YSBocmVmPSIiIGNsYXNzPSJsb2dpbiI+tcfCvDwvYT4tLT4KPCEtLTwvZGl2Pi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLTxkaXYgY2xhcy1jb250ZW50Ij4tLT4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -424,19 +412,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYW5nZS51cHBlckVuZHBvaW50KCksIHRydWUsIGZhbHNlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5jdGlvblw+</last-search>
+      <last-search encoding="base64">XDxtb3JlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxtb3JlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -446,6 +434,7 @@
         <entry encoding="base64">XDx0b2RheVJlY29tbWFuZE5hdlw+</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry encoding="base64">XDxtb3JlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
