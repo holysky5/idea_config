@@ -44,6 +44,11 @@
         <mark key="." line="293" column="19" />
         <mark key="^" line="293" column="19" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/CategoryService.java" timestamp="1515473659878">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistProductHtmlController.java" timestamp="1515383559972">
         <mark key="[" line="230" column="47" />
         <mark key="]" line="230" column="48" />
@@ -269,7 +274,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0aW5nQ29udGV4dC5yZXNwb25zZSgpLnB1dEhlYWRlcigibG9jYXRpb24iLCAiL215L3Byb2QtbGlzdC1kaXN0Iikuc2V0U3RhdHVzQ29kZSgzMDIpLmVuZCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENBVEVHT1JZX1JPT1RfSUQgPSAiMCI7Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -328,18 +333,24 @@
         <text encoding="base64">XDxtb3JlXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0aW5nQ29udGV4dC5yZXNwb25zZSgpLnB1dEhlYWRlcigibG9jYXRpb24iLCAiL215L3Byb2QtbGlzdC1kaXN0Iikuc2V0U3RhdHVzQ29kZSgzMDIpLmVuZCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENBVEVHT1JZX1JPT1RfSUQgPSAiMCI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENBVEVHT1JZX1JPT1RfSUQgPSAiMCI7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByb3V0aW5nQ29udGV4dC5yZXNwb25zZSgpLnB1dEhlYWRlcigibG9jYXRpb24iLCAiL215L3Byb2QtbGlzdC1kaXN0Iikuc2V0U3RhdHVzQ29kZSgzMDIpLmVuZCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>$(&quot;.brand .more button&quot;).click(function() {
             if($(&quot;.brand&quot;).hasClass(&quot;brand-h&quot;)){
                 $(&quot;.brand&quot;).removeClass(&quot;brand-h&quot;)
@@ -348,14 +359,8 @@
             }
         })</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08YSBocmVmPSIiIGNsYXNzPSJsb2dpbiI+tcfCvDwvYT4tLT4KPCEtLTwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -412,10 +417,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLTxkaXYgY2xhcy1jb250ZW50Ij4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08YSBocmVmPSIiIGNsYXNzPSJsb2dpbiI+tcfCvDwvYT4tLT4KPCEtLTwvZGl2Pi0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
