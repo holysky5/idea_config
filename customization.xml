@@ -42,6 +42,13 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Grails" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Kotlin.new.activity" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -52,6 +59,13 @@
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <path value="Web Page" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="WebResourcesGroup" is_group="true" action_type="-1" position="1">
