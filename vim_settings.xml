@@ -3,12 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" timestamp="1515383778220">
-        <mark key="'" line="108" column="32" />
-        <mark key="[" line="308" column="0" />
-        <mark key="]" line="308" column="1" />
-        <mark key="^" line="35" column="23" />
-        <mark key="." line="308" column="1" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" timestamp="1516591957178">
+        <mark key="'" line="255" column="35" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="129" column="127" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/service/DistProductsInDistService.java" timestamp="1515581482750">
         <mark key="[" line="105" column="42" />
@@ -96,7 +96,7 @@
         <mark key="^" line="281" column="16" />
         <mark key="." line="281" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515141520877">
+      <file name="/Dummy.txt" timestamp="1516591815708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
@@ -120,11 +120,10 @@
         <mark key="." line="293" column="19" />
         <mark key="^" line="293" column="19" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/SearchService.java" timestamp="1515050558850">
-        <mark key="[" line="122" column="25" />
-        <mark key="]" line="128" column="36" />
-        <mark key="^" line="128" column="36" />
-        <mark key="." line="128" column="36" />
+      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/SearchService.java" timestamp="1516591510031">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/voyageone/web/distribution/core/dao/mongodb/DistCategoryTreeDaoTest.java" timestamp="1515121109930">
         <mark key="[" line="29" column="0" />
@@ -259,6 +258,22 @@
       <jump line="0" column="1" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/webroot/js/lib/vue/vue-tree.js" />
       <jump line="307" column="19" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
       <jump line="108" column="32" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="129" column="102" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="130" column="97" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="131" column="103" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="363" column="40" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="428" column="20" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="431" column="20" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="449" column="22" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="448" column="22" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="424" column="46" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="423" column="50" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="422" column="32" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="346" column="21" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="275" column="50" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="274" column="32" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="256" column="41" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
+      <jump line="255" column="35" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -278,7 +293,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENBVEVHT1JZX1JPT1RfSUQgPSAiMCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -331,40 +346,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>格</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb3JlXD4=</text>
+        <text>price</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicHJpY2UiOltwcm9wKydfYXNjJyxwcm9wKydfZGVzYycsJyddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENBVEVHT1JZX1JPT1RfSUQgPSAiMCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENBVEVHT1JZX1JPT1RfSUQgPSAiMCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0aW5nQ29udGV4dC5yZXNwb25zZSgpLnB1dEhlYWRlcigibG9jYXRpb24iLCAiL215L3Byb2QtbGlzdC1kaXN0Iikuc2V0U3RhdHVzQ29kZSgzMDIpLmVuZCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENBVEVHT1JZX1JPT1RfSUQgPSAiMCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENBVEVHT1JZX1JPT1RfSUQgPSAiMCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICByb3V0aW5nQ29udGV4dC5yZXNwb25zZSgpLnB1dEhlYWRlcigibG9jYXRpb24iLCAiL215L3Byb2QtbGlzdC1kaXN0Iikuc2V0U3RhdHVzQ29kZSgzMDIpLmVuZCgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>$(&quot;.brand .more button&quot;).click(function() {
-            if($(&quot;.brand&quot;).hasClass(&quot;brand-h&quot;)){
-                $(&quot;.brand&quot;).removeClass(&quot;brand-h&quot;)
-            }else{
-                $(&quot;.brand&quot;).addClass(&quot;brand-h&quot;)
-            }
-        })</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -420,20 +432,26 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>$(&quot;.brand .more button&quot;).click(function() {
+            if($(&quot;.brand&quot;).hasClass(&quot;brand-h&quot;)){
+                $(&quot;.brand&quot;).removeClass(&quot;brand-h&quot;)
+            }else{
+                $(&quot;.brand&quot;).addClass(&quot;brand-h&quot;)
+            }
+        })</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS08YSBocmVmPSIiIGNsYXNzPSJsb2dpbiI+tcfCvDwvYT4tLT4KPCEtLTwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb3JlXD4=</last-search>
+      <last-search>price</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb3JlXD4=</last-pattern>
+      <last-pattern>price</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -444,6 +462,9 @@
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
         <entry encoding="base64">XDxtb3JlXD4=</entry>
+        <entry>toggleSort</entry>
+        <entry>价格</entry>
+        <entry>price</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
