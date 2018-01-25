@@ -14,8 +14,10 @@
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="javax.management.Query" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="org.assertj" />
     <EXCLUDED_PACKAGE NAME="org.glassfish" />
+    <EXCLUDED_PACKAGE NAME="sun.misc" />
     <EXCLUDED_PACKAGE NAME="sun.misc.IOUtils" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
