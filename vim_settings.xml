@@ -28,7 +28,6 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/dao/mongodb/DistUserProductDao.java" timestamp="1516701731985" />
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/recommand/views/RecommandController.java" timestamp="1514549639066">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -72,7 +71,6 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$JAVA_HOME$/src.zip!/java/util/concurrent/atomic/LongAdder.java" timestamp="1516675866373" />
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/CollectionTest.java" timestamp="1516676620418">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="30" />
@@ -92,6 +90,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/FutureTest.java" timestamp="1516854271366">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="34" />
+        <mark key="." line="45" column="34" />
+        <mark key="^" line="46" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0dcda420-4a52-412e-8f00-21287ef2898b/console.sql" timestamp="1478520096710">
         <mark key="[" line="1578" column="33" />
@@ -320,7 +324,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -373,13 +377,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicHJpY2UiOltwcm9wKydfYXNjJyxwcm9wKydfZGVzYycsJyddLAo=</text>
+      <register name="0" type="4">
+        <text>StringUtils::reverseString)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWwuc2V0UmV0YWlsUHJpY2UocHJvZHVjdEluZm8pOwo=</text>
