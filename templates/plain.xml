@@ -19,4 +19,15 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="cron" value="$S$ $M$ $H$ $DATE$ $MONTH$ $WEEK$" description="cron expression" toReformat="false" toShortenFQNames="true">
+    <variable name="S" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="M" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="H" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MONTH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WEEK" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
