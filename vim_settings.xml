@@ -470,7 +470,7 @@
         <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -496,6 +496,7 @@
         <entry>exit</entry>
         <entry>q</entry>
         <entry>split</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
