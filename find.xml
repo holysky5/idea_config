@@ -23,7 +23,6 @@
       <mask>*.po</mask>
       <mask>*.pom</mask>
       <mask>*pom</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>p</mask>
       <mask>po</mask>
@@ -39,6 +38,7 @@
       <mask>*.m</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
