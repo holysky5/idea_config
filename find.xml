@@ -8,8 +8,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.wxml" />
     <recentFileMasks>
-      <mask>*.ml</mask>
       <mask>*.yml</mask>
       <mask>*.h</mask>
       <mask>*.htm</mask>
@@ -39,6 +39,7 @@
       <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
+      <mask>*.wxml</mask>
     </recentFileMasks>
   </component>
 </application>
