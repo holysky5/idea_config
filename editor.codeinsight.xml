@@ -17,6 +17,7 @@
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="org.assertj" />
     <EXCLUDED_PACKAGE NAME="org.glassfish" />
+    <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="sun.misc" />
     <EXCLUDED_PACKAGE NAME="sun.misc.IOUtils" />
   </component>
