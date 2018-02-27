@@ -100,7 +100,6 @@
         <mark key="^" line="25" column="68" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar!/org/apache/http/message/BasicHttpResponse.java" timestamp="1517983628247" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a17f433-5d7f-4a74-8ba0-e43c06246a48/console.sql" timestamp="1471514894934">
         <mark key="[" line="293" column="18" />
         <mark key="]" line="293" column="19" />
@@ -524,13 +523,13 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -560,10 +559,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -572,7 +571,7 @@
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -581,7 +580,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -593,7 +592,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
