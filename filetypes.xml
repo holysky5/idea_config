@@ -3,26 +3,27 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
-      <mapping pattern="vue-template.html" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="sitemesh3.xml" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="jquery_autocomplete_doc" type="PLAIN_TEXT" />
-      <mapping pattern="images" type="PLAIN_TEXT" />
-      <mapping pattern=".default-cli-xjcStaleFlag" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="fragment" type="PLAIN_TEXT" />
       <mapping pattern="jquery_validate_doc" type="PLAIN_TEXT" />
-      <mapping ext="back" type="PLAIN_TEXT" />
-      <mapping ext="backup" type="PLAIN_TEXT" />
-      <mapping ext="com" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="images" type="PLAIN_TEXT" />
+      <mapping pattern="fragment" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".default-cli-xjcStaleFlag" type="PLAIN_TEXT" />
+      <mapping pattern="sitemesh3.xml" type="PLAIN_TEXT" />
+      <mapping pattern="vue-template.html" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="g" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="html_back" type="PLAIN_TEXT" />
       <mapping ext="validation" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="g" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="VTL" />
+      <mapping ext="wpy" type="Vue.js" />
       <mapping ext="wxml" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
