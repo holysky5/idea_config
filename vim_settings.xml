@@ -41,8 +41,8 @@
         <mark key="." line="90" column="11" />
         <mark key="^" line="90" column="11" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/pom.xml" timestamp="1516259161800">
-        <mark key="[" line="17" column="18" />
+      <file name="E:/workspace/voyageone-distribution/pom.xml" timestamp="1519786936399">
+        <mark key="[" line="23" column="26" />
         <mark key="]" line="17" column="17" />
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
@@ -137,6 +137,7 @@
         <mark key="^" line="63" column="38" />
         <mark key="." line="63" column="38" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.js" timestamp="1519786953132" />
       <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/dao/mongodb/DistCategoryTreeDao.java" timestamp="1515073630438">
         <mark key="[" line="16" column="3" />
         <mark key="]" line="16" column="2" />
