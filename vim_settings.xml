@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" timestamp="1516591957178">
@@ -153,6 +153,11 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="32" column="62" />
       </file>
+      <file name="E:/workspace/wepydemo/myproject/src/pages/index.wpy" timestamp="1519876826967">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/locationMapper.xml" timestamp="1464846876617">
         <mark key="[" line="533" column="56" />
         <mark key="]" line="533" column="7" />
@@ -165,6 +170,12 @@
         <mark key="]" line="169" column="28" />
         <mark key="." line="169" column="28" />
         <mark key="^" line="169" column="15" />
+      </file>
+      <file name="E:/workspace/wepydemo/myproject/src/common/common2.js" timestamp="1519875463556">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/base/dao/mongodb/model/BaseMongoModel.java" timestamp="1515120737675">
         <mark key="[" line="41" column="18" />
@@ -360,8 +371,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -414,7 +425,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -423,28 +434,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHF1ZXJ5T3JkZXJzKExpc3Q8U3RyaW5nPiBvcmRlclNucyxTdHJpbmcgdmFndWUpewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHF1ZXJ5T3JkZXJzKExpc3Q8U3RyaW5nPiBvcmRlclNucywgdmFndWUpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ5dGVbXSBieXRlcyA9IEVudGl0eVV0aWxzLnRvQnl0ZUFycmF5KHJlc3BvbnNlLmdldEVudGl0eSgpKTsK</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdm4wMDBleWUyNzYK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21tb24gYW5kIGNvbW1vbjIgYXJlIGxvYWQgc3VjY2VzcycpOwo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBQcm9taXNlLmFsbChbcmVxdWlyZSgnLi4vY29tbW9uL2NvbW1vbicpLCByZXF1aXJlKCcuLi9jb21tb24vY29tbW9uMicpXSkudGhlbigocmVzdWx0KSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWwuc2V0UmV0YWlsUHJpY2UocHJvZHVjdEluZm8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIERvdWJsZSBjb2RlUHJpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWwuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -501,10 +512,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi5lbmNvZGVQcmV0dGlseShzcGxpdE9yZGVycykpOwo=</text>
+        <text encoding="base64">ICB0ZXN0SGVsbG8oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9nZ2VyLmlzRGVidWdFbmFibGVkKCkpIHsKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCKy8LWlveG5+zp7fSIsSnNvbi5lbmNvZGVQcmV0dGlseShhbGxTcGxpdE9yZGVycykpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHF1ZXJ5T3JkZXJzKExpc3Q8U3RyaW5nPiBvcmRlclNucywgdmFndWUpewo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
