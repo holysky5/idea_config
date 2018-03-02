@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/service/DistProductsInDistService.java" timestamp="1515581482750">
@@ -236,13 +236,13 @@
         <mark key="^" line="281" column="16" />
         <mark key="." line="281" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519963344056">
+      <file name="/Dummy.txt" timestamp="1519964307538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
         <mark key="[" line="78" column="107" />
       </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/flightclub/FlightClubService.java" timestamp="1519963286254">
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/flightclub/FlightClubService.java" timestamp="1519964184379">
         <mark key="[" line="198" column="96" />
         <mark key="]" line="198" column="96" />
         <mark key="^" line="198" column="112" />
@@ -319,6 +319,12 @@
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/response/OrderQueryResponse.java" timestamp="1519882814549">
         <mark key="[" line="17" column="3" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/resources/context-task-cron.xml" timestamp="1519964287733">
+        <mark key="[" line="22" column="90" />
+        <mark key="]" line="22" column="90" />
+        <mark key="^" line="22" column="90" />
+        <mark key="." line="22" column="90" />
       </file>
     </filemarks>
     <jumps>
@@ -399,7 +405,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ExceptionUtils.getStackTrace()))</text>
+        <text>4</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -452,7 +458,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ExceptionUtils.getStackTrace()))</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
