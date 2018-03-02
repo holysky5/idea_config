@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/service/DistProductsInDistService.java" timestamp="1515581482750">
@@ -120,6 +120,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/request/HuaXinRequest.java" timestamp="1519958251175">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/voyageone/web/distribution/core/dao/mongodb/DistCategoryTreeDaoTest.java" timestamp="1515121109930">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -137,11 +143,11 @@
         <mark key="^" line="63" column="38" />
         <mark key="." line="63" column="38" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/HuaXinConfig.java" timestamp="1519908748439">
-        <mark key="[" line="48" column="7" />
-        <mark key="]" line="50" column="11" />
-        <mark key="^" line="50" column="14" />
-        <mark key="." line="50" column="11" />
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/HuaXinConfig.java" timestamp="1519958296636">
+        <mark key="[" line="40" column="7" />
+        <mark key="]" line="42" column="11" />
+        <mark key="^" line="42" column="14" />
+        <mark key="." line="42" column="11" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.js" timestamp="1519791048727">
         <mark key="[" line="4" column="25" />
@@ -152,8 +158,8 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/HuaXinService.java" timestamp="1519908847597">
-        <mark key="[" line="55" column="67" />
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/HuaXinService.java" timestamp="1519958333387">
+        <mark key="[" line="70" column="0" />
         <mark key="]" line="55" column="66" />
         <mark key="^" line="55" column="66" />
         <mark key="." line="55" column="66" />
@@ -212,9 +218,6 @@
         <mark key="]" line="30" column="17" />
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/model/GoldJetOrder.java" timestamp="1519796176038">
-        <mark key="'" line="402" column="16" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/CollectionTest.java" timestamp="1516676620418">
         <mark key="[" line="20" column="31" />
