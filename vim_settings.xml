@@ -25,6 +25,12 @@
       <file name="/a.dummy" timestamp="1464578847723">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/product/flightclub/FlightClubServiceTest.java" timestamp="1519962251542">
+        <mark key="[" line="87" column="101" />
+        <mark key="]" line="87" column="103" />
+        <mark key="." line="87" column="103" />
+        <mark key="^" line="87" column="103" />
+      </file>
       <file name="E:/workspace/voyageone-distribution/pom.xml" timestamp="1519786936399">
         <mark key="[" line="23" column="26" />
         <mark key="]" line="17" column="17" />
@@ -36,11 +42,6 @@
         <mark key="]" line="480" column="77" />
         <mark key="^" line="529" column="40" />
         <mark key="." line="480" column="77" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/CategoryService.java" timestamp="1515473659878">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/test/java/com/voyageone/ecerp/interfaces/third/goldjet/GoldJetServiceTest.java" timestamp="1519883298612">
         <mark key="[" line="103" column="0" />
@@ -60,6 +61,7 @@
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
       </file>
+      <file name="/FlightClubService.java" timestamp="1519963487604" />
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistProductHtmlController.java" timestamp="1515383559972">
         <mark key="[" line="230" column="47" />
         <mark key="]" line="230" column="48" />
@@ -110,26 +112,11 @@
         <mark key="^" line="215" column="39" />
         <mark key="." line="215" column="39" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/SearchService.java" timestamp="1516591510031">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-ebay/src/test/java/Test.java" timestamp="1519880773003">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/request/HuaXinRequest.java" timestamp="1519958251175">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="17" />
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/voyageone/web/distribution/core/dao/mongodb/DistCategoryTreeDaoTest.java" timestamp="1515121109930">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/RecommandService.java" timestamp="1514895289147">
         <mark key="[" line="365" column="44" />
@@ -181,6 +168,9 @@
         <mark key="]" line="533" column="7" />
         <mark key="^" line="533" column="7" />
         <mark key="." line="533" column="7" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/webmagic/MyHttpClientGenerator.java" timestamp="1519962672173">
+        <mark key="[" line="123" column="106" />
       </file>
       <file name="E:/workspace/wepydemo/myproject/src/common/common2.js" timestamp="1519875463556">
         <mark key="[" line="1" column="14" />
@@ -246,11 +236,17 @@
         <mark key="^" line="281" column="16" />
         <mark key="." line="281" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519960839449">
+      <file name="/Dummy.txt" timestamp="1519963344056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
         <mark key="[" line="78" column="107" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/flightclub/FlightClubService.java" timestamp="1519963286254">
+        <mark key="[" line="198" column="96" />
+        <mark key="]" line="198" column="96" />
+        <mark key="^" line="198" column="112" />
+        <mark key="." line="198" column="96" />
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/GoldJetService.java" timestamp="1519883533238">
         <mark key="[" line="81" column="9" />
@@ -270,7 +266,7 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/fc/HandleFlightClubPreMatchCodeJob.java" timestamp="1519960958104">
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/fc/HandleFlightClubPreMatchCodeJob.java" timestamp="1519962821909">
         <mark key="[" line="96" column="5" />
         <mark key="]" line="89" column="4" />
         <mark key="^" line="89" column="9" />
@@ -278,11 +274,6 @@
       </file>
       <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/wms/service/impl/WmsReservationServiceImpl.java" timestamp="1477880053782">
         <mark key="[" line="322" column="42" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-task/task-dist/src/main/resources/conf/solr-config.xml" timestamp="1515042973136">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/request/GoldJetRequest.java" timestamp="1519880704979">
         <mark key="[" line="42" column="19" />
@@ -408,7 +399,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>ExceptionUtils.getStackTrace()))</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -461,7 +452,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>ExceptionUtils.getStackTrace()))</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
