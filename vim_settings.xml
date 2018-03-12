@@ -1,12 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/service/DistProductsInDistService.java" timestamp="1515581482750">
         <mark key="[" line="105" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/fluent-hc/4.5.3/fluent-hc-4.5.3-sources.jar!/org/apache/http/client/fluent/Request.java" timestamp="1519883528324" />
       <file name="E:/workspace/brandcrawler/src/js-main/branddata_regular.js" timestamp="1502432502766">
         <mark key="[" line="326" column="36" />
       </file>
@@ -54,14 +53,15 @@
         <mark key="." line="45" column="34" />
         <mark key="^" line="46" column="51" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-i18sto/src/test/java/com/voyageone/ecerp/interfaces/third/i18sto/endpoint/product/I18StoClientTest.java" timestamp="1519882942741" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0dcda420-4a52-412e-8f00-21287ef2898b/console.sql" timestamp="1478520096710">
         <mark key="[" line="1578" column="33" />
         <mark key="]" line="1465" column="13" />
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
       </file>
-      <file name="/FlightClubService.java" timestamp="1519963487604" />
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520841025011">
+        <mark key="[" line="221" column="24" />
+      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistProductHtmlController.java" timestamp="1515383559972">
         <mark key="[" line="230" column="47" />
         <mark key="]" line="230" column="48" />
@@ -202,7 +202,6 @@
         <mark key="^" line="49" column="9" />
         <mark key="." line="39" column="54" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-i18sto/src/main/java/com/voyageone/ecerp/interfaces/third/i18sto/endpoint/order/model/OtherInfoBean.java" timestamp="1519880739568" />
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/Item.java" timestamp="1506317040378">
         <mark key="[" line="30" column="18" />
         <mark key="]" line="30" column="17" />
@@ -241,6 +240,12 @@
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
         <mark key="[" line="78" column="107" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/base/controller/BaseHtmlController.java" timestamp="1520841215987">
+        <mark key="[" line="85" column="18" />
+        <mark key="]" line="85" column="18" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="18" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/flightclub/FlightClubService.java" timestamp="1519964184379">
         <mark key="[" line="198" column="96" />
@@ -405,7 +410,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>l</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -458,7 +463,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -583,7 +588,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -598,7 +603,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -613,7 +618,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -661,7 +666,7 @@
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
