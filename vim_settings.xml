@@ -30,11 +30,11 @@
         <mark key="." line="87" column="103" />
         <mark key="^" line="87" column="103" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/pom.xml" timestamp="1519786936399">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
+      <file name="E:/workspace/voyageone-distribution/pom.xml" timestamp="1520841933524">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-fxapi/src/main/java/com/voyageone/web/distribution/api/xcx/services/order/SubmitOrderService.java" timestamp="1516701601937">
         <mark key="[" line="480" column="77" />
@@ -59,8 +59,12 @@
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
       </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520841025011">
-        <mark key="[" line="221" column="24" />
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520843662364">
+        <mark key="'" line="227" column="22" />
+        <mark key="[" line="219" column="5" />
+        <mark key="]" line="219" column="4" />
+        <mark key="." line="219" column="4" />
+        <mark key="^" line="219" column="4" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistProductHtmlController.java" timestamp="1515383559972">
         <mark key="[" line="230" column="47" />
@@ -196,6 +200,7 @@
         <mark key="." line="49" column="17" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.2.RELEASE/spring-boot-dependencies-1.5.2.RELEASE.pom" timestamp="1520842433866" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/427e52f5-a8e0-4079-affe-ce0857d9bb27/console.sql" timestamp="1490334539185">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="39" column="54" />
@@ -207,6 +212,11 @@
         <mark key="]" line="30" column="17" />
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/pom.xml" timestamp="1520842521354">
+        <mark key="[" line="235" column="85" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/CollectionTest.java" timestamp="1516676620418">
         <mark key="[" line="20" column="31" />
@@ -391,6 +401,11 @@
       <jump line="256" column="41" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
       <jump line="255" column="35" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/prod-list.html" />
       <jump line="402" column="16" filename="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/model/GoldJetOrder.java" />
+      <jump line="222" column="66" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
+      <jump line="133" column="56" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
+      <jump line="223" column="0" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
+      <jump line="224" column="124" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
+      <jump line="227" column="22" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -410,7 +425,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>atomicIntegerSynchronousSinkAtomicIntegerBiFunction</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -463,7 +478,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>atomicIntegerSynchronousSinkAtomicIntegerBiFunction</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -472,28 +487,28 @@
         <text>orderSn 下单时返回的订单编号</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RNYXRoKCkgewogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC41LjM8L3ZlcnNpb24+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcucmVhY3RpdmVzdHJlYW1zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cmVhY3RpdmUtc3RyZWFtczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnJlYWN0aXZlc3RyZWFtczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnJlYWN0aXZlLXN0cmVhbXMtdGNrPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MS4wLjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5pby5wcm9qZWN0cmVhY3RvcjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnJlYWN0b3ItY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS4xLlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My42LjA8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgIDwhLS0gzO2802xhbWJva9ans9YgLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgZCAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RFcXVhbHMoKSB7CiAgICAgICAgU3RyaW5nIHMxID0gInNlbGxlcl9uYW1lPVoyOXNaR3BsZEhkNWFXNW5iMk52YlElM0QlM0QmYXBpX2tleT1NamxoWkRCbE0yWmtNMlJpTmpneFptSTVaamd3T1RGak56VTJNekV6WmpjJTNEJTI2bWFyayUzRGIzSmtaWEklM0QmY29uZmlybT1NUSUzRCUzRCZvcmRlcj1Wek56YVdNeVZuVmFSMVo1V0ROQ2IySXlOV3hKYW05cFRWUk5lRTVxV1hkT1ZHdDVUV3BCYVV4RFNuZFlNalYyU1dwd2RXUlhlSE5NUTBwc1pVaENlVnBZVG5wWU1qVXhZbE5KTmcwS1ltNVdjMkpEZDJsa01rWjVXbGRvZG1SWVRteFlNazUyV2tkVmFVOXROVEZpUjNkelNXMUtNV1ZYVm5sWU1qVm9ZbGRWYVU5cFRHMXVZV3B2WjBsSWJXNWlPR2xNUTBwNldsYzFhdzBLV2xoS1ptSnRSblJhVTBrMlNXMXdhRmt5YzJsTVEwcHdZekU1YVZsNVNUWk5RM2RwWXpKV2RWcEhWbmxZTWs1MlpGYzFNR051YkdaWk1qbHJXbE5KTmtscVJYbE5lVWx6U1c1Q2VRMEtZak5hY0dKdFRteFlNazUyV2tkVmFVOXROVEZpUjNkelNXMDVlVnBIVm5sWU1qVm9ZbGRWYVU5cFRIQnhOV3B2WjBsSWJXNWlPR2xNUTBwMlkyMVNiR05zT1hkaFJ6bDFXbE5KTmcwS1NXcEZlazFVV1RKTlJFbDZUV3BKZDBscGQybGpTR1JzV1dsSk5tSnVWbk5pUTNkcFdsaG9kMk50Vm5wak1UbHFZakpTYkVscWNIVmtWM2h6VEVOS2QxZ3lUblphUjFWcFQyMDFNUTBLWWtkM2MwbHRNV2hoVnpWbVdrZFdlbGw1U1RaSmF6VndZVEpWY2paYU5rdzFZVEpSVFZOMFZGTXhWWGhMYWsxcFRFTktkbU50VW14amJEbG9ZbGM1TVdKdVVXbFBha1YzVEVOS2RnMEtZMjFTYkdOc09XNWlNamxyWTNsSk5tSnVWbk5pUTNkcFkyMVdabUp0Um5SYVUwazJZbTVXYzJKRGQybGFNamwyV2toT1ptSnVaR3hoVjJSdlpFTkpOazFUZDJsaU0wcHJXbGhLWmcwS1lWZFNhbGxZU210SmFtOXBUWHBSZVU1cVFYaE5WR3MxVFVSQk5FMUVZekZOUkVGM1NXbDNhVmt6Vm5samFVazJUVlJSZVV4RFNtcGtXRTVtWkVkR05FbHFjSFZrVjNoelRFTkthUTBLWkZoc2JHTnNPV2hhUjFKNVdsaE9la2xxYjJrMVRHbExOWEpYTTBscGQybGpSM1J1V0RKa00xcFhiRzVoU0ZGcFQycEZjMGx0U2pGbFYxWjVXRE5DYjJJeU5XeEphbTlwVFZSTmVBMEtUbXBaZDAxcVRYbE5ha0ZwVEVOS2QxcHVTbXhoVjJSdlpFWTVkV0o1U1RaaWJsWnpZa04zYVdNeVZuVmFSMVo1V0RKT2NHUklhMmxQYVV4cmRVbHliWFJpWTJsTVEwcHFaRmhPTUEwS1lqSXhlbGd5YkhWak0xWjVXbGRSYVU5cVFYTkpia3BzV0RJMWRsZ3pSbTVKYW5CMVpGZDRjMHhEU25wYVZ6VnJXbGhLWmxsWFVtdGpiVlo2WTNsSk5rbDFVelJwZFdFeGRDdGhNUTBLY0hWVE5HNVBZVmR6VDFkTmRYVlhPRzlQWVhodUsyMXliVTlsYm10bGFUTnlLMWRqYzA5dFZHZGxaWEp0WldWeWJXVlhVRzk1U1hOSmJrSm1aRWRzZEZwVFNUWk5WRlY0VDFSbmR3MEtUVVJyZVU1VVRUUk9hWGRwWTBZNWRWbFhNV3hKYW05cFZtMDVOVmxYWkd4aU1qVnNTV2wzYVZsdVZqVmFXRXBtWVZkU2FsbFlTbXRKYW05cFRYcFJlVTVxUVhoTlZHczFUVVJCTkEwS1RVUmpNVTFFUVhkSmFYZHBZMjFXWm1KdE9HbFBiVFV4WWtkM2MwbHRPWGxhUjFaNVdETldkVmxYTVd4SmFuQjFaRmQ0YzB4RFNuWmpiVkpzWTJ3NWRGcFlUbnBaVjJSc1NXcHZhUTBLTmt3cldqVlpWekkxWVRabE5YQnBkalZNYVhFMVdVZElOVFZ4UlRaTE5tazFXVEpXVEU5aFNXdGxVelJxWldGRWN5dFhSMjFsVjJ0b0syRjZjVTlsWVdoRFNYTkpibVJzV1d3NWRRMEtXVmN4YkVscWNIVmtWM2h6VEVOS2FtUllUakJpTWpGNldESlNjR015VG5aa1Z6VXdTV3B2ZDB4RFNuWmpiVkpzWTJ3NWVtSnBTVFpKYmxKc1l6TlNVR050VW14amFVbHpTVzVPYncwS1dESmFiRnBUU1RaaWJsWnpZa2d4WkEwSyI7CiAgICAgICAgU3RyaW5nIHMyID0gInNlbGxlcl9uYW1lPVoyOXNaR3BsZEhkNWFXNW5iMk52YlElM0QlM0QmYXBpX2tleT1NamxoWkRCbE0yWmtNMlJpTmpneFptSTVaamd3T1RGak56VTJNekV6WmpjJTNEJm1hcms9YjNKa1pYSSUzRCZjb25maXJtPU1RJTNEJTNEJm9yZGVyPVZ6TnphV015Vm5WYVIxWjVXRE5DYjJJeU5XeEphbTlwVFZSTmVFNXFXWGRPVkd0NVRXcEJhVXhEU25kWU1qVjJTV3B3ZFdSWGVITk1RMHBzWlVoQ2VWcFlUbnBZTWpVeFlsTkpOZzBLWW01V2MySkRkMmxrTWtaNVdsZG9kbVJZVG14WU1rNTJXa2RWYVU5dE5URmlSM2R6U1cxS01XVlhWbmxZTWpWb1lsZFZhVTlwVEcxdVlXcHZaMGxJYlc1aU9HbE1RMHA2V2xjMWF3MEtXbGhLWm1KdFJuUmFVMGsyU1cxd2FGa3ljMmxNUTBwd1l6RTVhVmw1U1RaTlEzZHBZekpXZFZwSFZubFlNazUyWkZjMU1HTnViR1paTWpscldsTkpOa2xxUlhsTmVVbHpTVzVDZVEwS1lqTmFjR0p0VG14WU1rNTJXa2RWYVU5dE5URmlSM2R6U1cwNWVWcEhWbmxZTWpWb1lsZFZhVTlwVEhCeE5XcHZaMGxJYlc1aU9HbE1RMHAyWTIxU2JHTnNPWGRoUnpsMVdsTkpOZzBLU1dwRmVrMVVXVEpOUkVsNlRXcEpkMGxwZDJsalNHUnNXV2xKTm1KdVZuTmlRM2RwV2xob2QyTnRWbnBqTVRscVlqSlNiRWxxY0hWa1YzaHpURU5LZDFneVRuWmFSMVZwVDIwMU1RMEtZa2QzYzBsdE1XaGhWelZtV2tkV2VsbDVTVFpKYXpWd1lUSlZjalphTmt3MVlUSlJUVk4wVkZNeFZYaExhazFwVEVOS2RtTnRVbXhqYkRsb1lsYzVNV0p1VVdsUGFrVjNURU5LZGcwS1kyMVNiR05zT1c1aU1qbHJZM2xKTm1KdVZuTmlRM2RwWTIxV1ptSnRSblJhVTBrMlltNVdjMkpEZDJsYU1qbDJXa2hPWm1KdVpHeGhWMlJ2WkVOSk5rMVRkMmxpTTBwcldsaEtaZzBLWVZkU2FsbFlTbXRKYW05cFRYcFJlVTVxUVhoTlZHczFUVVJCTkUxRVl6Rk5SRUYzU1dsM2FWa3pWbmxqYVVrMlRWUlJlVXhEU21wa1dFNW1aRWRHTkVscWNIVmtWM2h6VEVOS2FRMEtaRmhzYkdOc09XaGFSMUo1V2xoT2VrbHFiMmsxVEdsTE5YSlhNMGxwZDJsalIzUnVXREprTTFwWGJHNWhTRkZwVDJwRmMwbHRTakZsVjFaNVdETkNiMkl5Tld4SmFtOXBUVlJOZUEwS1RtcFpkMDFxVFhsTmFrRnBURU5LZDFwdVNteGhWMlJ2WkVZNWRXSjVTVFppYmxaellrTjNhV015Vm5WYVIxWjVXREpPY0dSSWEybFBhVXhyZFVseWJYUmlZMmxNUTBwcVpGaE9NQTBLWWpJeGVsZ3liSFZqTTFaNVdsZFJhVTlxUVhOSmJrcHNXREkxZGxnelJtNUphbkIxWkZkNGMweERTbnBhVnpWcldsaEtabGxYVW10amJWWjZZM2xKTmtsMVV6UnBkV0V4ZEN0aE1RMEtjSFZUTkc1UFlWZHpUMWROZFhWWE9HOVBZWGh1SzIxeWJVOWxibXRsYVROeUsxZGpjMDl0VkdkbFpYSnRaV1Z5YldWWFVHOTVTWE5KYmtKbVpFZHNkRnBUU1RaTlZGVjRUMVJuZUEwS1RsUnJkMDE2V1RSTlEzZHBZMFk1ZFZsWE1XeEphbTlwVm0wNU5WbFhaR3hpTWpWc1NXbDNhVmx1VmpWYVdFcG1ZVmRTYWxsWVNtdEphbTlwVFhwUmVVNXFRWGhOVkdzMVRVUkJOQTBLVFVSak1VMUVRWGRKYVhkcFkyMVdabUp0T0dsUGJUVXhZa2QzYzBsdE9YbGFSMVo1V0ROV2RWbFhNV3hKYW5CMVpGZDRjMHhEU25aamJWSnNZMnc1ZEZwWVRucFpWMlJzU1dwdmFRMEtOa3dyV2pWWlZ6STFZVFpsTlhCcGRqVk1hWEUxV1VkSU5UVnhSVFpMTm1rMVdUSldURTloU1d0bFV6UnFaV0ZFY3l0WFIyMWxWMnRvSzJGNmNVOWxZV2hEU1hOSmJtUnNXV3c1ZFEwS1dWY3hiRWxxY0hWa1YzaHpURU5LYW1SWVRqQmlNakY2V0RKU2NHTXlUblprVnpVd1NXcHZkMHhEU25aamJWSnNZMnc1ZW1KcFNUWkpibEpzWXpOU1VHTnRVbXhqYVVselNXNU9idzBLV0RKYWJGcFRTVFppYmxaellrZ3haQTBLIjsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IEludGVnZXIubWluKHMxLmxlbmd0aCgpLCBzMi5sZW5ndGgoKSk7IGkrKykgewogICAgICAgICAgICBpZiAoczEuY2hhckF0KGkpICE9IHMyLmNoYXJBdChpKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMxLnN1YnN0cmluZyhpKSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczIuc3Vic3RyaW5nKGkpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -550,10 +565,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC41LjM8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
