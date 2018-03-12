@@ -232,7 +232,12 @@
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/templates/recommand/greatest-brand.html" timestamp="1514178231220">
         <mark key="[" line="212" column="32" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/SqlToMongoQueryTest.java" timestamp="1520845353847" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/SqlToMongoQueryTest.java" timestamp="1520845595484">
+        <mark key="[" line="42" column="98" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+      </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/misc/WmsStockService.java" timestamp="1517983840127">
         <mark key="[" line="64" column="74" />
         <mark key="]" line="65" column="15" />
@@ -484,37 +489,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
       </register>
       <register name="0" type="4">
-        <text>orderSn 下单时返回的订单编号</text>
+        <text>q.add(1);
+        q.add(2);
+        q.add(3);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RNYXRoKCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludFF1ZXJ5KCJzZWxlY3QgY29kZSAgZnJvbSBmbGlnaHRfY2x1Yl9wcm9kdWN0IHdoZXJlIHN1YnNjcmliZWQ9dHJ1ZSIgKwo=</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RNYXRoKCkgewogICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcucmVhY3RpdmVzdHJlYW1zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cmVhY3RpdmUtc3RyZWFtczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnJlYWN0aXZlc3RyZWFtczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnJlYWN0aXZlLXN0cmVhbXMtdGNrPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MS4wLjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5pby5wcm9qZWN0cmVhY3RvcjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnJlYWN0b3ItY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS4xLlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgIDwhLS0gzO2802xhbWJva9ans9YgLS0+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -574,7 +581,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC41LjM8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
