@@ -65,11 +65,11 @@
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
       </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520848682748">
-        <mark key="'" line="227" column="22" />
-        <mark key="[" line="231" column="5" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520853384879">
+        <mark key="[" line="237" column="21" />
+        <mark key="]" line="237" column="21" />
+        <mark key="." line="237" column="21" />
+        <mark key="^" line="236" column="8" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistProductHtmlController.java" timestamp="1515383559972">
         <mark key="[" line="230" column="47" />
@@ -218,6 +218,7 @@
         <mark key="." line="250" column="29" />
         <mark key="^" line="250" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/ParallelFlux.java" timestamp="1520853343200" />
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/CollectionTest.java" timestamp="1516676620418">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="30" />
@@ -335,6 +336,7 @@
         <mark key="^" line="80" column="119" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1520852564228" />
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/pom.xml" timestamp="1519909061107">
         <mark key="[" line="20" column="21" />
       </file>
@@ -412,6 +414,7 @@
       <jump line="223" column="0" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
       <jump line="224" column="124" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
       <jump line="227" column="22" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
+      <jump line="244" column="41" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -484,7 +487,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -495,28 +498,28 @@
         q.add(3);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS4xLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZXZlbnRzID0gewogICAgICAnaW5kZXgtYnJvYWRjYXN0JzogKC4uLmFyZ3MpID0+IHsKICAgICAgICBsZXQgJGV2ZW50ID0gYXJnc1thcmdzLmxlbmd0aCAtIDFdCiAgICAgICAgY29uc29sZS5sb2coYCR7dGhpcy4kbmFtZX0gcmVjZWl2ZSAkeyRldmVudC5uYW1lfSBmcm9tICR7JGV2ZW50LnNvdXJjZS5uYW1lfWApCiAgICAgIH0KICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBGbHV4Lmp1c3QoZGQiMSIsICIyIiwgIjMiKS5pbmRleCgpLnN1YnNjcmliZShTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBGbHV4Lmp1c3QoZGQiMSIsICIyIiwgIjMiKS5pbmRleCgpLnN1YnNjcmliZShTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdEJ1ZmZlcigpIHsKCiAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBGbHV4Lmp1c3QoIjEiLCAiMiIsICIzIikuaW5kZXgoKS5zdWJzY3JpYmUoU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS4xLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IEZsdXguZXJyb3IobmV3IFJ1bnRpbWVFeGNlcHRpb24oIsm1scbBy7DJIikpCiAgICAgICAgICAgIC5kb09uRXJyb3IoKGUpIC0+IHsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLm1hdGVyaWFsaXplKCkKICAgICAgICAgICAgLnN1YnNjcmliZSgpOw==</text>
+        <text encoding="base64">ZXZlbnRzID0gewogICAgICAnaW5kZXgtYnJvYWRjYXN0JzogKC4uLmFyZ3MpID0+IHsKICAgICAgICBsZXQgJGV2ZW50ID0gYXJnc1thcmdzLmxlbmd0aCAtIDFdCiAgICAgICAgY29uc29sZS5sb2coYCR7dGhpcy4kbmFtZX0gcmVjZWl2ZSAkeyRldmVudC5uYW1lfSBmcm9tICR7JGV2ZW50LnNvdXJjZS5uYW1lfWApCiAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludFF1ZXJ5KCJzZWxlY3QgY29kZSAgZnJvbSBmbGlnaHRfY2x1Yl9wcm9kdWN0IHdoZXJlIHN1YnNjcmliZWQ9dHJ1ZSIgKwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -572,11 +575,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RNYXRoKCkgewogICAgfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdEJ1ZmZlcigpIHsKCiAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
