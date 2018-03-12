@@ -65,12 +65,12 @@
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
       </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520843662364">
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520847189982">
         <mark key="'" line="227" column="22" />
-        <mark key="[" line="219" column="5" />
-        <mark key="]" line="219" column="4" />
-        <mark key="." line="219" column="4" />
-        <mark key="^" line="219" column="4" />
+        <mark key="[" line="234" column="30" />
+        <mark key="]" line="234" column="25" />
+        <mark key="." line="234" column="25" />
+        <mark key="^" line="234" column="25" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistProductHtmlController.java" timestamp="1515383559972">
         <mark key="[" line="230" column="47" />
@@ -232,7 +232,7 @@
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/templates/recommand/greatest-brand.html" timestamp="1514178231220">
         <mark key="[" line="212" column="32" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/SqlToMongoQueryTest.java" timestamp="1520845595484">
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/SqlToMongoQueryTest.java" timestamp="1520846977213">
         <mark key="[" line="42" column="98" />
         <mark key="]" line="42" column="7" />
         <mark key="." line="42" column="7" />
@@ -489,7 +489,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -584,7 +584,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -608,14 +608,14 @@
       <history-cmd>
         <entry>i</entry>
         <entry>exit</entry>
-        <entry>q</entry>
-        <entry>split</entry>
-        <entry>vsplit</entry>
         <entry>gf</entry>
         <entry>ga</entry>
         <entry>gc</entry>
         <entry>action gc</entry>
         <entry>ys</entry>
+        <entry>split</entry>
+        <entry>vsplit</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
