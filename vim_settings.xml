@@ -200,7 +200,6 @@
         <mark key="." line="49" column="17" />
         <mark key="^" line="15" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.2.RELEASE/spring-boot-dependencies-1.5.2.RELEASE.pom" timestamp="1520842433866" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/427e52f5-a8e0-4079-affe-ce0857d9bb27/console.sql" timestamp="1490334539185">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="39" column="54" />
@@ -598,6 +597,9 @@
         <entry>q</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
+        <entry>gf</entry>
+        <entry>ga</entry>
+        <entry>gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
