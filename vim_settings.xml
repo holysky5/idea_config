@@ -30,6 +30,12 @@
         <mark key="." line="87" column="103" />
         <mark key="^" line="87" column="103" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/README.md" timestamp="1520845202086">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
       <file name="E:/workspace/voyageone-distribution/pom.xml" timestamp="1520841933524">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="14" column="41" />
@@ -226,6 +232,7 @@
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/templates/recommand/greatest-brand.html" timestamp="1514178231220">
         <mark key="[" line="212" column="32" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/SqlToMongoQueryTest.java" timestamp="1520845353847" />
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/misc/WmsStockService.java" timestamp="1517983840127">
         <mark key="[" line="64" column="74" />
         <mark key="]" line="65" column="15" />
@@ -477,7 +484,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>atomicIntegerSynchronousSinkAtomicIntegerBiFunction</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -601,6 +608,7 @@
         <entry>ga</entry>
         <entry>gc</entry>
         <entry>action gc</entry>
+        <entry>ys</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -686,6 +694,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
