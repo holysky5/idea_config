@@ -89,7 +89,7 @@
         <mark key="^" line="1465" column="13" />
         <mark key="." line="1465" column="13" />
       </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520855687253">
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520943014543">
         <mark key="[" line="249" column="74" />
         <mark key="]" line="251" column="21" />
         <mark key="." line="251" column="21" />
@@ -307,7 +307,7 @@
         <mark key="^" line="281" column="16" />
         <mark key="." line="281" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520939059839">
+      <file name="/Dummy.txt" timestamp="1520943258557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
@@ -318,12 +318,6 @@
         <mark key="]" line="85" column="18" />
         <mark key="^" line="85" column="20" />
         <mark key="." line="85" column="18" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/search-result/search-result.js" timestamp="1520935928604">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="78" column="23" />
-        <mark key="^" line="78" column="23" />
-        <mark key="." line="78" column="23" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/flightclub/FlightClubService.java" timestamp="1519964184379">
         <mark key="[" line="198" column="96" />
@@ -382,11 +376,11 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520936387706">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="19" />
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+        <mark key="^" line="29" column="6" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-tools/ecerp-platform-mt-data-brandinfo-spider/syncTaobaoBrand.js" timestamp="1502948731942">
         <mark key="[" line="29" column="5" />
@@ -405,11 +399,11 @@
         <mark key="." line="84" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1520852564228" />
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520938755450">
-        <mark key="[" line="3565" column="7" />
-        <mark key="]" line="3568" column="0" />
-        <mark key="^" line="3568" column="23" />
-        <mark key="." line="3568" column="0" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520943401487">
+        <mark key="[" line="3577" column="32" />
+        <mark key="]" line="3577" column="32" />
+        <mark key="^" line="3577" column="30" />
+        <mark key="." line="3577" column="32" />
       </file>
       <file name="E:/workspace/sneakerheadxWeApp/src/pages/zmxy.wpy" timestamp="1520935776495">
         <mark key="[" line="5" column="50" />
@@ -425,7 +419,7 @@
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/pom.xml" timestamp="1519909061107">
         <mark key="[" line="20" column="21" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/zmxy/zmxy.wxml" timestamp="1520936011020">
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/zmxy/zmxy.wxml" timestamp="1520942077512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -590,7 +584,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -599,28 +593,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qXV0+Ki8K</text>
+        <text encoding="base64">ICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qPCFbQ0RBVEFbKi8K</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImNocm9tZS1leHRlbnNpb246Ly9jYmNvYmtqbWllaG9pcG5haGNvbG5ob2hiZWloa2hpYi9fbG9jYWxlcy9lbi9LZXJuZWwuanM/MC4xNDU3MDE5NzUxNjU1Mzg0Ij4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
+        <text encoding="base64">ICAgIC8qXV0+Ki8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
+        <text encoding="base64">ICAgIC8qPCFbQ0RBVEFbKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC92aWV3Pgo=</text>
+        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHZpZXcgY2xhc3M9IkNzZWFyY2giPgo=</text>
+        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC92aWV3Pgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -676,11 +670,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHNob3BJbnB1dDogZnVuY3Rpb24gKGUpIHsKICAgICAgICB0aGlzLmRhdGEuaW5wdXRTaG9wSWQgPSBlLmRldGFpbC52YWx1ZQogICAgfSwKICAgIGdvU2hvcDogZnVuY3Rpb24gKCkgewogICAgICAgIHd4LnNldFN0b3JhZ2VTeW5jKCdzaG9wSWQnLCB0aGlzLmRhdGEuaW5wdXRTaG9wSWQpOwogICAgICAgIGxldCB0aGF0ID0gdGhpczsKICAgICAgICB0aGF0LnNldERhdGEoe3Nob3dMb2FkaW5nOiB0cnVlfSk7CiAgICAgICAgYXBwLmdldFNob3BJbmZvKGZ1bmN0aW9uIChzaG9wSW5mbykgewogICAgICAgICAgICB0aGF0LnNldERhdGEoe3Nob3dMb2FkaW5nOiBmYWxzZX0pOwogICAgICAgICAgICBpZiAoc2hvcEluZm8pIHsKICAgICAgICAgICAgICAgIHd4LnN3aXRjaFRhYih7dXJsOiAnLi4vaW5kZXgvaW5kZXgnfSkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHd4LnNob3dNb2RhbCh7CiAgICAgICAgICAgICAgICAgICAgc2hvd0NhbmNlbDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICfM4cq+JywKICAgICAgICAgICAgICAgICAgICBjb250ZW50OiAnw7vT0NXStb3E+rXEterGzCDH69DeuMS16sbMw/uzxtbY0MLL0cv3JywKICAgICAgICAgICAgICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXMuY29uZmlybSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ9PDu6e147v3yLe2qCcpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9CiAgICAgICAgfSkKICAgIH0sCiAgICBjbGlja1Nob3A6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgdGhpcy5zZXREYXRhKHtpbnB1dFNob3BJZDogZS5jdXJyZW50VGFyZ2V0LmlkfSk7CiAgICAgICAgdGhpcy5nb1Nob3AoKQogICAgfSwKICAgIGNsZWFySGlzdG9yeTogZnVuY3Rpb24gKCkgewogICAgICAgIHd4LnJlbW92ZVN0b3JhZ2VTeW5jKCdzaG9wTG9naW5IaXN0b3J5JywgbnVsbCk7CiAgICAgICAgdGhpcy5zZXREYXRhKHtoaXN0b3J5U2hvcHM6IFtdfSk7CiAgICB9LAogICAgZm9jdXM6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgdGhpcy5zZXREYXRhKHtidXR0b25UZXh0OiAivfjI6yJ9KQogICAgfSwKICAgIGJsdXI6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgaWYgKGUuZGV0YWlsLnZhbHVlKSB7CiAgICAgICAgICAgIHRoaXMuc2V0RGF0YSh7YnV0dG9uVGV4dDogIsihz/siLCBibHVyRGF0ZTogRGF0ZS5ub3coKX0pCiAgICAgICAgfQogICAgfSwKICAgIGNoZWNrSW5wdXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICBjb25zb2xlLmxvZygidGltZToiICsgKERhdGUubm93KCkgLSB0aGlzLmRhdGEuYmx1ckRhdGUpKTsKICAgICAgICBpZiAodGhpcy5kYXRhLmJsdXJEYXRlKSB7CiAgICAgICAgICAgIERhdGUubm93KCkgLSB0aGlzLmRhdGEuYmx1ckRhdGUgPCA1MCA/IHRoaXMuZ29TaG9wKCkgOiB0aGlzLnNldERhdGEoe2lucHV0U2hvcElkOiAnJ30pCiAgICAgICAgfQogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">PHZpZXcgY2xhc3M9IkNzZWFyY2giPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldERhdGEoe2hpc3RvcnlTaG9wczogc2hvcExvZ2luSGlzdG9yeX0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
