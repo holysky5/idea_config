@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/service/DistProductsInDistService.java" timestamp="1515581482750">
@@ -377,10 +377,10 @@
         <mark key="." line="31" column="15" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="6" />
-        <mark key="." line="29" column="6" />
-        <mark key="^" line="29" column="6" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="27" column="6" />
+        <mark key="^" line="27" column="6" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-tools/ecerp-platform-mt-data-brandinfo-spider/syncTaobaoBrand.js" timestamp="1502948731942">
         <mark key="[" line="29" column="5" />
@@ -399,11 +399,11 @@
         <mark key="." line="84" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1520852564228" />
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520943401487">
-        <mark key="[" line="3577" column="32" />
-        <mark key="]" line="3577" column="32" />
-        <mark key="^" line="3577" column="30" />
-        <mark key="." line="3577" column="32" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520944211235">
+        <mark key="[" line="3529" column="0" />
+        <mark key="]" line="3529" column="0" />
+        <mark key="^" line="3580" column="38" />
+        <mark key="." line="3529" column="0" />
       </file>
       <file name="E:/workspace/sneakerheadxWeApp/src/pages/zmxy.wpy" timestamp="1520935776495">
         <mark key="[" line="5" column="50" />
@@ -584,7 +584,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -593,28 +593,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgYWx0PSJ0ZXN0Ij4K</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImNocm9tZS1leHRlbnNpb246Ly9jYmNvYmtqbWllaG9pcG5haGNvbG5ob2hiZWloa2hpYi9fbG9jYWxlcy9lbi9LZXJuZWwuanM/MC4xNDU3MDE5NzUxNjU1Mzg0Ij4K</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSJodHRwOi8vaW1hZ2UubGlraW5nLmNvbS9pcy9pbWFnZS9zbmVha2VyaGVhZC83OTBYNTAwLWltZy1KWEo/JDgwMF84MDAkJiRpbWc9MDM2LUhTUDdHVVdYOTItQi0yIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qXV0+Ki8K</text>
+        <text encoding="base64">ICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qPCFbQ0RBVEFbKi8K</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImNocm9tZS1leHRlbnNpb246Ly9jYmNvYmtqbWllaG9pcG5haGNvbG5ob2hiZWloa2hpYi9fbG9jYWxlcy9lbi9LZXJuZWwuanM/MC4xNDU3MDE5NzUxNjU1Mzg0Ij4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
+        <text encoding="base64">ICAgIC8qXV0+Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
+        <text encoding="base64">ICAgIC8qPCFbQ0RBVEFbKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC92aWV3Pgo=</text>
+        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -671,10 +671,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHZpZXcgY2xhc3M9IkNzZWFyY2giPgo=</text>
+        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC92aWV3Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
