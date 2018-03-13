@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/service/DistProductsInDistService.java" timestamp="1515581482750">
@@ -307,7 +307,7 @@
         <mark key="^" line="281" column="16" />
         <mark key="." line="281" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520943258557">
+      <file name="/Dummy.txt" timestamp="1520945592068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
@@ -377,10 +377,10 @@
         <mark key="." line="31" column="15" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="6" />
-        <mark key="." line="27" column="6" />
-        <mark key="^" line="27" column="6" />
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="6" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-tools/ecerp-platform-mt-data-brandinfo-spider/syncTaobaoBrand.js" timestamp="1502948731942">
         <mark key="[" line="29" column="5" />
@@ -399,11 +399,11 @@
         <mark key="." line="84" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1520852564228" />
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520944211235">
-        <mark key="[" line="3529" column="0" />
-        <mark key="]" line="3529" column="0" />
-        <mark key="^" line="3580" column="38" />
-        <mark key="." line="3529" column="0" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520945640620">
+        <mark key="[" line="3541" column="82" />
+        <mark key="]" line="3541" column="97" />
+        <mark key="^" line="3541" column="97" />
+        <mark key="." line="3541" column="97" />
       </file>
       <file name="E:/workspace/sneakerheadxWeApp/src/pages/zmxy.wpy" timestamp="1520935776495">
         <mark key="[" line="5" column="50" />
@@ -419,8 +419,8 @@
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/pom.xml" timestamp="1519909061107">
         <mark key="[" line="20" column="21" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/zmxy/zmxy.wxml" timestamp="1520942077512">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/zmxy/zmxy.wxml" timestamp="1520945486773">
+        <mark key="[" line="0" column="67" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="6" />
@@ -677,7 +677,7 @@
         <text encoding="base64">PC92aWV3Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -710,10 +710,10 @@
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry>action GotoTest</entry>
-        <entry>action Find</entry>
         <entry>action GotoAction</entry>
         <entry>action CloseActiveTab</entry>
         <entry>action GotoClass</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
