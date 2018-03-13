@@ -54,11 +54,12 @@
         <mark key="^" line="14" column="41" />
         <mark key="." line="14" column="41" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" timestamp="1520922333440">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="27" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" timestamp="1520938176394">
+        <mark key="'" line="23" column="71" />
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-fxapi/src/main/java/com/voyageone/web/distribution/api/xcx/services/order/SubmitOrderService.java" timestamp="1516701601937">
         <mark key="[" line="480" column="77" />
@@ -271,7 +272,7 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="E:/workspace/sneakerheadxWeApp/dist/project.config.json" timestamp="1520936246511" />
+      <file name="E:/workspace/sneakerheadxWeApp/dist/project.config.json" timestamp="1520938339635" />
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/templates/recommand/greatest-brand.html" timestamp="1514178231220">
         <mark key="[" line="212" column="32" />
       </file>
@@ -281,6 +282,7 @@
         <mark key="." line="42" column="7" />
         <mark key="^" line="42" column="7" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/dist-edit.html" timestamp="1520938715476" />
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/misc/WmsStockService.java" timestamp="1517983840127">
         <mark key="[" line="64" column="74" />
         <mark key="]" line="65" column="15" />
@@ -305,7 +307,7 @@
         <mark key="^" line="281" column="16" />
         <mark key="." line="281" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520924372925">
+      <file name="/Dummy.txt" timestamp="1520939059839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-openapi/src/main/java/com/voyageone/ecerp/openapi/cms/ctrl/categoryschema/CategorySchemaController.java" timestamp="1500359808409">
@@ -403,11 +405,11 @@
         <mark key="." line="84" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1520852564228" />
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520935327519">
-        <mark key="[" line="3571" column="0" />
-        <mark key="]" line="3571" column="0" />
-        <mark key="^" line="3568" column="58" />
-        <mark key="." line="3571" column="0" />
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520938755450">
+        <mark key="[" line="3565" column="7" />
+        <mark key="]" line="3568" column="0" />
+        <mark key="^" line="3568" column="23" />
+        <mark key="." line="3568" column="0" />
       </file>
       <file name="E:/workspace/sneakerheadxWeApp/src/pages/zmxy.wpy" timestamp="1520935776495">
         <mark key="[" line="5" column="50" />
@@ -415,7 +417,7 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/home/home.wxml" timestamp="1520936410236">
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/home/home.wxml" timestamp="1520937901874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -515,6 +517,7 @@
       <jump line="227" column="22" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
       <jump line="244" column="41" filename="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" />
       <jump line="1" column="0" filename="E:/workspace/voyageone-distribution/README.md" />
+      <jump line="23" column="71" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -587,7 +590,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -596,28 +599,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
+        <text encoding="base64">ICAgIC8qXV0+Ki8K</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC92aWV3Pgo=</text>
+        <text encoding="base64">ICAgIC8qPCFbQ0RBVEFbKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHZpZXcgY2xhc3M9IkNzZWFyY2giPgo=</text>
+        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHNob3BJbnB1dDogZnVuY3Rpb24gKGUpIHsKICAgICAgICB0aGlzLmRhdGEuaW5wdXRTaG9wSWQgPSBlLmRldGFpbC52YWx1ZQogICAgfSwKICAgIGdvU2hvcDogZnVuY3Rpb24gKCkgewogICAgICAgIHd4LnNldFN0b3JhZ2VTeW5jKCdzaG9wSWQnLCB0aGlzLmRhdGEuaW5wdXRTaG9wSWQpOwogICAgICAgIGxldCB0aGF0ID0gdGhpczsKICAgICAgICB0aGF0LnNldERhdGEoe3Nob3dMb2FkaW5nOiB0cnVlfSk7CiAgICAgICAgYXBwLmdldFNob3BJbmZvKGZ1bmN0aW9uIChzaG9wSW5mbykgewogICAgICAgICAgICB0aGF0LnNldERhdGEoe3Nob3dMb2FkaW5nOiBmYWxzZX0pOwogICAgICAgICAgICBpZiAoc2hvcEluZm8pIHsKICAgICAgICAgICAgICAgIHd4LnN3aXRjaFRhYih7dXJsOiAnLi4vaW5kZXgvaW5kZXgnfSkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHd4LnNob3dNb2RhbCh7CiAgICAgICAgICAgICAgICAgICAgc2hvd0NhbmNlbDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICfM4cq+JywKICAgICAgICAgICAgICAgICAgICBjb250ZW50OiAnw7vT0NXStb3E+rXEterGzCDH69DeuMS16sbMw/uzxtbY0MLL0cv3JywKICAgICAgICAgICAgICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXMuY29uZmlybSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ9PDu6e147v3yLe2qCcpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9CiAgICAgICAgfSkKICAgIH0sCiAgICBjbGlja1Nob3A6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgdGhpcy5zZXREYXRhKHtpbnB1dFNob3BJZDogZS5jdXJyZW50VGFyZ2V0LmlkfSk7CiAgICAgICAgdGhpcy5nb1Nob3AoKQogICAgfSwKICAgIGNsZWFySGlzdG9yeTogZnVuY3Rpb24gKCkgewogICAgICAgIHd4LnJlbW92ZVN0b3JhZ2VTeW5jKCdzaG9wTG9naW5IaXN0b3J5JywgbnVsbCk7CiAgICAgICAgdGhpcy5zZXREYXRhKHtoaXN0b3J5U2hvcHM6IFtdfSk7CiAgICB9LAogICAgZm9jdXM6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgdGhpcy5zZXREYXRhKHtidXR0b25UZXh0OiAivfjI6yJ9KQogICAgfSwKICAgIGJsdXI6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgaWYgKGUuZGV0YWlsLnZhbHVlKSB7CiAgICAgICAgICAgIHRoaXMuc2V0RGF0YSh7YnV0dG9uVGV4dDogIsihz/siLCBibHVyRGF0ZTogRGF0ZS5ub3coKX0pCiAgICAgICAgfQogICAgfSwKICAgIGNoZWNrSW5wdXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICBjb25zb2xlLmxvZygidGltZToiICsgKERhdGUubm93KCkgLSB0aGlzLmRhdGEuYmx1ckRhdGUpKTsKICAgICAgICBpZiAodGhpcy5kYXRhLmJsdXJEYXRlKSB7CiAgICAgICAgICAgIERhdGUubm93KCkgLSB0aGlzLmRhdGEuYmx1ckRhdGUgPCA1MCA/IHRoaXMuZ29TaG9wKCkgOiB0aGlzLnNldERhdGEoe2lucHV0U2hvcElkOiAnJ30pCiAgICAgICAgfQogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">PC92aWV3Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldERhdGEoe2hpc3RvcnlTaG9wczogc2hvcExvZ2luSGlzdG9yeX0pCg==</text>
+        <text encoding="base64">PHZpZXcgY2xhc3M9IkNzZWFyY2giPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2hvcExvZ2luSGlzdG9yeSA9IHd4LmdldFN0b3JhZ2VTeW5jKCdzaG9wTG9naW5IaXN0b3J5JykgfHwgW107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -674,10 +677,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgaW5wdXRTaG9wSWQ6ICcnLAogICAgICAgIGVycm9yTXNnOiAnJywKICAgICAgICBoaXN0b3J5U2hvcHM6IFtdLAogICAgICAgIGljb25zcmM6ICcvcmVzb3VyY2VzL2ltZy9saWdodC5wbmcnLAogICAgICAgIHBsYWNlSG9sZGVyOiAix+vK5MjrterGzMP7s8a78klEIiwKICAgICAgICBidXR0b25UZXh0OiAnvfjI6ycsCiAgICAgICAgYmx1ckRhdGU6IG51bGwsCiAgICAgICAgc2hvd0xvYWRpbmc6IGZhbHNl</text>
+        <text encoding="base64">ICAgIHNob3BJbnB1dDogZnVuY3Rpb24gKGUpIHsKICAgICAgICB0aGlzLmRhdGEuaW5wdXRTaG9wSWQgPSBlLmRldGFpbC52YWx1ZQogICAgfSwKICAgIGdvU2hvcDogZnVuY3Rpb24gKCkgewogICAgICAgIHd4LnNldFN0b3JhZ2VTeW5jKCdzaG9wSWQnLCB0aGlzLmRhdGEuaW5wdXRTaG9wSWQpOwogICAgICAgIGxldCB0aGF0ID0gdGhpczsKICAgICAgICB0aGF0LnNldERhdGEoe3Nob3dMb2FkaW5nOiB0cnVlfSk7CiAgICAgICAgYXBwLmdldFNob3BJbmZvKGZ1bmN0aW9uIChzaG9wSW5mbykgewogICAgICAgICAgICB0aGF0LnNldERhdGEoe3Nob3dMb2FkaW5nOiBmYWxzZX0pOwogICAgICAgICAgICBpZiAoc2hvcEluZm8pIHsKICAgICAgICAgICAgICAgIHd4LnN3aXRjaFRhYih7dXJsOiAnLi4vaW5kZXgvaW5kZXgnfSkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHd4LnNob3dNb2RhbCh7CiAgICAgICAgICAgICAgICAgICAgc2hvd0NhbmNlbDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICfM4cq+JywKICAgICAgICAgICAgICAgICAgICBjb250ZW50OiAnw7vT0NXStb3E+rXEterGzCDH69DeuMS16sbMw/uzxtbY0MLL0cv3JywKICAgICAgICAgICAgICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXMuY29uZmlybSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ9PDu6e147v3yLe2qCcpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9CiAgICAgICAgfSkKICAgIH0sCiAgICBjbGlja1Nob3A6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgdGhpcy5zZXREYXRhKHtpbnB1dFNob3BJZDogZS5jdXJyZW50VGFyZ2V0LmlkfSk7CiAgICAgICAgdGhpcy5nb1Nob3AoKQogICAgfSwKICAgIGNsZWFySGlzdG9yeTogZnVuY3Rpb24gKCkgewogICAgICAgIHd4LnJlbW92ZVN0b3JhZ2VTeW5jKCdzaG9wTG9naW5IaXN0b3J5JywgbnVsbCk7CiAgICAgICAgdGhpcy5zZXREYXRhKHtoaXN0b3J5U2hvcHM6IFtdfSk7CiAgICB9LAogICAgZm9jdXM6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgdGhpcy5zZXREYXRhKHtidXR0b25UZXh0OiAivfjI6yJ9KQogICAgfSwKICAgIGJsdXI6IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgaWYgKGUuZGV0YWlsLnZhbHVlKSB7CiAgICAgICAgICAgIHRoaXMuc2V0RGF0YSh7YnV0dG9uVGV4dDogIsihz/siLCBibHVyRGF0ZTogRGF0ZS5ub3coKX0pCiAgICAgICAgfQogICAgfSwKICAgIGNoZWNrSW5wdXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICBjb25zb2xlLmxvZygidGltZToiICsgKERhdGUubm93KCkgLSB0aGlzLmRhdGEuYmx1ckRhdGUpKTsKICAgICAgICBpZiAodGhpcy5kYXRhLmJsdXJEYXRlKSB7CiAgICAgICAgICAgIERhdGUubm93KCkgLSB0aGlzLmRhdGEuYmx1ckRhdGUgPCA1MCA/IHRoaXMuZ29TaG9wKCkgOiB0aGlzLnNldERhdGEoe2lucHV0U2hvcElkOiAnJ30pCiAgICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIMD6yre8x8K8CiAgICA8dmlldyBjbGFzcz0iaWNvbiIgYmluZHRhcD0iY2xlYXJIaXN0b3J5Ij4KICAgICAgPGltYWdlIHNyYz0ie3tpY29uc3JjfX0iPjwvaW1hZ2U+CiAgICAgIDx0ZXh0Psfls/08L3RleHQ+CiAgICA8L3ZpZXc+CiAgPC92aWV3PgogIDx2aWV3IGNsYXNzPSJ1bGxpc3QiIHd4OmlmPSJ7e2hpc3RvcnlTaG9wc319Ij4KICAgIDxibG9jayB3eDpmb3I9Int7aGlzdG9yeVNob3BzfX0iIHd4OmZvci1pdGVtPSJzaG9wIj4KICAgICAgPHZpZXcgY2xhc3M9ImxpIj4KICAgICAgICA8dGV4dCBiaW5kdGFwPSJjbGlja1Nob3AiIGlkPSJ7e3Nob3AuaWR9fSI+e3tzaG9wLm5hbWV9fTwvdGV4dD4KICAgICAgPC92aWV3PgogICAgPC9ibG9jaz4KICA8L3ZpZXc+Cjwvdmlldz4KPHZpZXcgY2xhc3M9Im1hc2siIHd4OmlmPSJ7e3Nob3dMb2FkaW5nfX0iPgogIDwvdmlldz4KICAgPHZpZXcgY2xhc3M9ImxvYWRpbmdfYm94IGxvYWRpbmdfYm94X3RvcCIgd3g6aWY9Int7c2hvd0xvYWRpbmd9fSI+CiAgICA8dmlldyBjbGFzcz0icHVsc2UgcHVsc2VfMSI+PC92aWV3PgogICAgPHZpZXcgY2xhc3M9InB1bHNlIHB1bHNlXzIiPjwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJwdWxzZSBwdWxzZV8zIj48L3ZpZXc+CiAgICA8dmlldyBjbGFzcz0icHVsc2UgcHVsc2VfNCI+PC92aWV3PgogIDwvdmlldz4K</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldERhdGEoe2hpc3RvcnlTaG9wczogc2hvcExvZ2luSGlzdG9yeX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
