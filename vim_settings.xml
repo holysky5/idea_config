@@ -18,7 +18,7 @@
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="E:/workspace/likingWear/ant/header.md" timestamp="1521020765520">
+      <file name="E:/workspace/likingWear/ant/header.md" timestamp="1521024246892">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
@@ -43,6 +43,12 @@
         <mark key="." line="18" column="4" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/DemoUserController.java" timestamp="1521020465607" />
+      <file name="E:/workspace/likingWear/ant/footer.md" timestamp="1521024332235">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+        <mark key="^" line="7" column="42" />
+      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/project.config.json" timestamp="1520936295629">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -93,7 +99,10 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521021087379">
+      <file name="E:/workspace/likingWear/.gitignore" timestamp="1521024760611">
+        <mark key="[" line="24" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521025008737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
@@ -283,7 +292,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>缺少参数 （这里就是单纯的缺少某个参数，没有任何附加条件，有附加条件的，由业务自行定义）</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
