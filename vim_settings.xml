@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/sneakerheadxWeApp/src/components/list.wpy" timestamp="1520848578140">
@@ -13,29 +13,15 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" timestamp="1520938176394">
-        <mark key="'" line="23" column="71" />
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="21" />
-        <mark key="." line="25" column="21" />
-        <mark key="^" line="25" column="24" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/project.config.json" timestamp="1520936295629">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-      </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/fc/AddProductToVmsPipeline.java" timestamp="1520993512960">
-        <mark key="[" line="191" column="96" />
-        <mark key="]" line="191" column="100" />
-        <mark key="." line="191" column="100" />
-        <mark key="^" line="191" column="100" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-amazon/src/main/java/com/voyageone/ecerp/interfaces/third/amazon/core/beans/xsd/WebstoreItem.java" timestamp="1520997937851" />
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/home/home.js" timestamp="1520936365422">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
+      </file>
+      <file name="E:/workspace/likingWear/ant/header.md" timestamp="1521020765520">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/pom.xml" timestamp="1520848842291">
         <mark key="[" line="250" column="29" />
@@ -43,47 +29,35 @@
         <mark key="." line="250" column="29" />
         <mark key="^" line="250" column="29" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" timestamp="1520938176394">
+        <mark key="'" line="23" column="71" />
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="24" />
+      </file>
       <file name="E:/workspace/sneakerheadxWeApp/src/components/groupitem.wpy" timestamp="1520909796094">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="E:/workspace/likingWear/pom.xml" timestamp="1521002523440">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="5" column="36" />
+      <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/DemoUserController.java" timestamp="1521020465607" />
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/project.config.json" timestamp="1520936295629">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
-        <mark key="^" line="23" column="6" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/layout/default.html" timestamp="1520918674916" />
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520995706527">
-        <mark key="[" line="3577" column="0" />
-        <mark key="]" line="3577" column="0" />
-        <mark key="^" line="3541" column="97" />
-        <mark key="." line="3577" column="0" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/home/home.wxml" timestamp="1520937901874">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/zmxy/zmxy.wxml" timestamp="1520945486773">
-        <mark key="[" line="0" column="67" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="6" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/webroot/js/app/zhima_auth/sesame.js" timestamp="1520920148547" />
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/test/java/com/voyageone/ecerp/interfaces/third/goldjet/GoldJetServiceTest.java" timestamp="1519883298612">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/SqlToMongoQueryTest.java" timestamp="1520846977213">
+        <mark key="[" line="42" column="98" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520993398145">
         <mark key="[" line="249" column="74" />
@@ -91,10 +65,65 @@
         <mark key="." line="251" column="21" />
         <mark key="^" line="251" column="21" />
       </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/fc/AddProductToVmsPipeline.java" timestamp="1520993512960">
+        <mark key="[" line="191" column="96" />
+        <mark key="]" line="191" column="100" />
+        <mark key="." line="191" column="100" />
+        <mark key="^" line="191" column="100" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-rest/src/test/java/com/voyageone/likingwear/rest/controller/DemoUserControllerTest.java" timestamp="1521020460720">
+        <mark key="[" line="15" column="93" />
+        <mark key="]" line="15" column="93" />
+        <mark key="^" line="15" column="93" />
+        <mark key="." line="15" column="93" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-task/pom.xml" timestamp="1521020593010">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/workspace/likingWear/pom.xml" timestamp="1521020564836">
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+      </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/pom.xml" timestamp="1519909051334">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521021087379">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520995706527">
+        <mark key="[" line="3577" column="0" />
+        <mark key="]" line="3577" column="0" />
+        <mark key="^" line="3541" column="97" />
+        <mark key="." line="3577" column="0" />
+      </file>
+      <file name="E:/workspace/likingWear/ant_rest/header.md" timestamp="1521020791278">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/home/home.wxml" timestamp="1520937901874">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/workspace/sneakerheadxWeApp/src/pages/zmxy.wpy" timestamp="1520935776495">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+        <mark key="^" line="5" column="59" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/SearchStartup.java" timestamp="1520922534208">
         <mark key="[" line="146" column="20" />
@@ -102,28 +131,12 @@
         <mark key="^" line="146" column="19" />
         <mark key="." line="146" column="19" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-amazon/src/main/resources/xsd/Product.xsd" timestamp="1521001651361" />
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/芝麻认证.html" timestamp="1520918953289" />
-      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/ParallelFlux.java" timestamp="1520853343200" />
-      <file name="E:/workspace/sneakerheadxWeApp/dist/project.config.json" timestamp="1520938339635" />
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/SqlToMongoQueryTest.java" timestamp="1520846977213">
-        <mark key="[" line="42" column="98" />
-        <mark key="]" line="42" column="7" />
-        <mark key="." line="42" column="7" />
-        <mark key="^" line="42" column="7" />
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/zmxy/zmxy.wxml" timestamp="1520945486773">
+        <mark key="[" line="0" column="67" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="6" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/dist-edit.html" timestamp="1520938715476" />
-      <file name="/Dummy.txt" timestamp="1521001704079">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1520852564228" />
-      <file name="E:/workspace/sneakerheadxWeApp/src/pages/zmxy.wpy" timestamp="1520935776495">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="59" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/search-result/search-result.wxml" timestamp="1520935886966" />
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/resources/context-task-cron.xml" timestamp="1521000652586">
         <mark key="[" line="22" column="90" />
         <mark key="]" line="22" column="90" />
@@ -270,7 +283,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -279,28 +292,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">sb7OxLW1zqpIdWFTaGFuZ7+qt8XGvcyotcRBUEm907/atqjS5QogIAoKIyMjIyAxLiBIZWFkZXLH68fzss7K/ToKCsP7s8Z8wODQzXzLtcP3CjotLS0tLXw6LS0tLS18Oi0tLS0tCmFjY2Vzc1Rva2VufFN0cmluZ3y5qdOmycy5usLy06bTw7XEVG9rZW4KCmFjY2Vzc1Rva2Vu09C5/cbayrG85Cwguf3G2rrz0OjSqtPDcmVmcmVzaFRva2Vu1tjQwsui0MJhY2Nlc3NUb2tlbqGjCmFjY2Vzc1Rva2Vuus1yZWZyZXNoVG9rZW674dTatcfCvLPJuabKsbvxyKGhowoKIyMjIyAyLiC52NPavdO/2re1u9jWtSwgyPTO3szYyuLLtcP3o6y48cq9yOfPwjoKYGBgCnsKICAnY29kZSc6IDAsICAgLy8g1fvQzaOsse3KvrSmwO294bn7tPrC67HgusUKICAnbXNnJzogJycsICAgLy8g19a3+7Suo6yx7cq+tKbA7b3hufvD6Mr2LCDWu9PQtbG0psDtveG5+86qsrvV/ci3yrGyxdPQ1rUKICAnZGF0YSc6IHsgLi4uIC4uLiB9ICAgLy8gTWFwwODQzaOsyOfO3szYyuLLtcP3o6wqKrTLtKa8tM6quPe907/ay7XD99bQtcQi06bTw7y2t7W72NfWts4iKioKICAgICAgICAgICAgICAgICAgICAgICAgLy8gttTT2rj80MLPtaOs08nT2sO709C3tbvY1rWjqNa709C0psDtveG5+2NvZGWjqaOs0vK0y8O709C4w8/uCn0KYGBgCgoKttTT2rOjvPvOyszio6zH67LOvPvOxMSptcRGQVEuCg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuUGFnZSArPSAiI3dlY2hhdF9yZWRpcmVjdCI7Cg==</text>
+        <text encoding="base64">sb7OxLW1zqpIdWFTaGFuZ7+qt8XGvcyotcRBUEm907/atqjS5QogIAoKIyMjIyAxLiBIZWFkZXLH68fzss7K/ToKCsP7s8Z8wODQzXzLtcP3CjotLS0tLXw6LS0tLS18Oi0tLS0tCmFjY2Vzc1Rva2VufFN0cmluZ3y5qdOmycy5usLy06bTw7XEVG9rZW4KCmFjY2Vzc1Rva2Vu09C5/cbayrG85Cwguf3G2rrz0OjSqtPDcmVmcmVzaFRva2Vu1tjQwsui0MJhY2Nlc3NUb2tlbqGjCmFjY2Vzc1Rva2Vuus1yZWZyZXNoVG9rZW674dTatcfCvLPJuabKsbvxyKGhowoKIyMjIyAyLiC52NPavdO/2re1u9jWtSwgyPTO3szYyuLLtcP3o6y48cq9yOfPwjoKYGBgCnsKICAnY29kZSc6IDAsICAgLy8g1fvQzaOsse3KvrSmwO294bn7tPrC67HgusUKICAnbXNnJzogJycsICAgLy8g19a3+7Suo6yx7cq+tKbA7b3hufvD6Mr2LCDWu9PQtbG0psDtveG5+86qsrvV/ci3yrGyxdPQ1rUKICAnZGF0YSc6IHsgLi4uIC4uLiB9ICAgLy8gTWFwwODQzaOsyOfO3szYyuLLtcP3o6wqKrTLtKa8tM6quPe907/ay7XD99bQtcQi06bTw7y2t7W72NfWts4iKioKICAgICAgICAgICAgICAgICAgICAgICAgLy8gttTT2rj80MLPtaOs08nT2sO709C3tbvY1rWjqNa709C0psDtveG5+2NvZGWjqaOs0vK0y8O709C4w8/uCn0KYGBgCgoKttTT2rOjvPvOyszio6zH67LOvPvOxMSptcRGQVEuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgYWx0PSJ0ZXN0Ij4K</text>
+        <text encoding="base64">sb7OxLW1zqpIdWFTaGFuZ7+qt8XGvcyotcRBUEm907/atqjS5Qo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSJodHRwOi8vaW1hZ2UubGlraW5nLmNvbS9pcy9pbWFnZS9zbmVha2VyaGVhZC83OTBYNTAwLWltZy1KWEo/JDgwMF84MDAkJiRpbWc9MDM2LUhTUDdHVVdYOTItQi0yIgo=</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS52b3lhZ2VvbmUubGlraW5nd2VhcjwvZ3JvdXBJZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImNocm9tZS1leHRlbnNpb246Ly9jYmNvYmtqbWllaG9pcG5haGNvbG5ob2hiZWloa2hpYi9fbG9jYWxlcy9lbi9LZXJuZWwuanM/MC4xNDU3MDE5NzUxNjU1Mzg0Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuUGFnZSArPSAiI3dlY2hhdF9yZWRpcmVjdCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qXV0+Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgYWx0PSJ0ZXN0Ij4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -357,10 +370,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qPCFbQ0RBVEFbKi8K</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSJodHRwOi8vaW1hZ2UubGlraW5nLmNvbS9pcy9pbWFnZS9zbmVha2VyaGVhZC83OTBYNTAwLWltZy1KWEo/JDgwMF84MDAkJiRpbWc9MDM2LUhTUDdHVVdYOTItQi0yIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IDx3ZWItdmlldyBzcmM9Imh0dHBzOi8vZmVueGlhby52b3lhZ2VvbmUuY29tLmNuL3NjcmlwdHMvemhpbWFfYXV0aCI+PC93ZWItdmlldz4gCg==</text>
+        <text encoding="base64">ICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -371,7 +384,7 @@
       <last-offset />
       <last-pattern>price</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
