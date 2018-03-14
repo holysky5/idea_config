@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/sneakerheadxWeApp/src/components/list.wpy" timestamp="1520848578140">
@@ -8,22 +8,10 @@
         <mark key="]" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/recommand/views/RecommandController.java" timestamp="1514549639066">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="76" column="50" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/zmxy/zmxy.js" timestamp="1520935829922">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/pom.xml" timestamp="1520841933524">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="41" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" timestamp="1520938176394">
         <mark key="'" line="23" column="71" />
@@ -32,28 +20,10 @@
         <mark key="." line="25" column="21" />
         <mark key="^" line="25" column="24" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-fxapi/src/main/java/com/voyageone/web/distribution/api/xcx/services/order/SubmitOrderService.java" timestamp="1516701601937">
-        <mark key="[" line="480" column="77" />
-        <mark key="]" line="480" column="77" />
-        <mark key="^" line="529" column="40" />
-        <mark key="." line="480" column="77" />
-      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/project.config.json" timestamp="1520936295629">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/FutureTest.java" timestamp="1516854271366">
-        <mark key="[" line="45" column="34" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="45" column="34" />
-        <mark key="^" line="46" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0dcda420-4a52-412e-8f00-21287ef2898b/console.sql" timestamp="1478520096710">
-        <mark key="[" line="1578" column="33" />
-        <mark key="]" line="1465" column="13" />
-        <mark key="^" line="1465" column="13" />
-        <mark key="." line="1465" column="13" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/fc/AddProductToVmsPipeline.java" timestamp="1520993512960">
         <mark key="[" line="191" column="96" />
@@ -61,77 +31,11 @@
         <mark key="." line="191" column="100" />
         <mark key="^" line="191" column="100" />
       </file>
-      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/java/com/voyageone/batch/wms/service/SynOrderToOldSynshipService.java" timestamp="1477535231721">
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="58" column="30" />
-      </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-domain/ecerp-platform-domain-bean/src/main/java/com/voyageone/ecerp/domain/PageFilter.java" timestamp="1517300429933">
-        <mark key="[" line="150" column="65" />
-        <mark key="]" line="150" column="62" />
-        <mark key="^" line="150" column="62" />
-        <mark key="." line="150" column="62" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a17f433-5d7f-4a74-8ba0-e43c06246a48/console.sql" timestamp="1471514894934">
-        <mark key="[" line="293" column="18" />
-        <mark key="]" line="293" column="19" />
-        <mark key="." line="293" column="19" />
-        <mark key="^" line="293" column="19" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/model/GoldJetOrderDetail.java" timestamp="1519881380010">
-        <mark key="[" line="215" column="33" />
-        <mark key="]" line="215" column="39" />
-        <mark key="^" line="215" column="39" />
-        <mark key="." line="215" column="39" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/HuaXinConfig.java" timestamp="1519958296636">
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="42" column="11" />
-        <mark key="^" line="42" column="14" />
-        <mark key="." line="42" column="11" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/dao/mongodb/DistCategoryTreeDao.java" timestamp="1515073630438">
-        <mark key="[" line="16" column="3" />
-        <mark key="]" line="16" column="2" />
-        <mark key="^" line="16" column="2" />
-        <mark key="." line="16" column="2" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/HuaXinService.java" timestamp="1519958333387">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="55" column="66" />
-        <mark key="^" line="55" column="66" />
-        <mark key="." line="55" column="66" />
-      </file>
-      <file name="E:/workspace/wepydemo/myproject/src/pages/index.wpy" timestamp="1519880249281">
-        <mark key="[" line="82" column="25" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="90" column="0" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/GoldJetConfig.java" timestamp="1519883538659">
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="62" column="25" />
-        <mark key="." line="62" column="25" />
-        <mark key="^" line="62" column="25" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/427e52f5-a8e0-4079-affe-ce0857d9bb27/console.sql" timestamp="1490334539185">
-        <mark key="[" line="49" column="9" />
-        <mark key="]" line="39" column="54" />
-        <mark key="^" line="49" column="9" />
-        <mark key="." line="39" column="54" />
-      </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-amazon/src/main/java/com/voyageone/ecerp/interfaces/third/amazon/core/beans/xsd/WebstoreItem.java" timestamp="1520997937851" />
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/home/home.js" timestamp="1520936365422">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-xhs/src/main/java/com/voyageone/ecerp/interfaces/third/xhs/endpoint/spu/model/Item.java" timestamp="1506317040378">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="30" column="17" />
-        <mark key="^" line="30" column="17" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/pom.xml" timestamp="1520848842291">
         <mark key="[" line="250" column="29" />
@@ -145,59 +49,17 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/CollectionTest.java" timestamp="1516676620418">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-task/task-dist/src/main/java/com/voyageone/task/distribution/service/DistGreatestBrandProductCountService.java" timestamp="1514868936357">
-        <mark key="[" line="48" column="59" />
-        <mark key="]" line="45" column="27" />
-        <mark key="." line="45" column="27" />
-        <mark key="^" line="45" column="27" />
-      </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/flightclub/FlightClubService.java" timestamp="1519964184379">
-        <mark key="[" line="198" column="96" />
-        <mark key="]" line="198" column="96" />
-        <mark key="^" line="198" column="112" />
-        <mark key="." line="198" column="96" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/model/OrderStatus.java" timestamp="1519882881448">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/request/GoldJetRequest.java" timestamp="1519880704979">
-        <mark key="[" line="42" column="19" />
-        <mark key="]" line="42" column="24" />
-        <mark key="." line="42" column="24" />
-        <mark key="^" line="42" column="24" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/CategoriesService.java" timestamp="1514532943763">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-      </file>
-      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-synship/src/test/java/com/voyageone/batch/synship/dao/TrackingDaoTest.java" timestamp="1466478461940">
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="15" />
-        <mark key="^" line="31" column="15" />
-        <mark key="." line="31" column="15" />
+      <file name="E:/workspace/likingWear/pom.xml" timestamp="1521002523440">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="5" column="36" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
         <mark key="[" line="23" column="7" />
         <mark key="]" line="23" column="6" />
         <mark key="." line="23" column="6" />
         <mark key="^" line="23" column="6" />
-      </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-tools/ecerp-platform-mt-data-brandinfo-spider/syncTaobaoBrand.js" timestamp="1502948731942">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="5" />
-        <mark key="^" line="29" column="5" />
-        <mark key="." line="29" column="5" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/layout/default.html" timestamp="1520918674916" />
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520995706527">
@@ -217,19 +79,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/dao/mongodb/model/DistCategoryTreeModel.java" timestamp="1515073771090">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/webroot/js/app/zhima_auth/sesame.js" timestamp="1520920148547" />
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/product/flightclub/FlightClubServiceTest.java" timestamp="1519962251542">
-        <mark key="[" line="87" column="101" />
-        <mark key="]" line="87" column="103" />
-        <mark key="." line="87" column="103" />
-        <mark key="^" line="87" column="103" />
-      </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/test/java/com/voyageone/ecerp/interfaces/third/goldjet/GoldJetServiceTest.java" timestamp="1519883298612">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="116" column="0" />
@@ -241,52 +91,10 @@
         <mark key="." line="251" column="21" />
         <mark key="^" line="251" column="21" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistProductHtmlController.java" timestamp="1515383559972">
-        <mark key="[" line="230" column="47" />
-        <mark key="]" line="230" column="48" />
-        <mark key="^" line="230" column="48" />
-        <mark key="." line="230" column="48" />
-      </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/pom.xml" timestamp="1519909051334">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-fxapi/src/test/java/com/voyageone/web/distribution/core/dao/solr/SolrDistProductDaoTest.java" timestamp="1514985545431">
-        <mark key="[" line="27" column="62" />
-        <mark key="]" line="27" column="62" />
-        <mark key="^" line="29" column="39" />
-        <mark key="." line="27" column="62" />
-      </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/test/java/com/voyageone/ecerp/task/platform/misc/WmsStockServiceTest.java" timestamp="1517983519423">
-        <mark key="[" line="25" column="69" />
-        <mark key="]" line="25" column="68" />
-        <mark key="^" line="25" column="68" />
-        <mark key="." line="25" column="68" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-huaxin/src/main/java/com/voyageone/ecerp/interfaces/third/huaxin/request/HuaXinRequest.java" timestamp="1519958251175">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/core/service/RecommandService.java" timestamp="1514895289147">
-        <mark key="[" line="365" column="44" />
-        <mark key="]" line="365" column="54" />
-        <mark key="^" line="365" column="54" />
-        <mark key="." line="365" column="54" />
-      </file>
-      <file name="E:/project/ecerp-common-parent/ecerp-common-components/ecerp-data/ecerp-data-mongo/src/test/java/com/voyageone/common/mongodb/JongoDaoTest.java" timestamp="1492760675697">
-        <mark key="[" line="63" column="53" />
-        <mark key="]" line="63" column="38" />
-        <mark key="^" line="63" column="38" />
-        <mark key="." line="63" column="38" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/api/controller/DistBrandController.java" timestamp="1514176562646">
-        <mark key="[" line="32" column="61" />
-        <mark key="]" line="32" column="62" />
-        <mark key="^" line="32" column="62" />
-        <mark key="." line="32" column="62" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/SearchStartup.java" timestamp="1520922534208">
         <mark key="[" line="146" column="20" />
@@ -294,31 +102,7 @@
         <mark key="^" line="146" column="19" />
         <mark key="." line="146" column="19" />
       </file>
-      <file name="E:/project/old/voyageone-web1/voyageone-wms/src/main/java/com/voyageone/mybatis/mappers/wms/locationMapper.xml" timestamp="1464846876617">
-        <mark key="[" line="533" column="56" />
-        <mark key="]" line="533" column="7" />
-        <mark key="^" line="533" column="7" />
-        <mark key="." line="533" column="7" />
-      </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-amazon/src/main/resources/xsd/Product.xsd" timestamp="1521001651361" />
-      <file name="E:/workspace/wepydemo/myproject/src/common/common2.js" timestamp="1519875463556">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/base/dao/mongodb/model/BaseMongoModel.java" timestamp="1515120737675">
-        <mark key="[" line="41" column="18" />
-        <mark key="]" line="43" column="5" />
-        <mark key="^" line="43" column="5" />
-        <mark key="." line="43" column="5" />
-      </file>
-      <file name="E:/project/old/voyageone-batchjob-all/voyageone-batchjob-wms/src/main/resources/applicationContext-wms.xml" timestamp="1478153193502">
-        <mark key="[" line="14" column="121" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="49" column="17" />
-        <mark key="^" line="15" column="7" />
-      </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/芝麻认证.html" timestamp="1520918953289" />
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/ParallelFlux.java" timestamp="1520853343200" />
       <file name="E:/workspace/sneakerheadxWeApp/dist/project.config.json" timestamp="1520938339635" />
@@ -329,62 +113,8 @@
         <mark key="^" line="42" column="7" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/dist-edit.html" timestamp="1520938715476" />
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/misc/WmsStockService.java" timestamp="1517983840127">
-        <mark key="[" line="64" column="74" />
-        <mark key="]" line="65" column="15" />
-        <mark key="^" line="65" column="15" />
-        <mark key="." line="65" column="15" />
-      </file>
-      <file name="E:/workspace/sneakerheadxWeApp/src/app.wpy" timestamp="1520923711505">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="19" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="18" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/webapp/webroot/css/index.css" timestamp="1515056001552">
-        <mark key="[" line="281" column="17" />
-        <mark key="]" line="281" column="17" />
-        <mark key="^" line="281" column="16" />
-        <mark key="." line="281" column="17" />
-      </file>
       <file name="/Dummy.txt" timestamp="1521001704079">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/base/controller/BaseHtmlController.java" timestamp="1520841215987">
-        <mark key="[" line="85" column="18" />
-        <mark key="]" line="85" column="18" />
-        <mark key="^" line="85" column="20" />
-        <mark key="." line="85" column="18" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/GoldJetService.java" timestamp="1519883533238">
-        <mark key="[" line="81" column="9" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="140" column="21" />
-        <mark key="." line="141" column="0" />
-      </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-express-delivery-parent/ecerp-interfaces-goldjet/src/main/java/com/voyageone/ecerp/interfaces/third/goldjet/model/Goods.java" timestamp="1519796244556">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="17" />
-      </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/fc/HandleFlightClubPreMatchCodeJob.java" timestamp="1519962821909">
-        <mark key="[" line="96" column="5" />
-        <mark key="]" line="89" column="4" />
-        <mark key="^" line="89" column="9" />
-        <mark key="." line="89" column="4" />
-      </file>
-      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/main/java/com/voyageone/ecerp/service/impl/platform/product/StyleNoUtils.java" timestamp="1509024825731">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-      </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-fxapi/src/test/java/com/voyageone/web/distribution/api/xcx/services/order/SubmitOrderServiceTest.java" timestamp="1516701398065">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="80" column="119" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.4.RELEASE/reactor-core-3.1.4.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1520852564228" />
       <file name="E:/workspace/sneakerheadxWeApp/src/pages/zmxy.wpy" timestamp="1520935776495">
@@ -392,12 +122,6 @@
         <mark key="]" line="5" column="59" />
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
-      </file>
-      <file name="E:/workspace/sneakerheadxWeApp/src/pages/home.wpy" timestamp="1520923979253">
-        <mark key="[" line="287" column="31" />
-        <mark key="]" line="287" column="31" />
-        <mark key="^" line="279" column="25" />
-        <mark key="." line="287" column="31" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/search-result/search-result.wxml" timestamp="1520935886966" />
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/resources/context-task-cron.xml" timestamp="1521000652586">
@@ -546,7 +270,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
