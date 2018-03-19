@@ -1,9 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/workspace/voyageone-distribution/distribution-task/task-dist/src/main/java/com/voyageone/task/distribution/VoDistStartup.java" timestamp="1521029637759" />
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" timestamp="1521431232123">
+        <mark key="'" line="25" column="105" />
+        <mark key="[" line="26" column="73" />
+        <mark key="]" line="26" column="73" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="26" column="73" />
+      </file>
       <file name="E:/workspace/sneakerheadxWeApp/src/components/list.wpy" timestamp="1520848578140">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
@@ -36,7 +42,6 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/base/dao/mongodb/model/ComIssueLogModel.java" timestamp="1521029576559" />
       <file name="E:/workspace/sneakerheadxWeApp/src/components/groupitem.wpy" timestamp="1520909796094">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="4" />
@@ -49,8 +54,6 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="E:/workspace/likingWear/.editorconfig" timestamp="1521027648649" />
-      <file name="$MAVEN_REPOSITORY$/com/voyageone/vo-common-dependency-management/0.0.1-SNAPSHOT/vo-common-dependency-management-0.0.1-SNAPSHOT.pom" timestamp="1521030169046" />
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/project.config.json" timestamp="1520936295629">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -110,16 +113,20 @@
       <file name="E:/workspace/likingWear/.gitignore" timestamp="1521024760611">
         <mark key="[" line="24" column="10" />
       </file>
-      <file name="E:/workspace/voyageone-distribution/distribution-base/src/main/java/com/voyageone/web/distribution/base/dao/mongodb/model/TaskInfoModel.java" timestamp="1521028888366" />
       <file name="/Dummy.txt" timestamp="1521029366329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="E:/workspace/likingWear/likingwear-service/src/test/java/com/voyageone/likingwear/service/DemoUserServiceTest.java" timestamp="1521028393304" />
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/JobConfigDao.java" timestamp="1521029159952">
         <mark key="[" line="14" column="26" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/RadioField.java" timestamp="1521431158899">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+        <mark key="^" line="22" column="43" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/JobConfigModel.java" timestamp="1521029468567">
         <mark key="[" line="23" column="38" />
@@ -258,6 +265,8 @@
       <jump line="1" column="0" filename="E:/workspace/voyageone-distribution/README.md" />
       <jump line="23" column="71" filename="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" />
       <jump line="10" column="22" filename="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/JobConfig.java" />
+      <jump line="23" column="0" filename="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" />
+      <jump line="24" column="105" filename="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -330,13 +339,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>configs_ext;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
       </register>
-      <register name="0" type="4">
-        <text />
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBncm91cEZpZWxkLmFkZENoaWxkKG5ldyBOdW1iZXJGaWVsZChuZXcgT2JqZWN0SWQoKS50b0hleFN0cmluZygpLCJ3ZWlnaHQiLCLM5dbYIixudWxsLCJrZyIsMSx0cnVlLDEwMCw0MCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPjwvZ3JvdXBJZD4K</text>
