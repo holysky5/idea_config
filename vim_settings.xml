@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" timestamp="1521431232123">
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" timestamp="1521431244670">
         <mark key="'" line="25" column="105" />
-        <mark key="[" line="26" column="73" />
-        <mark key="]" line="26" column="73" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="26" column="73" />
+        <mark key="[" line="26" column="79" />
+        <mark key="]" line="26" column="78" />
+        <mark key="^" line="26" column="78" />
+        <mark key="." line="26" column="78" />
       </file>
       <file name="E:/workspace/sneakerheadxWeApp/src/components/list.wpy" timestamp="1520848578140">
         <mark key="[" line="33" column="4" />
@@ -339,7 +339,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>重</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
