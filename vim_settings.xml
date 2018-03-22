@@ -3,12 +3,6 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/UserController.java" timestamp="1521525070192">
-        <mark key="[" line="211" column="55" />
-        <mark key="]" line="211" column="55" />
-        <mark key="^" line="211" column="57" />
-        <mark key="." line="211" column="55" />
-      </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/GroupField.java" timestamp="1521435629755">
         <mark key="[" line="31" column="33" />
         <mark key="]" line="31" column="36" />
@@ -22,67 +16,78 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="19" />
       </file>
+      <file name="E:/workspace/likingWear/ant/footer.md" timestamp="1521024332235">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+        <mark key="^" line="7" column="42" />
+      </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/NumberField.java" timestamp="1521435891466" />
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-partener-parent/ecerp-interfaces-lazada/src/main/java/com/alibaba/normandie/api/endpoint/order/request/SetStatusToCanceled.java" timestamp="1521435179009">
-        <mark key="[" line="25" column="5" />
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/fc/AddProductToVmsPipeline.java" timestamp="1520993512960">
+        <mark key="[" line="191" column="96" />
+        <mark key="]" line="191" column="100" />
+        <mark key="." line="191" column="100" />
+        <mark key="^" line="191" column="100" />
       </file>
       <file name="E:/workspace/likingWear/.gitignore" timestamp="1521024760611">
         <mark key="[" line="24" column="10" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/pom.xml" timestamp="1521524742386" />
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/KoalaItemService.java" timestamp="1521524297361">
-        <mark key="[" line="231" column="16" />
-        <mark key="]" line="231" column="14" />
-        <mark key="^" line="231" column="14" />
-        <mark key="." line="231" column="14" />
+      <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/BaseApiController.java" timestamp="1521706004042">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="59" column="3" />
+        <mark key="." line="59" column="3" />
+        <mark key="^" line="59" column="3" />
       </file>
-      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/UserStyleDao.java" timestamp="1521526060171" />
-      <file name="E:/workspace/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/TaskStartup.java" timestamp="1521029945478">
-        <mark key="[" line="11" column="26" />
+      <file name="E:/workspace/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/TaskConfig.java" timestamp="1521029627790">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/Field.java" timestamp="1521435643025" />
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/beans/response/ItemUpdateResponse.java" timestamp="1521524135237">
-        <mark key="[" line="10" column="33" />
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/beans/response/ItemUpdateResponse.java" timestamp="1521706057409">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/beans/request/ItemUpdateRequest.java" timestamp="1521524031737">
         <mark key="[" line="18" column="30" />
       </file>
-      <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/bean/SaveUserStyleRequest.java" timestamp="1521525026033">
-        <mark key="[" line="17" column="35" />
+      <file name="E:/workspace/ecerp-platform-parent/pom.xml" timestamp="1521030377330">
+        <mark key="[" line="250" column="29" />
+        <mark key="]" line="250" column="29" />
+        <mark key="." line="250" column="29" />
+        <mark key="^" line="250" column="29" />
       </file>
-      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/UserStyleItem.java" timestamp="1521525061224">
-        <mark key="[" line="27" column="36" />
+      <file name="E:/workspace/sneakerheadxWeApp/src/components/groupitem.wpy" timestamp="1520909796094">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-partener-parent/ecerp-interfaces-lazada/src/main/java/com/alibaba/normandie/api/core/response/UpdateResponse.java" timestamp="1521705300899" />
       <file name="E:/workspace/likingWear/likingwear-service/pom.xml" timestamp="1521030435999">
         <mark key="[" line="52" column="21" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/beans/request/ItemBatchStatusGetRequest.java" timestamp="1521524012290">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="114" column="0" />
+      <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/common/CommonController.java" timestamp="1521705935065">
+        <mark key="[" line="210" column="40" />
+        <mark key="]" line="210" column="40" />
+        <mark key="." line="210" column="40" />
+        <mark key="^" line="210" column="40" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-rest/src/test/java/com/voyageone/likingwear/rest/controller/DemoUserControllerTest.java" timestamp="1521020460720">
+        <mark key="[" line="15" column="93" />
+        <mark key="]" line="15" column="93" />
+        <mark key="^" line="15" column="93" />
+        <mark key="." line="15" column="93" />
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/beans/request/ItemAddPartRequest.java" timestamp="1521523479316" />
-      <file name="/Dummy.txt" timestamp="1521524416930">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserService.java" timestamp="1521525935680">
         <mark key="[" line="171" column="8" />
       </file>
-      <file name="E:/workspace/likingWear/likingwear-service/src/test/java/com/voyageone/likingwear/dao/UserStyleDaoTest.java" timestamp="1521435665278">
-        <mark key="[" line="18" column="31" />
-      </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/JobConfigDao.java" timestamp="1521029159952">
         <mark key="[" line="14" column="26" />
-      </file>
-      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/RadioField.java" timestamp="1521431158899">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="22" column="43" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/BaseMongoDao.java" timestamp="1521526073376">
         <mark key="[" line="109" column="5" />
@@ -90,14 +95,143 @@
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/IssueLogModel.java" timestamp="1521029407232">
         <mark key="[" line="13" column="27" />
       </file>
-      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/IssueLogDao.java" timestamp="1521029427068">
-        <mark key="[" line="12" column="3" />
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="6" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/InputField.java" timestamp="1521435896817">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1521435661329">
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520995706527">
+        <mark key="[" line="3577" column="0" />
+        <mark key="]" line="3577" column="0" />
+        <mark key="^" line="3541" column="97" />
+        <mark key="." line="3577" column="0" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-wechat/pages/zmxy/zmxy.wxml" timestamp="1520945486773">
+        <mark key="[" line="0" column="67" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="6" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/UserController.java" timestamp="1521525070192">
+        <mark key="[" line="211" column="55" />
+        <mark key="]" line="211" column="55" />
+        <mark key="^" line="211" column="57" />
+        <mark key="." line="211" column="55" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-resource/src/main/resources/application.properties" timestamp="1521028757677">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-service/ecerp-platform-service-impl/src/test/java/com/voyageone/ecerp/service/impl/platform/FluxTest.java" timestamp="1520993398145">
+        <mark key="[" line="249" column="74" />
+        <mark key="]" line="251" column="21" />
+        <mark key="." line="251" column="21" />
+        <mark key="^" line="251" column="21" />
+      </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-partener-parent/ecerp-interfaces-lazada/src/main/java/com/alibaba/normandie/api/endpoint/order/request/SetStatusToCanceled.java" timestamp="1521435179009">
+        <mark key="[" line="25" column="5" />
+      </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/pom.xml" timestamp="1521524742386" />
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/KoalaItemService.java" timestamp="1521706211027">
+        <mark key="'" line="130" column="23" />
+        <mark key="[" line="130" column="18" />
+        <mark key="]" line="130" column="18" />
+        <mark key="^" line="242" column="0" />
+        <mark key="." line="130" column="18" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/UserStyleDao.java" timestamp="1521526060171" />
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/JobConfigModel.java" timestamp="1521029468567">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="38" />
+        <mark key="." line="23" column="38" />
+        <mark key="^" line="22" column="24" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/TaskStartup.java" timestamp="1521029945478">
+        <mark key="[" line="11" column="26" />
+      </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-partener-parent/ecerp-interfaces-lazada/src/main/java/com/alibaba/normandie/api/core/response/IntUpdateResponse.java" timestamp="1521705503227">
+        <mark key="[" line="11" column="32" />
+      </file>
+      <file name="E:/workspace/likingWear/ant_rest/header.md" timestamp="1521023452915">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="2" column="13" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/SearchStartup.java" timestamp="1520922534208">
+        <mark key="[" line="146" column="20" />
+        <mark key="]" line="146" column="19" />
+        <mark key="^" line="146" column="19" />
+        <mark key="." line="146" column="19" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/bean/SaveUserStyleRequest.java" timestamp="1521525026033">
+        <mark key="[" line="17" column="35" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/UserStyleItem.java" timestamp="1521525061224">
+        <mark key="[" line="27" column="36" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/test/java/com/learn/SqlToMongoQueryTest.java" timestamp="1520846977213">
+        <mark key="[" line="42" column="98" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/bean/CommonConfigRequest.java" timestamp="1521705156194">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521524416930">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/ComConfigDao.java" timestamp="1521705864535">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="57" />
+        <mark key="^" line="26" column="57" />
+        <mark key="." line="26" column="57" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/ComConfigService.java" timestamp="1521705824994">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-service/src/test/java/com/voyageone/likingwear/dao/UserStyleDaoTest.java" timestamp="1521435665278">
+        <mark key="[" line="18" column="31" />
+      </file>
+      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/AbstractKoalaApiService.java" timestamp="1521706180851" />
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/RadioField.java" timestamp="1521431158899">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+      </file>
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/IssueLogDao.java" timestamp="1521029427068">
+        <mark key="[" line="12" column="3" />
+      </file>
+      <file name="E:/workspace/sneakerheadxWeApp/src/pages/zmxy.wpy" timestamp="1520935776495">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+        <mark key="^" line="5" column="59" />
+      </file>
+      <file name="/fragment.java" timestamp="1521705240957">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/resources/context-task-cron.xml" timestamp="1521000652586">
+        <mark key="[" line="22" column="90" />
+        <mark key="]" line="22" column="90" />
+        <mark key="^" line="22" column="90" />
+        <mark key="." line="22" column="90" />
       </file>
     </filemarks>
     <jumps>
@@ -170,6 +304,7 @@
       <jump line="10" column="22" filename="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/JobConfig.java" />
       <jump line="23" column="0" filename="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" />
       <jump line="24" column="105" filename="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" />
+      <jump line="240" column="23" filename="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/KoalaItemService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -242,7 +377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -250,29 +385,29 @@
       <register name="0" type="4">
         <text>userInfo</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLmFkZCgicGFnZV9zaXplIiwgU3RyaW5nLnZhbHVlT2YocGFnZVNpemUpKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">UHJpY2UgvNu48SDP+srbvNujrNfutuDWp7PWwb3Ou9Chyv0ovLS+q8i3tb231imjrMjnufvK5MjrtcTK/dfWzqozzrvS1MnP0KHK/aOsz7XNs7vh19S2r8vEyeHO5cjrs8kyzrvQocr9CiAgICAgKiBAcmV0dXJuINDeuMS94bn7CiAgICAgKi8KICAgIHB1YmxpYyBTa3VTYWxlUHJpY2VVcGRhdGVSZXNwb25zZSBza3VTYWxlUHJpY2VVcGRhdGUoS29hbGFDb25maWcgc2hvcENvbmZpZywgU3RyaW5nIGtleSwgQmlnRGVjaW1hbCBzYWxlUHJpY2UpIHsKICAgICAgICBjaGVja0FyZ3VtZW50KCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoa2V5KSwgIsnMxrdrZXmyu8Tczqq/1SIpOwogICAgICAgIGNoZWNrQXJndW1lbnQoc2FsZVByaWNlICE9IG51bGwsICK827jxsrvE3M6qv9UiKTsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gbmV3IFBhcmFtZXRlcnMoKS5hZGQoImtleSIsIGtleSkKICAgICAgICAgICAgICAgIC5hZGQoInNhbGVfcHJpY2UiLCBTdHJpbmcudmFsdWVPZihzYWxlUHJpY2UpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLnNrdS5zYWxlLnByaWNlLnVwZGF0ZSIsIHBhcmFtZXRlcnMsCiAgICAgICAgICAgICAgICBTa3VTYWxlUHJpY2VVcGRhdGVSZXNwb25zZS5jbGFzcyk7CiAgICB9CgogICAgLyoqCiAgICAgKiDQwtT2yczGtwogICAgICovCiAgICBwdWJsaWMgSXRlbUFkZFBhcnRSZXNwb25zZSBhZGRQYXJ0KEtvYWxhQ29uZmlnIHNob3BDb25maWcsIEl0ZW1BZGRQYXJ0UmVxdWVzdCByZXEpIHsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmFkZFBhcnQiLCByZXEudG9QYXJhbWV0ZXJzKCksCiAgICAgICAgICAgICAgICBJdGVtQWRkUGFydFJlc3BvbnNlLmNsYXNzKTsKICAgIH0KCiAgICAvKioKICAgICAqIMnPtKuy+sa3zbzGrAogICAgICoKICAgICAqIEBwYXJhbSBwaWMgzsS8/sTayN0KICAgICAqIEByZXR1cm4gyc+0q73hufsKICAgICAqLwogICAgcHVibGljIEl0ZW1JbWdVcGxvYWRSZXNwb25zZSBpbWdVcGxvYWQoS29hbGFDb25maWcgc2hvcENvbmZpZywgYnl0ZVtdIHBpYyxTdHJpbmcgZmlsZU5hbWUpIHsKICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQocGljIT1udWxsICYmIHBpYy5sZW5ndGg+MCAmJiAhU3RyaW5ncy5pc051bGxPckVtcHR5KGZpbGVOYW1lKSwizsS8/rK7xNzOqr/VsqLH0rTm1NoiKTsKICAgICAgICBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMgPSBuZXcgUGFyYW1ldGVycygpLnNldEJvZHlGaWxlKHBpYykuc2V0Qm9keUZpbGVOYW1lKGZpbGVOYW1lKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmltZy51cGxvYWQiLCBwYXJhbWV0ZXJzLCBJdGVtSW1nVXBsb2FkUmVzcG9uc2UuY2xhc3MpOwogICAgfQoKICAgIC8qKgogICAgICogyejWw8rHt/HS/rLYvNPI67m6zu+ztQogICAgICoKICAgICAqIEBwYXJhbSBrZXkgICAgICAgICAgIMnMxre1xGtleQogICAgICogQHBhcmFtIGhpZGVBZGRUb0NhcnQgyse38dL+sti808jrubrO77O1o6jWu9TK0O3Wsb3TubrC8qOpo6wwo7qyu9L+stijrDGjutL+stgKICAgICAqLwogICAgcHVibGljIEhpZGVjYXJ0VXBkYXRlUmVzcG9uc2UgaGlkZWNhcnRVcGRhdGUoS29hbGFDb25maWcgc2hvcENvbmZpZywgU3RyaW5nIGtleSwgaW50IGhpZGVBZGRUb0NhcnQpIHsKCiAgICAgICAgY2hlY2tBcmd1bWVudCghU3RyaW5ncy5pc051bGxPckVtcHR5KGtleSksICLJzMa3a2V5srvE3M6qv9UiKTsKICAgICAgICBjaGVja0FyZ3VtZW50KGhpZGVBZGRUb0NhcnQgPT0gMCB8fCBoaWRlQWRkVG9DYXJ0ID09IDEsICJoaWRlQWRkVG9DYXJ0IMfryKHWtSAwo7qyu9L+stijrDGjutL+stgiKTsKICAgICAgICBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMgPSBuZXcgUGFyYW1ldGVycygpLmFkZCgia2V5X2xpc3QiLCBrZXkpLmFkZCgiaGlkZV9hZGRfdG9fY2FydCIsIFN0cmluZy52YWx1ZU9mKGhpZGVBZGRUb0NhcnQpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmhpZGVjYXJ0LnVwZGF0ZSIsIHBhcmFtZXRlcnMsIEhpZGVjYXJ0VXBkYXRlUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIC8vCiAgICB9CgogICAgLyoqCiAgICAgKiDF+sG/sunRr8nMxrejrLvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEBwYXJhbSBpdGVtS2V5TGlzdCAxMDA5OC0zMDQ5LDEwMDk3LTMwNDkssrvE3LOsuf00MLj2CiAgICAgKiBAcmV0dXJuIMnMxre7+bG+0MXPoii/4rTmtcgpCiAgICAgKi8KICAgIHB1YmxpYyBJdGVtQmFzaWNbXSBnZXRCYXNpY0J5S2V5cyhLb2FsYUNvbmZpZyBzaG9wQ29uZmlnLCBTdHJpbmdbXSBpdGVtS2V5TGlzdCkgewogICAgICAgIGNoZWNrQXJndW1lbnQoaXRlbUtleUxpc3QgIT0gbnVsbCAmJiBpdGVtS2V5TGlzdC5sZW5ndGggPiAwICYmIGl0ZW1LZXlMaXN0Lmxlbmd0aCA8PSA0MCwKICAgICAgICAgICAgICAgICJpdGVtS2V5TGlzdLK7xNzOqr/Vx9Kyu8Tcs6y5/TQwuPYiKTsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gbmV3IFBhcmFtZXRlcnMoKS5hZGQoIml0ZW1fa2V5X2xpc3QiLCBTdHJpbmcuam9pbigiLCIsIGl0ZW1LZXlMaXN0KSk7CiAgICAgICAgcmV0dXJuIHJlcUFwaShzaG9wQ29uZmlnLCAia2FvbGEuaXRlbS5nZXRCYXNpY0J5S2V5cyIsCiAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzLCBJdGVtQmFzaWNbXS5jbGFzcywgIi9rYW9sYV9pdGVtX2dldEJhc2ljQnlLZXlzX3Jlc3BvbnNlL2l0ZW1fbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICoguPm+3XNrdbvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEBwYXJhbSBza3VLZXlMaXN0IHNrdSBrZXkg1rWjrLLp0a/K/da1srvE3LLpuf0xMDAguPYKICAgICAqIEByZXR1cm4gU2t1IL/itObQxc+iCiAgICAgKi8KICAgIHB1YmxpYyBTa3VCYXNpY1tdIGdldEJhc2ljQnlTa3VLZXlzKEtvYWxhQ29uZmlnIHNob3BDb25maWcsIFN0cmluZ1tdIHNrdUtleUxpc3QpIHsKICAgICAgICBjaGVja0FyZ3VtZW50KHNrdUtleUxpc3QubGVuZ3RoID4gMCAmJiBza3VLZXlMaXN0Lmxlbmd0aCA8PSAxMDAsCiAgICAgICAgICAgICAgICAic2t1IGtleSDWtbK7xNzOqr/VLMfSs6S2yLK7s6y5/TEwMCIpOwogICAgICAgIFBhcmFtZXRlcnMgcGFyYW1ldGVycyA9IG5ldyBQYXJhbWV0ZXJzKCkuYWRkKCJza3Vfa2V5X2xpc3QiLCBTdHJpbmcuam9pbigiLCIsIHNrdUtleUxpc3QpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5za3UuZ2V0QmFzaWNCeUtleXMiLCBwYXJhbWV0ZXJzLCBTa3VCYXNpY1tdLmNsYXNzLAogICAgICAgICAgICAgICAgImthb2xhX3NrdV9nZXRCYXNpY0J5S2V5c19yZXNwb25zZS9za3VfbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICoguPm+3cnMxrfXtMyssunRr8nMxrejrLvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEByZXR1cm4gyczGt7XEu/mxvtDFz6LB0LHtCiAgICAgKi8KICAgIHB1YmxpYyBJdGVtQmFzaWNbXSBzZWFyY2hCYXNpY0J5Q29uZGl0aW9uKEtvYWxhQ29uZmlnIHNob3BDb25maWcpIHsKICAgICAgICByZXR1cm4gc2VhcmNoQmFzaWNCeUNvbmRpdGlvbihzaG9wQ29uZmlnLCBudWxsKTsKICAgIH0KCiAgICAvKioKICAgICAqILj5vt3JzMa317TMrLLp0a/JzMa3o6y78cihv+K05tDFz6IKICAgICAqCiAgICAgKiBAcGFyYW0gcmVxdWVzdAogICAgICogQHJldHVybiDJzMa3tcS7+bG+0MXPosHQse0KICAgICAqLwogICAgcHVibGljIEl0ZW1CYXNpY1tdIHNlYXJjaEJhc2ljQnlDb25kaXRpb24oS29hbGFDb25maWcgc2hvcENvbmZpZywgSXRlbVNlYXJjaEJhc2ljQnlDb25kaXRpb25SZXF1ZXN0IHJlcXVlc3QpIHsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gcmVxdWVzdCAhPSBudWxsID8gcmVxdWVzdC50b1BhcmFtZXRlcnMoKSA6IG5ldyBQYXJhbWV0ZXJzKCk7CiAgICAgICAgcmV0dXJuIHJlcUFwaShzaG9wQ29uZmlnLCAia2FvbGEuaXRlbS5zZWFyY2hCYXNpY0J5Q29uZGl0aW9uIiwKICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMsIEl0ZW1CYXNpY1tdLmNsYXNzLCAia2FvbGFfaXRlbV9zZWFyY2hCYXNpY0J5Q29uZGl0aW9uX3Jlc3BvbnNlL2l0ZW1fbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICogyczGt9DeuMQKICAgICAqLwogICAgcHVibGljIEl0ZW1VcGRhdGVSZXNwb25zZSBpdGVtVXBkYXRlKEtvYWxhQ29uZmlnIHNob3BDb25maWcsSXRlbVVwZGF0ZVJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHJldHVybiByZXFBcGkoc2hvcENvbmZpZywgImthb2xhLml0ZW0udXBkYXRlIiwgcmVxdWVzdC50b1BhcmFtZXRlcnMoKSwKICAgICAgICAgICAgICAgIEl0ZW1VcGRhdGVSZXNwb25zZS5jbGFzcywia2FvbGFfaXRlbV91cGRhdGVfcmVzcG9uc2UiKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFN0cmluZyBqc29uID0gIntcImthb2xhX2l0ZW1fdXBkYXRlX3Jlc3BvbnNlXCI6e1wicmVzdWx0XCI6dHJ1ZX19IjsKICAgICAgICBKc29uTm9kZSBub2RlID0gbmV3IE9iamVjdE1hcHBlcigpLnJlYWRUcmVlKGpzb24pOwogICAgICAgIG9tLnRyZWVUb1ZhbHVlKC4=</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLmFkZCgicGFnZV9ubyIsIFN0cmluZy52YWx1ZU9mKHBhZ2VObykpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">SW50ZWdlcgpJbnRlZ2VyCiAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBPYmplY3Q+PiBmaW5kUHJvcGVydGllcygpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1ldGVycy5hZGQoImVuZF90aW1lIiwgc2RmLmZvcm1hdChlbmRUaW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5LmdldCgpICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW5kVGltZSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLmFkZCgicGFnZV9zaXplIiwgU3RyaW5nLnZhbHVlT2YocGFnZVNpemUpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1ldGVycy5hZGQoInN0YXJ0X3RpbWUiLCBzZGYuZm9ybWF0KHN0YXJ0VGltZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLmFkZCgicGFnZV9ubyIsIFN0cmluZy52YWx1ZU9mKHBhZ2VObykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tBcmd1bWVudCgiMSIuZXF1YWxzKGRhdGVUeXBlKXx8ICIyIi5lcXVhbHMoZGF0ZVR5cGUpLCJkYXRlVHlwZSDH68ih1rVbMS3JzMa3tLS9qMqxvOSjuzItyczGt9DeuMTKsbzkXSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -329,10 +464,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1ldGVycy5hZGQoImVuZF90aW1lIiwgc2RmLmZvcm1hdChlbmRUaW1lKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW5kVGltZSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
