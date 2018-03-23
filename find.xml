@@ -6,6 +6,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.yml</mask>
       <mask>*.h</mask>
@@ -35,8 +36,8 @@
       <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.wxml</mask>
-      <mask>*.html</mask>
       <mask>*.pom</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
