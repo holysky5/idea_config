@@ -14,6 +14,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.tools" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="java.sql.Date" />
     <EXCLUDED_PACKAGE NAME="javax.management.Query" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="org.assertj" />
@@ -21,6 +22,7 @@
     <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="sun.misc" />
     <EXCLUDED_PACKAGE NAME="sun.misc.IOUtils" />
+    <EXCLUDED_PACKAGE NAME="sun.util.calendar" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
