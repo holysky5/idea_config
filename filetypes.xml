@@ -10,6 +10,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="jquery_autocomplete_doc" type="PLAIN_TEXT" />
       <mapping pattern="images" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".default-cli-xjcStaleFlag" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="fragment" type="PLAIN_TEXT" />
