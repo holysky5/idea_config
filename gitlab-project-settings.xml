@@ -78,6 +78,12 @@
           <option name="sshUrl" value="git@10.0.0.85:common/s7-template-analysis.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="http://10.0.0.85:8080/common/spring-data-mongodb-demo.git" />
+          <option name="name" value="spring-data-mongodb-demo" />
+          <option name="namespace" value="common" />
+          <option name="sshUrl" value="git@10.0.0.85:common/spring-data-mongodb-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://10.0.0.85:8080/common/tools.git" />
           <option name="name" value="tools" />
           <option name="namespace" value="common" />
@@ -112,6 +118,12 @@
           <option name="name" value="likingWearApi" />
           <option name="namespace" value="liking" />
           <option name="sshUrl" value="git@10.0.0.85:liking/likingWearApi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.0.0.85:8080/liking/likingWearWeApp.git" />
+          <option name="name" value="likingWearWeApp" />
+          <option name="namespace" value="liking" />
+          <option name="sshUrl" value="git@10.0.0.85:liking/likingWearWeApp.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="http://10.0.0.85:8080/offshore/sneakerheadApp.git" />
