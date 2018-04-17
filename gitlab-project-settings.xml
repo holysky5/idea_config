@@ -72,6 +72,12 @@
           <option name="sshUrl" value="git@10.0.0.85:common/image-server.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="http://10.0.0.85:8080/common/mybatis-generator.git" />
+          <option name="name" value="mybatis-generator" />
+          <option name="namespace" value="common" />
+          <option name="sshUrl" value="git@10.0.0.85:common/mybatis-generator.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://10.0.0.85:8080/common/s7-template-analysis.git" />
           <option name="name" value="s7-template-analysis" />
           <option name="namespace" value="common" />
@@ -88,6 +94,12 @@
           <option name="name" value="tools" />
           <option name="namespace" value="common" />
           <option name="sshUrl" value="git@10.0.0.85:common/tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.0.0.85:8080/common/vo-common-parent.git" />
+          <option name="name" value="vo-common-parent" />
+          <option name="namespace" value="common" />
+          <option name="sshUrl" value="git@10.0.0.85:common/vo-common-parent.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="http://10.0.0.85:8080/holysky.zhao/books.git" />
@@ -114,6 +126,18 @@
           <option name="sshUrl" value="git@10.0.0.85:holysky.zhao/zebra_demo.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="http://10.0.0.85:8080/liking/likingMatching.git" />
+          <option name="name" value="likingMatching" />
+          <option name="namespace" value="liking" />
+          <option name="sshUrl" value="git@10.0.0.85:liking/likingMatching.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.0.0.85:8080/liking/likingMatchingFrontend.git" />
+          <option name="name" value="likingMatchingFrontend" />
+          <option name="namespace" value="liking" />
+          <option name="sshUrl" value="git@10.0.0.85:liking/likingMatchingFrontend.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://10.0.0.85:8080/liking/likingWearApi.git" />
           <option name="name" value="likingWearApi" />
           <option name="namespace" value="liking" />
@@ -124,6 +148,12 @@
           <option name="name" value="likingWearWeApp" />
           <option name="namespace" value="liking" />
           <option name="sshUrl" value="git@10.0.0.85:liking/likingWearWeApp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.0.0.85:8080/liking/likingWeMP.git" />
+          <option name="name" value="likingWeMP" />
+          <option name="namespace" value="liking" />
+          <option name="sshUrl" value="git@10.0.0.85:liking/likingWeMP.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="http://10.0.0.85:8080/offshore/sneakerheadApp.git" />
@@ -166,12 +196,6 @@
           <option name="name" value="openvms-platform-task-parent" />
           <option name="namespace" value="OpenVMS" />
           <option name="sshUrl" value="git@10.0.0.85:OpenVMS/openvms-platform-task-parent.git" />
-        </ProjectDto>
-        <ProjectDto>
-          <option name="httpUrl" value="http://10.0.0.85:8080/OpenVMS/vo-common-parent.git" />
-          <option name="name" value="vo-common-parent" />
-          <option name="namespace" value="OpenVMS" />
-          <option name="sshUrl" value="git@10.0.0.85:OpenVMS/vo-common-parent.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="http://10.0.0.85:8080/sneakerhead/sneakerheadxWeApp.git" />
