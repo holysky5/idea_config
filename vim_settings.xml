@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/UserController.java" timestamp="1521525070192">
@@ -47,16 +47,22 @@
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-partener-parent/ecerp-interfaces-lazada/src/main/java/com/alibaba/normandie/api/endpoint/order/request/SetStatusToCanceled.java" timestamp="1521435179009">
         <mark key="[" line="25" column="5" />
       </file>
+      <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleService.java" timestamp="1524114941323">
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="54" column="28" />
+        <mark key="^" line="54" column="28" />
+        <mark key="." line="54" column="28" />
+      </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/java/com/voyageone/ecerp/task/platform/fc/AddProductToVmsPipeline.java" timestamp="1520993512960">
         <mark key="[" line="191" column="96" />
         <mark key="]" line="191" column="100" />
         <mark key="." line="191" column="100" />
         <mark key="^" line="191" column="100" />
       </file>
-      <file name="E:/workspace/likingWear/likingwear-mp/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1523515882772" />
       <file name="E:/workspace/likingWear/.gitignore" timestamp="1521024760611">
         <mark key="[" line="24" column="10" />
       </file>
+      <file name="E:/workspace/likingWearWeApp/src/pages/like.wpy" timestamp="1524115261855" />
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/KoalaItemService.java" timestamp="1521706211027">
         <mark key="'" line="130" column="23" />
         <mark key="[" line="130" column="18" />
@@ -120,6 +126,11 @@
         <mark key="]" line="250" column="29" />
         <mark key="." line="250" column="29" />
         <mark key="^" line="250" column="29" />
+      </file>
+      <file name="E:/workspace/likingWearWeApp/src/pages/testentry.wpy" timestamp="1524115774684">
+        <mark key="[" line="111" column="10" />
+        <mark key="]" line="111" column="11" />
+        <mark key="." line="111" column="11" />
       </file>
       <file name="E:/workspace/sneakerheadxWeApp/src/components/groupitem.wpy" timestamp="1520909796094">
         <mark key="[" line="18" column="5" />
