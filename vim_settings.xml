@@ -122,6 +122,9 @@
       <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/bean/SaveUserStyleRequest.java" timestamp="1521525026033">
         <mark key="[" line="17" column="35" />
       </file>
+      <file name="E:/workspace/likingWearWeApp/src/app.wpy" timestamp="1524214908058">
+        <mark key="[" line="173" column="22" />
+      </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/UserStyleItem.java" timestamp="1521525061224">
         <mark key="[" line="27" column="36" />
       </file>
@@ -142,6 +145,12 @@
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
+      </file>
+      <file name="E:/workspace/likingWearWeApp/src/pages/front_page.wpy" timestamp="1524214968914">
+        <mark key="[" line="199" column="51" />
+        <mark key="]" line="199" column="50" />
+        <mark key="^" line="199" column="50" />
+        <mark key="." line="199" column="50" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/pom.xml" timestamp="1521030435999">
         <mark key="[" line="52" column="21" />
@@ -169,6 +178,9 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
+      </file>
+      <file name="E:/workspace/likingWearWeApp/src/api/api.js" timestamp="1524214766458">
+        <mark key="[" line="43" column="101" />
       </file>
       <file name="/Dummy.txt" timestamp="1521524416930">
         <mark key="[" line="0" column="0" />
