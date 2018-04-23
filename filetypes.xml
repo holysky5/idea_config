@@ -16,6 +16,8 @@
       <mapping pattern="fragment" type="PLAIN_TEXT" />
       <mapping pattern="jquery_validate_doc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="UserInfoUtil" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
@@ -23,8 +25,8 @@
       <mapping ext="python" type="PLAIN_TEXT" />
       <mapping ext="html_back" type="PLAIN_TEXT" />
       <mapping ext="validation" type="PLAIN_TEXT" />
-      <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="VTL" />
+      <mapping ext="wpy" type="Vue.js" />
       <mapping ext="wxml" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
@@ -36,7 +38,6 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
