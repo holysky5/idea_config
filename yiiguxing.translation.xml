@@ -1,8 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="ENGLISH" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="group Field Name Child Field Id Map" />
       <item value="spawn" />
       <item value="启动完成" />
       <item value="set Property" />
