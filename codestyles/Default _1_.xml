@@ -46,6 +46,9 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
