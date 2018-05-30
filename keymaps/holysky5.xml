@@ -22,6 +22,10 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Console.History.Browse" />
   <action id="ContextHelp" />
   <action id="DebugClass">
@@ -93,6 +97,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl e" />
   </action>
+  <action id="SaveAll" />
   <action id="ShowContent">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
