@@ -167,7 +167,6 @@
         <mark key="^" line="199" column="50" />
         <mark key="." line="199" column="50" />
       </file>
-      <file name="E:/workspace/likingbox/likingbox-matching/likingMatching/liking-matching-web/src/main/java/com/voyageone/likingwear/matching/LikingMatchingWebApplication.java" timestamp="1527761707361" />
       <file name="E:/workspace/likingWear/likingwear-service/pom.xml" timestamp="1521030435999">
         <mark key="[" line="52" column="21" />
       </file>
@@ -238,6 +237,11 @@
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/test/java/com/voyageone/likingwear/dao/UserStyleDaoTest.java" timestamp="1521435665278">
         <mark key="[" line="18" column="31" />
+      </file>
+      <file name="E:/workspace/likingbox/likingbox-matching/likingMatchingFrontend/apps/liking-matching/order/controllers/preSeletedCartModal.ctrl.js" timestamp="1528372524615">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="12" />
+        <mark key="." line="46" column="12" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/JobConfigDao.java" timestamp="1521029159952">
         <mark key="[" line="14" column="26" />
@@ -440,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>hasChoosed</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -541,7 +545,7 @@
       <last-offset />
       <last-pattern>price</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
