@@ -4,4 +4,9 @@
       <option name="XML_TEXT" value="true" />
     </context>
   </template>
+  <template name="jrebel_pom" value="   &lt;plugin&gt;&#10;                &lt;groupId&gt;org.zeroturnaround&lt;/groupId&gt;&#10;                &lt;artifactId&gt;jrebel-maven-plugin&lt;/artifactId&gt;&#10;                &lt;version&gt;1.1.7&lt;/version&gt;&#10;                &lt;configuration&gt;&#10;                    &lt;addResourcesDirToRebelXml&gt;true&lt;/addResourcesDirToRebelXml&gt;&#10;                    &lt;alwaysGenerate&gt;true&lt;/alwaysGenerate&gt;&#10;                    &lt;showGenerated&gt;true&lt;/showGenerated&gt;&#10;                    &lt;packaging&gt;jar&lt;/packaging&gt;&#10;                &lt;/configuration&gt;&#10;                &lt;executions&gt;&#10;                    &lt;execution&gt;&#10;                        &lt;id&gt;generate-rebel-xml&lt;/id&gt;&#10;                        &lt;phase&gt;process-resources&lt;/phase&gt;&#10;                        &lt;goals&gt;&#10;                            &lt;goal&gt;generate&lt;/goal&gt;&#10;                        &lt;/goals&gt;&#10;                    &lt;/execution&gt;&#10;                &lt;/executions&gt;&#10;            &lt;/plugin&gt;" description="jrebel generate pom plugin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
