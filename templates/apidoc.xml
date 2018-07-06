@@ -1,0 +1,7 @@
+<templateSet group="apidoc">
+  <template name="api" value="@api {get} /user/:id title" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
