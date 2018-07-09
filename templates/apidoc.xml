@@ -1,10 +1,10 @@
 <templateSet group="apidoc">
-  <template name="api" value="@api {get} /user/:id title" toReformat="false" toShortenFQNames="true">
+  <template name="api" value="@api {get} /user/:id title" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="apiError" value="@apiError [(group)] [{type}] field [description]" toReformat="false" toShortenFQNames="true">
+  <template name="apiError" value="@apiError [(group)] [{type}] field [description]" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
