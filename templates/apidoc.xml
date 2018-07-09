@@ -1,10 +1,141 @@
 <templateSet group="apidoc">
-  <template name="api" value="@api {get} /user/:id title" description="" toReformat="false" toShortenFQNames="true">
+  <template name="api" value="@api {get} $PATH$ $TITLE$&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="apiError" value="@apiError [(group)] [{type}] field [description]" description="" toReformat="false" toShortenFQNames="true">
+  <template name="apiSuccessExample" value="@apiSuccessExample $type$ $title$&#10;                   $example$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="{json}" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue=" Success-Response:" alwaysStopAt="true" />
+    <variable name="example" expression="" defaultValue=" { &quot;firstname&quot;: &quot;John&quot;,&quot;lastname&quot;: &quot;Doe&quot; }" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiDefine" value="@apiDefine name $title$&#10;                     $description$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiDeprecated" value="@apiDeprecated $text$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="接口已过期" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiDescription" value="@apiDescription $text$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiError" value="@apiError $group$ $type$ $field$ $description$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="group" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="{String}" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="fieldName" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiErrorExample" value="@apiErrorExample $type$ $title$&#10;                 $example$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="{json}" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue=" Error-Response:" alwaysStopAt="true" />
+    <variable name="example" expression="" defaultValue="HTTP/1.1 404 Not Found       {         &quot;error&quot;: &quot;UserNotFound&quot;      } " alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiExample" value="@apiExample $type$ $title$&#10;            $example$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="{curl}" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="Example usage:" alwaysStopAt="true" />
+    <variable name="example" expression="" defaultValue="curl -i http://localhost/user/4711" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiGroup" value="@apiGroup $name$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiHeader" value="@apiHeader $group$ $type$ $field$ $description$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="group" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiHeaderExample" value="@apiHeaderExample $type$ $title$&#10;                   $example$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="{json}" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="Request-Example:" alwaysStopAt="true" />
+    <variable name="example" expression="" defaultValue="{ &quot;content&quot;: &quot;This is an example content&quot; }" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiIgnore" value="@apiIgnore Not finished Method" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiName" value="@apiName name" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiParam" value="@apiParam $group$ $type$ $field$ $description$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="group" expression="" defaultValue="(body)" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="{String}" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="field=5" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="变量描述" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiParamExample" value="@apiParamExample $type$ $title$&#10;                   $example$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="{json}" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="Request-Example:" alwaysStopAt="true" />
+    <variable name="example" expression="" defaultValue="{ &quot;content&quot;: &quot;This is an example content&quot; }" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiPermission" value="@apiPermission none" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiSampleRequest" value="@apiSampleRequest $url$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiSuccess" value="@apiSuccess $group$ $type$ $field$ $description$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="group" expression="" defaultValue="(body)" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="{String}" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="fieldName" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="结果值说明" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiVersion" value="@apiVersion $ver$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="ver" expression="" defaultValue="1.0.0" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="apiUse" value="@apiUse $apiDefine$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="apiDefine" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
