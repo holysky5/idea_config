@@ -79,6 +79,9 @@
             <Goal>
               <option name="commandLine" value="antrun:run@generate-rest-api" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:resolve -U" />
+            </Goal>
           </list>
         </option>
       </Goals>
