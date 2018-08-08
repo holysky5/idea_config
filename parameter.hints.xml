@@ -1,11 +1,13 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Java">
-        <added pattern="org.springframework.jdbc.core.JdbcTemplate.queryForObject(sql,rowMapper)" />
-        <added pattern="com.voyageone.ecerp.common.configs.ComVmsFeedConfig.getComVmsFeedConfigListByChannelAndName(channelId,name)" />
-        <added pattern="java.lang.Class.getResource(name)" />
-      </blacklist>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="Scala" />
+      <blacklist language="Groovy" />
+      <blacklist language="Ruby" />
+      <blacklist language="Kotlin" />
     </blacklists>
+    <option id="java.multiple.params.same.type" value="true" />
   </component>
 </application>
