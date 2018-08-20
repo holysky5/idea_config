@@ -9,6 +9,10 @@
         <mark key="^" line="211" column="57" />
         <mark key="." line="211" column="55" />
       </file>
+      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-service/src/test/java/com/voyageone/likingwear/common/service/ShunFengApiServiceTest.java" timestamp="1534734090675">
+        <mark key="[" line="88" column="8" />
+        <mark key="]" line="94" column="108" />
+      </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/GroupField.java" timestamp="1521435629755">
         <mark key="[" line="31" column="33" />
         <mark key="]" line="31" column="36" />
@@ -17,6 +21,19 @@
       </file>
       <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/payment/impl/PaymentControllerImpl.java" timestamp="1531310437435">
         <mark key="[" line="65" column="14" />
+      </file>
+      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-service/src/test/java/com/voyageone/likingwear/CollectionTest.java" timestamp="1534733788851">
+        <mark key="[" line="34" column="95" />
+        <mark key="]" line="34" column="96" />
+        <mark key="^" line="34" column="96" />
+        <mark key="." line="34" column="96" />
+      </file>
+      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/job/OrderReturnLogisticsFetchJob.java" timestamp="1534733888933">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="96" column="23" />
+        <mark key="]" line="96" column="22" />
+        <mark key="^" line="96" column="22" />
+        <mark key="." line="96" column="22" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" timestamp="1521522840947">
         <mark key="[" line="20" column="19" />
@@ -72,6 +89,12 @@
         <mark key="]" line="203" column="6" />
         <mark key="^" line="203" column="6" />
         <mark key="." line="203" column="6" />
+      </file>
+      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-task/src/test/java/com/voyageone/likingwear/task/job/OrderReturnLogisticsFetchJobTest.java" timestamp="1534734082289">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="22" column="8" />
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/KoalaItemService.java" timestamp="1521706211027">
         <mark key="'" line="130" column="23" />
@@ -303,7 +326,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1521705240957">
+      <file name="/fragment.java" timestamp="1534733950435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/resources/context-task-cron.xml" timestamp="1521000652586">
@@ -384,6 +407,7 @@
       <jump line="23" column="0" filename="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" />
       <jump line="24" column="105" filename="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/service/UserStyleManagerService.java" />
       <jump line="240" column="23" filename="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/KoalaItemService.java" />
+      <jump line="33" column="0" filename="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/job/OrderReturnLogisticsFetchJob.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -456,13 +480,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hasChoosed</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
       </register>
       <register name="0" type="4">
-        <text>userInfo</text>
+        <text>System.out.println(&quot;======================顺丰路由查询&quot;);
+        ShunfengApiConfig config = new ShunfengApiConfig();
+        config.setAppId(&quot;shwy&quot;);
+        config.setAppSecret(&quot;tudf1WJGPRuOfSZg3cLHFMZSqTTsTVeK&quot;);
+        config.setServerUrl(&quot;http://bsp-ois.sf-express.com/bsp-ois/sfexpressService&quot;);
+        shunFengApiService.setConfig(config);
+        RouteServiceResp response = shunFengApiService.pullOrderRoute(Arrays.asList(&quot;vksfth45061300001442&quot;));</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">UHJpY2UgvNu48SDP+srbvNujrNfutuDWp7PWwb3Ou9Chyv0ovLS+q8i3tb231imjrMjnufvK5MjrtcTK/dfWzqozzrvS1MnP0KHK/aOsz7XNs7vh19S2r8vEyeHO5cjrs8kyzrvQocr9CiAgICAgKiBAcmV0dXJuINDeuMS94bn7CiAgICAgKi8KICAgIHB1YmxpYyBTa3VTYWxlUHJpY2VVcGRhdGVSZXNwb25zZSBza3VTYWxlUHJpY2VVcGRhdGUoS29hbGFDb25maWcgc2hvcENvbmZpZywgU3RyaW5nIGtleSwgQmlnRGVjaW1hbCBzYWxlUHJpY2UpIHsKICAgICAgICBjaGVja0FyZ3VtZW50KCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoa2V5KSwgIsnMxrdrZXmyu8Tczqq/1SIpOwogICAgICAgIGNoZWNrQXJndW1lbnQoc2FsZVByaWNlICE9IG51bGwsICK827jxsrvE3M6qv9UiKTsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gbmV3IFBhcmFtZXRlcnMoKS5hZGQoImtleSIsIGtleSkKICAgICAgICAgICAgICAgIC5hZGQoInNhbGVfcHJpY2UiLCBTdHJpbmcudmFsdWVPZihzYWxlUHJpY2UpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLnNrdS5zYWxlLnByaWNlLnVwZGF0ZSIsIHBhcmFtZXRlcnMsCiAgICAgICAgICAgICAgICBTa3VTYWxlUHJpY2VVcGRhdGVSZXNwb25zZS5jbGFzcyk7CiAgICB9CgogICAgLyoqCiAgICAgKiDQwtT2yczGtwogICAgICovCiAgICBwdWJsaWMgSXRlbUFkZFBhcnRSZXNwb25zZSBhZGRQYXJ0KEtvYWxhQ29uZmlnIHNob3BDb25maWcsIEl0ZW1BZGRQYXJ0UmVxdWVzdCByZXEpIHsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmFkZFBhcnQiLCByZXEudG9QYXJhbWV0ZXJzKCksCiAgICAgICAgICAgICAgICBJdGVtQWRkUGFydFJlc3BvbnNlLmNsYXNzKTsKICAgIH0KCiAgICAvKioKICAgICAqIMnPtKuy+sa3zbzGrAogICAgICoKICAgICAqIEBwYXJhbSBwaWMgzsS8/sTayN0KICAgICAqIEByZXR1cm4gyc+0q73hufsKICAgICAqLwogICAgcHVibGljIEl0ZW1JbWdVcGxvYWRSZXNwb25zZSBpbWdVcGxvYWQoS29hbGFDb25maWcgc2hvcENvbmZpZywgYnl0ZVtdIHBpYyxTdHJpbmcgZmlsZU5hbWUpIHsKICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQocGljIT1udWxsICYmIHBpYy5sZW5ndGg+MCAmJiAhU3RyaW5ncy5pc051bGxPckVtcHR5KGZpbGVOYW1lKSwizsS8/rK7xNzOqr/VsqLH0rTm1NoiKTsKICAgICAgICBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMgPSBuZXcgUGFyYW1ldGVycygpLnNldEJvZHlGaWxlKHBpYykuc2V0Qm9keUZpbGVOYW1lKGZpbGVOYW1lKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmltZy51cGxvYWQiLCBwYXJhbWV0ZXJzLCBJdGVtSW1nVXBsb2FkUmVzcG9uc2UuY2xhc3MpOwogICAgfQoKICAgIC8qKgogICAgICogyejWw8rHt/HS/rLYvNPI67m6zu+ztQogICAgICoKICAgICAqIEBwYXJhbSBrZXkgICAgICAgICAgIMnMxre1xGtleQogICAgICogQHBhcmFtIGhpZGVBZGRUb0NhcnQgyse38dL+sti808jrubrO77O1o6jWu9TK0O3Wsb3TubrC8qOpo6wwo7qyu9L+stijrDGjutL+stgKICAgICAqLwogICAgcHVibGljIEhpZGVjYXJ0VXBkYXRlUmVzcG9uc2UgaGlkZWNhcnRVcGRhdGUoS29hbGFDb25maWcgc2hvcENvbmZpZywgU3RyaW5nIGtleSwgaW50IGhpZGVBZGRUb0NhcnQpIHsKCiAgICAgICAgY2hlY2tBcmd1bWVudCghU3RyaW5ncy5pc051bGxPckVtcHR5KGtleSksICLJzMa3a2V5srvE3M6qv9UiKTsKICAgICAgICBjaGVja0FyZ3VtZW50KGhpZGVBZGRUb0NhcnQgPT0gMCB8fCBoaWRlQWRkVG9DYXJ0ID09IDEsICJoaWRlQWRkVG9DYXJ0IMfryKHWtSAwo7qyu9L+stijrDGjutL+stgiKTsKICAgICAgICBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMgPSBuZXcgUGFyYW1ldGVycygpLmFkZCgia2V5X2xpc3QiLCBrZXkpLmFkZCgiaGlkZV9hZGRfdG9fY2FydCIsIFN0cmluZy52YWx1ZU9mKGhpZGVBZGRUb0NhcnQpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmhpZGVjYXJ0LnVwZGF0ZSIsIHBhcmFtZXRlcnMsIEhpZGVjYXJ0VXBkYXRlUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIC8vCiAgICB9CgogICAgLyoqCiAgICAgKiDF+sG/sunRr8nMxrejrLvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEBwYXJhbSBpdGVtS2V5TGlzdCAxMDA5OC0zMDQ5LDEwMDk3LTMwNDkssrvE3LOsuf00MLj2CiAgICAgKiBAcmV0dXJuIMnMxre7+bG+0MXPoii/4rTmtcgpCiAgICAgKi8KICAgIHB1YmxpYyBJdGVtQmFzaWNbXSBnZXRCYXNpY0J5S2V5cyhLb2FsYUNvbmZpZyBzaG9wQ29uZmlnLCBTdHJpbmdbXSBpdGVtS2V5TGlzdCkgewogICAgICAgIGNoZWNrQXJndW1lbnQoaXRlbUtleUxpc3QgIT0gbnVsbCAmJiBpdGVtS2V5TGlzdC5sZW5ndGggPiAwICYmIGl0ZW1LZXlMaXN0Lmxlbmd0aCA8PSA0MCwKICAgICAgICAgICAgICAgICJpdGVtS2V5TGlzdLK7xNzOqr/Vx9Kyu8Tcs6y5/TQwuPYiKTsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gbmV3IFBhcmFtZXRlcnMoKS5hZGQoIml0ZW1fa2V5X2xpc3QiLCBTdHJpbmcuam9pbigiLCIsIGl0ZW1LZXlMaXN0KSk7CiAgICAgICAgcmV0dXJuIHJlcUFwaShzaG9wQ29uZmlnLCAia2FvbGEuaXRlbS5nZXRCYXNpY0J5S2V5cyIsCiAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzLCBJdGVtQmFzaWNbXS5jbGFzcywgIi9rYW9sYV9pdGVtX2dldEJhc2ljQnlLZXlzX3Jlc3BvbnNlL2l0ZW1fbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICoguPm+3XNrdbvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEBwYXJhbSBza3VLZXlMaXN0IHNrdSBrZXkg1rWjrLLp0a/K/da1srvE3LLpuf0xMDAguPYKICAgICAqIEByZXR1cm4gU2t1IL/itObQxc+iCiAgICAgKi8KICAgIHB1YmxpYyBTa3VCYXNpY1tdIGdldEJhc2ljQnlTa3VLZXlzKEtvYWxhQ29uZmlnIHNob3BDb25maWcsIFN0cmluZ1tdIHNrdUtleUxpc3QpIHsKICAgICAgICBjaGVja0FyZ3VtZW50KHNrdUtleUxpc3QubGVuZ3RoID4gMCAmJiBza3VLZXlMaXN0Lmxlbmd0aCA8PSAxMDAsCiAgICAgICAgICAgICAgICAic2t1IGtleSDWtbK7xNzOqr/VLMfSs6S2yLK7s6y5/TEwMCIpOwogICAgICAgIFBhcmFtZXRlcnMgcGFyYW1ldGVycyA9IG5ldyBQYXJhbWV0ZXJzKCkuYWRkKCJza3Vfa2V5X2xpc3QiLCBTdHJpbmcuam9pbigiLCIsIHNrdUtleUxpc3QpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5za3UuZ2V0QmFzaWNCeUtleXMiLCBwYXJhbWV0ZXJzLCBTa3VCYXNpY1tdLmNsYXNzLAogICAgICAgICAgICAgICAgImthb2xhX3NrdV9nZXRCYXNpY0J5S2V5c19yZXNwb25zZS9za3VfbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICoguPm+3cnMxrfXtMyssunRr8nMxrejrLvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEByZXR1cm4gyczGt7XEu/mxvtDFz6LB0LHtCiAgICAgKi8KICAgIHB1YmxpYyBJdGVtQmFzaWNbXSBzZWFyY2hCYXNpY0J5Q29uZGl0aW9uKEtvYWxhQ29uZmlnIHNob3BDb25maWcpIHsKICAgICAgICByZXR1cm4gc2VhcmNoQmFzaWNCeUNvbmRpdGlvbihzaG9wQ29uZmlnLCBudWxsKTsKICAgIH0KCiAgICAvKioKICAgICAqILj5vt3JzMa317TMrLLp0a/JzMa3o6y78cihv+K05tDFz6IKICAgICAqCiAgICAgKiBAcGFyYW0gcmVxdWVzdAogICAgICogQHJldHVybiDJzMa3tcS7+bG+0MXPosHQse0KICAgICAqLwogICAgcHVibGljIEl0ZW1CYXNpY1tdIHNlYXJjaEJhc2ljQnlDb25kaXRpb24oS29hbGFDb25maWcgc2hvcENvbmZpZywgSXRlbVNlYXJjaEJhc2ljQnlDb25kaXRpb25SZXF1ZXN0IHJlcXVlc3QpIHsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gcmVxdWVzdCAhPSBudWxsID8gcmVxdWVzdC50b1BhcmFtZXRlcnMoKSA6IG5ldyBQYXJhbWV0ZXJzKCk7CiAgICAgICAgcmV0dXJuIHJlcUFwaShzaG9wQ29uZmlnLCAia2FvbGEuaXRlbS5zZWFyY2hCYXNpY0J5Q29uZGl0aW9uIiwKICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMsIEl0ZW1CYXNpY1tdLmNsYXNzLCAia2FvbGFfaXRlbV9zZWFyY2hCYXNpY0J5Q29uZGl0aW9uX3Jlc3BvbnNlL2l0ZW1fbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICogyczGt9DeuMQKICAgICAqLwogICAgcHVibGljIEl0ZW1VcGRhdGVSZXNwb25zZSBpdGVtVXBkYXRlKEtvYWxhQ29uZmlnIHNob3BDb25maWcsSXRlbVVwZGF0ZVJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHJldHVybiByZXFBcGkoc2hvcENvbmZpZywgImthb2xhLml0ZW0udXBkYXRlIiwgcmVxdWVzdC50b1BhcmFtZXRlcnMoKSwKICAgICAgICAgICAgICAgIEl0ZW1VcGRhdGVSZXNwb25zZS5jbGFzcywia2FvbGFfaXRlbV91cGRhdGVfcmVzcG9uc2UiKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFN0cmluZyBqc29uID0gIntcImthb2xhX2l0ZW1fdXBkYXRlX3Jlc3BvbnNlXCI6e1wicmVzdWx0XCI6dHJ1ZX19IjsKICAgICAgICBKc29uTm9kZSBub2RlID0gbmV3IE9iamVjdE1hcHBlcigpLnJlYWRUcmVlKGpzb24pOwogICAgICAgIG9tLnRyZWVUb1ZhbHVlKC4=</text>
