@@ -22,10 +22,6 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="Compile">
-    <keyboard-shortcut first-keystroke="shift ctrl f9" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="Console.History.Browse" />
   <action id="ContextHelp" />
   <action id="DebugClass">
@@ -81,7 +77,7 @@
   </action>
   <action id="GoogleSearchAction" />
   <action id="Macro.save &amp; make">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Maven.ReimportProject">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl r" />
