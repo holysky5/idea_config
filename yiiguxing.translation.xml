@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原地" />
+      <item value="原地删除" />
       <item value="Duplicate Key ERROR" />
       <item value="收款" />
       <item value="代替" />
