@@ -1,0 +1,24 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--experimental-modules E:\workspace\sneakerheadApp\script\changemd5.mjs $FilePath$ $ProjectFileDir$\vo-admin\src\main\webapp\WEB-INF\templates\layout\partials\postFooterContent.html" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="js" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="auto_change_md5" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="node.exe" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Changed Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>
