@@ -82,6 +82,9 @@
             <Goal>
               <option name="commandLine" value="dependency:resolve -U" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="package -T 4" />
+            </Goal>
           </list>
         </option>
       </Goals>

@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/xsd/assembly-2.0.0.xsd" location="$USER_HOME$/.IntelliJIdea2018.1/system/extResources/a7faf726_assembly-2.0.0.xsd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/da247ef1_spring-aop-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a34b92d1_spring-beans-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a34b92d1_spring-beans-3.2.xsd" />
