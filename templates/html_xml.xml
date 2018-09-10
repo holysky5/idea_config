@@ -10,7 +10,7 @@
       <option name="JAVA_STRING" value="false" />
     </context>
   </template>
-  <template name="xsd-thymeleaf" value="xmlns:th=&quot;http://www.thymeleaf.org&quot;  xmlns:tiles=&quot;http://www.thymeleaf.org&quot;  xmlns:sec=&quot;http://www.thymeleaf.org/thymeleaf-extras-springsecurity3&quot;&#10;        &#10;        " toReformat="false" toShortenFQNames="true">
+  <template name="xsd-thymeleaf" value="xmlns:th=&quot;http://www.thymeleaf.org&quot;  xmlns:tiles=&quot;http://www.thymeleaf.org&quot;  xmlns:sec=&quot;http://www.thymeleaf.org/thymeleaf-extras-springsecurity3&quot;&#10;        &#10;        " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
