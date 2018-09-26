@@ -91,6 +91,9 @@
   <action id="OpenInBrowser">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl o" />
   </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl i" />
+  </action>
   <action id="PlaySavedMacrosAction">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl p" />
   </action>
