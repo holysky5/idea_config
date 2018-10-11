@@ -88,6 +88,12 @@
         <mark key="." line="191" column="100" />
         <mark key="^" line="191" column="100" />
       </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistOrderHtmlController.java" timestamp="1539247280614">
+        <mark key="[" line="139" column="73" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="140" column="23" />
+      </file>
       <file name="E:/workspace/likingWear/.gitignore" timestamp="1521024760611">
         <mark key="[" line="24" column="10" />
       </file>
@@ -112,6 +118,12 @@
       </file>
       <file name="E:/project/ecerp-interface-parent/pom.xml" timestamp="1527761067710">
         <mark key="[" line="26" column="25" />
+      </file>
+      <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/order/order_postfee_verify.html" timestamp="1539247099082">
+        <mark key="[" line="228" column="19" />
+        <mark key="]" line="226" column="78" />
+        <mark key="." line="226" column="78" />
+        <mark key="^" line="226" column="78" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/BaseApiController.java" timestamp="1521706004042">
         <mark key="[" line="60" column="33" />
@@ -509,33 +521,35 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
       </register>
       <register name="0" type="4">
-        <text>System.out.println(&quot;======================顺丰路由查询&quot;);
-        ShunfengApiConfig config = new ShunfengApiConfig();
-        config.setAppId(&quot;shwy&quot;);
-        config.setAppSecret(&quot;tudf1WJGPRuOfSZg3cLHFMZSqTTsTVeK&quot;);
-        config.setServerUrl(&quot;http://bsp-ois.sf-express.com/bsp-ois/sfexpressService&quot;);
-        shunFengApiService.setConfig(config);
-        RouteServiceResp response = shunFengApiService.pullOrderRoute(Arrays.asList(&quot;vksfth45061300001442&quot;));</text>
+        <text encoding="base64">cm91dGVyLmdldCgiL215L29yZGVyL3Bvc3RmZWUvdmVyaWZ5IikuYmxvY2tpbmdIYW5kbGVyKHJjIC0+IHsKICAgICAgICAgICAgcmVuZGVyKHJjLCAidGVtcGxhdGVzL29yZGVyL29yZGVyX3Bvc3RmZWVfdmVyaWZ5Lmh0bWwiKTsKICAgICAgICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVxLmdldEFwcGx5RGF0ZUJlZ2luKCkgIT0gbnVsbCB8fCByZXEuZ2V0QXBwbHlEYXRlRW5kKCkgIT0gbnVsbCkgewogICAgICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IG5ldyBDcml0ZXJpYSgpOwogICAgICAgICAgICBxLmFkZENyaXRlcmlhKENyaXRlcmlhLndoZXJlKCJhcHBseURhdGUiKS5ndGUoc3RhcnQpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJTZXJ2aWNlCg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>, function(index){
+                    //按钮【按钮二】的回调
+                })</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocmVxLmdldEFwcGx5RGF0ZUJlZ2luKCkgIT0gbnVsbCB8fCByZXEuZ2V0QXBwbHlEYXRlRW5kKCkgIT0gbnVsbCkgewogICAgICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IG5ldyBDcml0ZXJpYSgpOwogICAgICAgICAgICBxLmFkZENyaXRlcmlhKENyaXRlcmlhLndoZXJlKCJhcHBseURhdGUiKS5ndGUoc3RhcnQpKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIreiy83Ny7v1taUge30gtb3Ls7fhyqew3CIsbG9naXN0aWNzTW9kZWwuZ2V0T3JkZXJOdW1iZXIoKSwgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>c static CheckBean checkResult(OrderReverseServiceResp resp){
         Constants.SendToSFStatus sendToSf= Constants.SendToSFStatus.ERROR;
         String msg=&quot;发送退货单到SF失败&quot;;
@@ -549,14 +563,8 @@
                 OrderReverseServiceResp.OrderResponse respOrder = resp.getBody().getOrderResponse();
                 if (&quot;3&quot;.equals(respOrder.getFilterResult()) || 再按一次 v 自动扩展选择一段代码。&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">UHJpY2UgvNu48SDP+srbvNujrNfutuDWp7PWwb3Ou9Chyv0ovLS+q8i3tb231imjrMjnufvK5MjrtcTK/dfWzqozzrvS1MnP0KHK/aOsz7XNs7vh19S2r8vEyeHO5cjrs8kyzrvQocr9CiAgICAgKiBAcmV0dXJuINDeuMS94bn7CiAgICAgKi8KICAgIHB1YmxpYyBTa3VTYWxlUHJpY2VVcGRhdGVSZXNwb25zZSBza3VTYWxlUHJpY2VVcGRhdGUoS29hbGFDb25maWcgc2hvcENvbmZpZywgU3RyaW5nIGtleSwgQmlnRGVjaW1hbCBzYWxlUHJpY2UpIHsKICAgICAgICBjaGVja0FyZ3VtZW50KCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoa2V5KSwgIsnMxrdrZXmyu8Tczqq/1SIpOwogICAgICAgIGNoZWNrQXJndW1lbnQoc2FsZVByaWNlICE9IG51bGwsICK827jxsrvE3M6qv9UiKTsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gbmV3IFBhcmFtZXRlcnMoKS5hZGQoImtleSIsIGtleSkKICAgICAgICAgICAgICAgIC5hZGQoInNhbGVfcHJpY2UiLCBTdHJpbmcudmFsdWVPZihzYWxlUHJpY2UpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLnNrdS5zYWxlLnByaWNlLnVwZGF0ZSIsIHBhcmFtZXRlcnMsCiAgICAgICAgICAgICAgICBTa3VTYWxlUHJpY2VVcGRhdGVSZXNwb25zZS5jbGFzcyk7CiAgICB9CgogICAgLyoqCiAgICAgKiDQwtT2yczGtwogICAgICovCiAgICBwdWJsaWMgSXRlbUFkZFBhcnRSZXNwb25zZSBhZGRQYXJ0KEtvYWxhQ29uZmlnIHNob3BDb25maWcsIEl0ZW1BZGRQYXJ0UmVxdWVzdCByZXEpIHsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmFkZFBhcnQiLCByZXEudG9QYXJhbWV0ZXJzKCksCiAgICAgICAgICAgICAgICBJdGVtQWRkUGFydFJlc3BvbnNlLmNsYXNzKTsKICAgIH0KCiAgICAvKioKICAgICAqIMnPtKuy+sa3zbzGrAogICAgICoKICAgICAqIEBwYXJhbSBwaWMgzsS8/sTayN0KICAgICAqIEByZXR1cm4gyc+0q73hufsKICAgICAqLwogICAgcHVibGljIEl0ZW1JbWdVcGxvYWRSZXNwb25zZSBpbWdVcGxvYWQoS29hbGFDb25maWcgc2hvcENvbmZpZywgYnl0ZVtdIHBpYyxTdHJpbmcgZmlsZU5hbWUpIHsKICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQocGljIT1udWxsICYmIHBpYy5sZW5ndGg+MCAmJiAhU3RyaW5ncy5pc051bGxPckVtcHR5KGZpbGVOYW1lKSwizsS8/rK7xNzOqr/VsqLH0rTm1NoiKTsKICAgICAgICBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMgPSBuZXcgUGFyYW1ldGVycygpLnNldEJvZHlGaWxlKHBpYykuc2V0Qm9keUZpbGVOYW1lKGZpbGVOYW1lKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmltZy51cGxvYWQiLCBwYXJhbWV0ZXJzLCBJdGVtSW1nVXBsb2FkUmVzcG9uc2UuY2xhc3MpOwogICAgfQoKICAgIC8qKgogICAgICogyejWw8rHt/HS/rLYvNPI67m6zu+ztQogICAgICoKICAgICAqIEBwYXJhbSBrZXkgICAgICAgICAgIMnMxre1xGtleQogICAgICogQHBhcmFtIGhpZGVBZGRUb0NhcnQgyse38dL+sti808jrubrO77O1o6jWu9TK0O3Wsb3TubrC8qOpo6wwo7qyu9L+stijrDGjutL+stgKICAgICAqLwogICAgcHVibGljIEhpZGVjYXJ0VXBkYXRlUmVzcG9uc2UgaGlkZWNhcnRVcGRhdGUoS29hbGFDb25maWcgc2hvcENvbmZpZywgU3RyaW5nIGtleSwgaW50IGhpZGVBZGRUb0NhcnQpIHsKCiAgICAgICAgY2hlY2tBcmd1bWVudCghU3RyaW5ncy5pc051bGxPckVtcHR5KGtleSksICLJzMa3a2V5srvE3M6qv9UiKTsKICAgICAgICBjaGVja0FyZ3VtZW50KGhpZGVBZGRUb0NhcnQgPT0gMCB8fCBoaWRlQWRkVG9DYXJ0ID09IDEsICJoaWRlQWRkVG9DYXJ0IMfryKHWtSAwo7qyu9L+stijrDGjutL+stgiKTsKICAgICAgICBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMgPSBuZXcgUGFyYW1ldGVycygpLmFkZCgia2V5X2xpc3QiLCBrZXkpLmFkZCgiaGlkZV9hZGRfdG9fY2FydCIsIFN0cmluZy52YWx1ZU9mKGhpZGVBZGRUb0NhcnQpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmhpZGVjYXJ0LnVwZGF0ZSIsIHBhcmFtZXRlcnMsIEhpZGVjYXJ0VXBkYXRlUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIC8vCiAgICB9CgogICAgLyoqCiAgICAgKiDF+sG/sunRr8nMxrejrLvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEBwYXJhbSBpdGVtS2V5TGlzdCAxMDA5OC0zMDQ5LDEwMDk3LTMwNDkssrvE3LOsuf00MLj2CiAgICAgKiBAcmV0dXJuIMnMxre7+bG+0MXPoii/4rTmtcgpCiAgICAgKi8KICAgIHB1YmxpYyBJdGVtQmFzaWNbXSBnZXRCYXNpY0J5S2V5cyhLb2FsYUNvbmZpZyBzaG9wQ29uZmlnLCBTdHJpbmdbXSBpdGVtS2V5TGlzdCkgewogICAgICAgIGNoZWNrQXJndW1lbnQoaXRlbUtleUxpc3QgIT0gbnVsbCAmJiBpdGVtS2V5TGlzdC5sZW5ndGggPiAwICYmIGl0ZW1LZXlMaXN0Lmxlbmd0aCA8PSA0MCwKICAgICAgICAgICAgICAgICJpdGVtS2V5TGlzdLK7xNzOqr/Vx9Kyu8Tcs6y5/TQwuPYiKTsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gbmV3IFBhcmFtZXRlcnMoKS5hZGQoIml0ZW1fa2V5X2xpc3QiLCBTdHJpbmcuam9pbigiLCIsIGl0ZW1LZXlMaXN0KSk7CiAgICAgICAgcmV0dXJuIHJlcUFwaShzaG9wQ29uZmlnLCAia2FvbGEuaXRlbS5nZXRCYXNpY0J5S2V5cyIsCiAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzLCBJdGVtQmFzaWNbXS5jbGFzcywgIi9rYW9sYV9pdGVtX2dldEJhc2ljQnlLZXlzX3Jlc3BvbnNlL2l0ZW1fbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICoguPm+3XNrdbvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEBwYXJhbSBza3VLZXlMaXN0IHNrdSBrZXkg1rWjrLLp0a/K/da1srvE3LLpuf0xMDAguPYKICAgICAqIEByZXR1cm4gU2t1IL/itObQxc+iCiAgICAgKi8KICAgIHB1YmxpYyBTa3VCYXNpY1tdIGdldEJhc2ljQnlTa3VLZXlzKEtvYWxhQ29uZmlnIHNob3BDb25maWcsIFN0cmluZ1tdIHNrdUtleUxpc3QpIHsKICAgICAgICBjaGVja0FyZ3VtZW50KHNrdUtleUxpc3QubGVuZ3RoID4gMCAmJiBza3VLZXlMaXN0Lmxlbmd0aCA8PSAxMDAsCiAgICAgICAgICAgICAgICAic2t1IGtleSDWtbK7xNzOqr/VLMfSs6S2yLK7s6y5/TEwMCIpOwogICAgICAgIFBhcmFtZXRlcnMgcGFyYW1ldGVycyA9IG5ldyBQYXJhbWV0ZXJzKCkuYWRkKCJza3Vfa2V5X2xpc3QiLCBTdHJpbmcuam9pbigiLCIsIHNrdUtleUxpc3QpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5za3UuZ2V0QmFzaWNCeUtleXMiLCBwYXJhbWV0ZXJzLCBTa3VCYXNpY1tdLmNsYXNzLAogICAgICAgICAgICAgICAgImthb2xhX3NrdV9nZXRCYXNpY0J5S2V5c19yZXNwb25zZS9za3VfbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICoguPm+3cnMxrfXtMyssunRr8nMxrejrLvxyKG/4rTm0MXPogogICAgICoKICAgICAqIEByZXR1cm4gyczGt7XEu/mxvtDFz6LB0LHtCiAgICAgKi8KICAgIHB1YmxpYyBJdGVtQmFzaWNbXSBzZWFyY2hCYXNpY0J5Q29uZGl0aW9uKEtvYWxhQ29uZmlnIHNob3BDb25maWcpIHsKICAgICAgICByZXR1cm4gc2VhcmNoQmFzaWNCeUNvbmRpdGlvbihzaG9wQ29uZmlnLCBudWxsKTsKICAgIH0KCiAgICAvKioKICAgICAqILj5vt3JzMa317TMrLLp0a/JzMa3o6y78cihv+K05tDFz6IKICAgICAqCiAgICAgKiBAcGFyYW0gcmVxdWVzdAogICAgICogQHJldHVybiDJzMa3tcS7+bG+0MXPosHQse0KICAgICAqLwogICAgcHVibGljIEl0ZW1CYXNpY1tdIHNlYXJjaEJhc2ljQnlDb25kaXRpb24oS29hbGFDb25maWcgc2hvcENvbmZpZywgSXRlbVNlYXJjaEJhc2ljQnlDb25kaXRpb25SZXF1ZXN0IHJlcXVlc3QpIHsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gcmVxdWVzdCAhPSBudWxsID8gcmVxdWVzdC50b1BhcmFtZXRlcnMoKSA6IG5ldyBQYXJhbWV0ZXJzKCk7CiAgICAgICAgcmV0dXJuIHJlcUFwaShzaG9wQ29uZmlnLCAia2FvbGEuaXRlbS5zZWFyY2hCYXNpY0J5Q29uZGl0aW9uIiwKICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMsIEl0ZW1CYXNpY1tdLmNsYXNzLCAia2FvbGFfaXRlbV9zZWFyY2hCYXNpY0J5Q29uZGl0aW9uX3Jlc3BvbnNlL2l0ZW1fbGlzdCIpOwogICAgfQoKICAgIC8qKgogICAgICogyczGt9DeuMQKICAgICAqLwogICAgcHVibGljIEl0ZW1VcGRhdGVSZXNwb25zZSBpdGVtVXBkYXRlKEtvYWxhQ29uZmlnIHNob3BDb25maWcsSXRlbVVwZGF0ZVJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHJldHVybiByZXFBcGkoc2hvcENvbmZpZywgImthb2xhLml0ZW0udXBkYXRlIiwgcmVxdWVzdC50b1BhcmFtZXRlcnMoKSwKICAgICAgICAgICAgICAgIEl0ZW1VcGRhdGVSZXNwb25zZS5jbGFzcywia2FvbGFfaXRlbV91cGRhdGVfcmVzcG9uc2UiKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFN0cmluZyBqc29uID0gIntcImthb2xhX2l0ZW1fdXBkYXRlX3Jlc3BvbnNlXCI6e1wicmVzdWx0XCI6dHJ1ZX19IjsKICAgICAgICBKc29uTm9kZSBub2RlID0gbmV3IE9iamVjdE1hcHBlcigpLnJlYWRUcmVlKGpzb24pOwogICAgICAgIG9tLnRyZWVUb1ZhbHVlKC4=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">SW50ZWdlcgpJbnRlZ2VyCiAgICAgICA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBPYmplY3Q+PiBmaW5kUHJvcGVydGllcygpIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -612,11 +620,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5LmdldCgpICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">SW50ZWdlcgpJbnRlZ2VyCiAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLmFkZCgicGFnZV9zaXplIiwgU3RyaW5nLnZhbHVlT2YocGFnZVNpemUpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBPYmplY3Q+PiBmaW5kUHJvcGVydGllcygpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
