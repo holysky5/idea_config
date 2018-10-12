@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SearchStartup'">
@@ -47,6 +47,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'SearchStartup'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'sn-admin'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'sn-admin'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -78,7 +86,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SearchStartup'">
