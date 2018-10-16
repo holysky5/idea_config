@@ -6,7 +6,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'sn-admin'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'sn-app-api-remote'">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>136</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pin Tab">
@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AdminApplication'">
@@ -182,7 +182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'sn-admin'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sn-app-api-remote'">
@@ -206,7 +206,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>158</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="search stackoverflow">
