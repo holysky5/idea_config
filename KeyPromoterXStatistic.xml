@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>165</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'sn-app-api-remote'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>264</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pin Tab">
@@ -254,7 +254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'sn-app-api-remote'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -270,7 +270,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>98</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
