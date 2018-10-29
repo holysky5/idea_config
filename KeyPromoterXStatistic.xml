@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>63</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -57,12 +57,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Database</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>219</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -86,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'SearchStartup'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'StringUtil'">
@@ -142,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>534</Count>
+          <Count>545</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pin Tab">
@@ -406,7 +414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SearchStartup'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sn-admin'">
@@ -494,7 +502,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>324</Count>
+          <Count>333</Count>
         </Item>
       </Statistic>
       <Statistic Action="search stackoverflow">
