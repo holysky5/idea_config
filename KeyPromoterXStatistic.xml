@@ -393,6 +393,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Translation Dialog...">
         <Item>
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
