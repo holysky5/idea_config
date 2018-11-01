@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -79,6 +79,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AdminApplication'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AdminCustAfterSalesAjaxController'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'AdminCustAfterSalesAjaxController'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CitconPayAPITest.testChop'">
@@ -182,7 +190,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>116</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -207,6 +215,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'AdminApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AdminCustAfterSalesAjaxController'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AdminCustAfterSalesAjaxController'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CitconPayAPITest.testChop'">
@@ -542,7 +558,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>362</Count>
+          <Count>370</Count>
         </Item>
       </Statistic>
       <Statistic Action="search stackoverflow">
