@@ -369,6 +369,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DemoApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DemoApplicationTests.contextLoads'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DistOrderPaymentControllerTest.onlinePayNotify'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
