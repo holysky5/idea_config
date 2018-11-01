@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>558</Count>
+          <Count>559</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pin Tab">
@@ -166,7 +166,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'Alt+Q' or 'Alt+Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
