@@ -6,7 +6,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -19,5 +19,6 @@
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
+    <mask>*</mask>
   </component>
 </application>
