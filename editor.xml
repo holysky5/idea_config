@@ -5,7 +5,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono for Powerline" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
