@@ -230,7 +230,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -351,6 +351,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Test.name'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'dms [clean,install]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'dms [clean,install]'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dms [clean,package]'">
