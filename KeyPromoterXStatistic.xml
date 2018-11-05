@@ -358,7 +358,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'cms-service-provider [clean,package]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dms [clean,install]'">
@@ -631,6 +631,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SearchStartup'</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'dms [clean,package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'dms [clean,package]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sn-admin'">
