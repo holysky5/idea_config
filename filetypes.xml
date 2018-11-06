@@ -7,11 +7,11 @@
       <mapping pattern="vue-template.html" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="header" type="PLAIN_TEXT" />
+      <mapping pattern="jquery_autocomplete_doc" type="PLAIN_TEXT" />
       <mapping pattern="style_subject_choose" type="PLAIN_TEXT" />
       <mapping pattern="sitemesh3.xml" type="PLAIN_TEXT" />
       <mapping pattern="BaseAlipayApiResultBean" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="jquery_autocomplete_doc" type="PLAIN_TEXT" />
       <mapping pattern="images" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".default-cli-xjcStaleFlag" type="PLAIN_TEXT" />
@@ -26,6 +26,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="g" type="PLAIN_TEXT" />
       <mapping ext="python" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="html_back" type="PLAIN_TEXT" />
       <mapping ext="validation" type="PLAIN_TEXT" />
       <mapping ext="xml-liking" type="PLAIN_TEXT" />
