@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>685</Count>
+          <Count>689</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
