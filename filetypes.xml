@@ -5,6 +5,7 @@
       <mapping ext="wxss" type="CSS" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
       <mapping pattern="vue-template.html" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="header" type="PLAIN_TEXT" />
       <mapping pattern="jquery_autocomplete_doc" type="PLAIN_TEXT" />
