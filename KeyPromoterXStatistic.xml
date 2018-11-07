@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>805</Count>
+          <Count>814</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -598,6 +598,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unnamed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'UserServiceTest.validate'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'UserServiceTest.validate'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
