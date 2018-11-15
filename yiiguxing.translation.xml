@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拓扑图" />
       <item value="dirt" />
       <item value="spread" />
       <item value="Consult" />
@@ -37,7 +38,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
+        <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="11" />
       </map>
     </option>
