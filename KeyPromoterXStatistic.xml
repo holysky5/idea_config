@@ -169,6 +169,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'InventoryServiceTest.testCheckInventory'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'InventoryServiceTest.testCheckInventory'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'JongoDaoTest.testCollectionAggregate'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1355</Count>
+          <Count>1360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -318,7 +326,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>163</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -463,6 +471,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'GatewayServerBootstrap'</Description>
           <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'InventoryServiceTest.testCheckInventory'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'InventoryServiceTest.testCheckInventory'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'JongoDaoTest.testCollectionAggregate'">
@@ -769,6 +785,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'InventoryServiceTest.testCheckInventory'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'InventoryServiceTest.testCheckInventory'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JongoDaoTest.testCollectionAggregate'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1001,6 +1025,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'InventoryServiceTest.testCheckInventory'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'InventoryServiceTest.testCheckInventory'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PlatformWebApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1110,7 +1142,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>356</Count>
+          <Count>358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -1150,7 +1182,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>626</Count>
+          <Count>632</Count>
         </Item>
       </Statistic>
       <Statistic Action="search stackoverflow">
