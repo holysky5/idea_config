@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>138</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1360</Count>
+          <Count>1367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -303,6 +303,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pin Tab">
@@ -479,6 +487,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'InventoryServiceTest.testCheckInventory'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'InventoryServiceTest.testDecrProductQty'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'InventoryServiceTest.testDecrProductQty'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'JongoDaoTest.testCollectionAggregate'">
@@ -790,6 +806,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'InventoryServiceTest.testCheckInventory'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InventoryServiceTest.testDecrProductQty'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'InventoryServiceTest.testDecrProductQty'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1182,7 +1206,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>632</Count>
+          <Count>642</Count>
         </Item>
       </Statistic>
       <Statistic Action="search stackoverflow">
