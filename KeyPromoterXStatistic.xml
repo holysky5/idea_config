@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>480</Count>
+          <Count>481</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -167,6 +167,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'GatewayServerBootstrap'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'GetProductImage'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'GetProductImage'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'InventoryServiceTest.testCheckInventory'">
@@ -479,6 +487,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'GatewayServerBootstrap'</Description>
           <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GetProductImage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'GetProductImage'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InventoryServiceTest.testCheckInventory'">
@@ -799,6 +815,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'GatewayServerBootstrap'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GetProductImage.getProductFromImage'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'GetProductImage.getProductFromImage'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'InventoryServiceTest.testCheckInventory'">
@@ -1166,7 +1190,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>358</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
