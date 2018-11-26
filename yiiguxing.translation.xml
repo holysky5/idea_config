@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Moneta" />
       <item value="Orphans" />
       <item value="Determination" />
       <item value="y Determination" />
@@ -47,5 +48,8 @@
         <entry key="SPANISH" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
