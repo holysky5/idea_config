@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>178</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>796</Count>
+          <Count>800</Count>
         </Item>
       </Statistic>
       <Statistic Action="search stackoverflow">
