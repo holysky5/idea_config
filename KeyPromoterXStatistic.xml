@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Auto-Indent Lines">
+        <Item>
+          <IdeaActionID>AutoIndentLines</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+I'</ShortCut>
+          <Description>Auto-Indent Lines</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
