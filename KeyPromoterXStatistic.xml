@@ -281,6 +281,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'sn-api'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'sn-api'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'sn-app-api-remote'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'sn-rest-api'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1198,7 +1206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'sn-rest-api'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'voyageone-distribution [clean,package...]'">
