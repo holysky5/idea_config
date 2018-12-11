@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>830</Count>
+          <Count>832</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
