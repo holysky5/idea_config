@@ -16,9 +16,9 @@
     <mask>*</mask>
     <mask>*.yml</mask>
     <mask>*.pom</mask>
-    <mask>*.xml</mask>
     <mask>*.</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
