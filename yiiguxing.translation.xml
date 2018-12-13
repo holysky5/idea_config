@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merchandise" />
+      <item value="seed" />
       <item value="'Underwear'" />
       <item value="'Gear'" />
       <item value="'Accessories'" />
@@ -42,7 +44,6 @@
       <item value="determine" />
       <item value="决定" />
       <item value="Crotch" />
-      <item value="seed" />
       <item value="Presentation" />
       <item value="discrete" />
       <item value="discreate" />
@@ -50,12 +51,11 @@
       <item value="商" />
       <item value="group Field Name Child Field Id Map" />
       <item value="spawn" />
-      <item value="启动完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
