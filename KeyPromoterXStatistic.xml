@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>260</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -358,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2208</Count>
+          <Count>2209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -678,7 +678,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ProductDaoTest.testSave'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RabbitTest.sendMsg'">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ProductDaoTest.testSave'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RabbitTest.sendMsg'">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1229</Count>
+          <Count>1233</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
