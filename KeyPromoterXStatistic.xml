@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -54,7 +54,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Create Gist...">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1049</Count>
+          <Count>1058</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -246,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'SearchStartup'</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SecurityApplication'">
@@ -270,6 +270,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TestApplication.insertAdmin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'WxApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'WxApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -358,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2210</Count>
+          <Count>2211</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -430,7 +438,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>267</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -727,6 +735,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Test.name'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'WxApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'WxApplication'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'cms-service-provider [clean,package]'">
@@ -1065,6 +1081,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WxApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'WxApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'common-docker'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1305,6 +1329,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'WxApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'WxApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'admin-web'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1414,7 +1446,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>596</Count>
+          <Count>601</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -1454,7 +1486,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
