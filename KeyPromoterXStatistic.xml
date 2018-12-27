@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>262</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1058</Count>
+          <Count>1062</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -438,7 +438,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>269</Count>
+          <Count>270</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -710,7 +710,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'SearchStartup'</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SecurityApplication'">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SearchStartup'</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SecurityApplication'">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1239</Count>
+          <Count>1243</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
