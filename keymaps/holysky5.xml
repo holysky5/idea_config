@@ -172,6 +172,9 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="com.xiaohansong.codemaker.action.DocGenerateAction" />
+  <action id="mybatis.AutoCoding">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl j" />
+  </action>
   <action id="org.intellij.ideaplugins.tabswitch.action.NextTabAction">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
