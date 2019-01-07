@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1331</Count>
+          <Count>1332</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ActivityApplication'">
@@ -254,6 +254,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'OrderServiceVoExtImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PageImplJacksonDeserializer'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'PageImplJacksonDeserializer'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1201,6 +1209,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PageImplJacksonDeserializer'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'PageImplJacksonDeserializer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ProductApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1718,7 +1734,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>785</Count>
+          <Count>788</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
