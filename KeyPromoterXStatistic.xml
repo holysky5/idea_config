@@ -454,7 +454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2703</Count>
+          <Count>2706</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>337</Count>
+          <Count>341</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
