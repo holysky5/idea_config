@@ -9,17 +9,13 @@
         <mark key="^" line="211" column="57" />
         <mark key="." line="211" column="55" />
       </file>
-      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-service/src/test/java/com/voyageone/likingwear/common/service/ShunFengApiServiceTest.java" timestamp="1534734090675">
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="94" column="108" />
-      </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/GroupField.java" timestamp="1521435629755">
         <mark key="[" line="31" column="33" />
         <mark key="]" line="31" column="36" />
         <mark key="^" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
-      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/payment/impl/PaymentControllerImpl.java" timestamp="1531310437435">
+      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/payment/impl/PaymentControllerImpl.java" timestamp="1547098445472">
         <mark key="[" line="65" column="14" />
       </file>
       <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-service/src/test/java/com/voyageone/likingwear/CollectionTest.java" timestamp="1534733788851">
@@ -27,13 +23,6 @@
         <mark key="]" line="34" column="96" />
         <mark key="^" line="34" column="96" />
         <mark key="." line="34" column="96" />
-      </file>
-      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/job/OrderReturnLogisticsFetchJob.java" timestamp="1534733888933">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="96" column="23" />
-        <mark key="]" line="96" column="22" />
-        <mark key="^" line="96" column="22" />
-        <mark key="." line="96" column="22" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/java/com/voyageone/web/distribution/search/views/DistIndexHtmlController.java" timestamp="1521522840947">
         <mark key="[" line="20" column="19" />
@@ -102,13 +91,6 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="8" />
       </file>
-      <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/KoalaItemService.java" timestamp="1521706211027">
-        <mark key="'" line="130" column="23" />
-        <mark key="[" line="130" column="18" />
-        <mark key="]" line="130" column="18" />
-        <mark key="^" line="242" column="0" />
-        <mark key="." line="130" column="18" />
-      </file>
       <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-service/src/main/java/com/voyageone/support/payment/allinpay/api/AllinPayService.java" timestamp="1531372757267">
         <mark key="[" line="129" column="8" />
         <mark key="]" line="133" column="27" />
@@ -130,6 +112,11 @@
         <mark key="." line="59" column="3" />
         <mark key="^" line="59" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-wx-api/src/main/java/com/voyageone/dms/wx/endpoint/bean/OrderSubmitResult.java" timestamp="1547098575778">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-internal-parent/test" timestamp="1527058363689">
         <mark key="[" line="53" column="18" />
         <mark key="]" line="63" column="24" />
@@ -141,16 +128,6 @@
         <mark key="]" line="23" column="38" />
         <mark key="." line="23" column="38" />
         <mark key="^" line="22" column="24" />
-      </file>
-      <file name="E:/workspace/sneakerheadApp/vo-site-api/src/main/java/com/vog/snhd/appapi/v1/controller/catalog/impl/CategoryControllerImpl.java" timestamp="1539234305948">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="78" column="42" />
-        <mark key="]" line="99" column="17" />
-        <mark key="^" line="99" column="17" />
-        <mark key="." line="99" column="17" />
-      </file>
-      <file name="E:/workspace/sneakerheadApp/broadleaf-core/broadleaf-profile/src/main/java/org/broadleafcommerce/profile/core/dao/CustomerDaoImpl.java" timestamp="1539229029481">
-        <mark key="'" line="39" column="13" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/TaskStartup.java" timestamp="1521029945478">
         <mark key="[" line="11" column="26" />
@@ -175,6 +152,9 @@
         <mark key="]" line="146" column="19" />
         <mark key="^" line="146" column="19" />
         <mark key="." line="146" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/feign/ActivityApi.java" timestamp="1547099273195">
+        <mark key="[" line="153" column="0" />
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-electricity-business-parent/ecerp-interfaces-koala/src/main/java/com/voyageone/ecerp/interfaces/third/koala/beans/response/ItemUpdateResponse.java" timestamp="1521706057409">
         <mark key="[" line="11" column="13" />
@@ -230,6 +210,7 @@
         <mark key="^" line="199" column="50" />
         <mark key="." line="199" column="50" />
       </file>
+      <file name="E:/code/.m2/repository/com/github/binarywang/weixin-java-pay/3.3.0/weixin-java-pay-3.3.0-sources.jar!/com/github/binarywang/wxpay/service/impl/BaseWxPayServiceImpl.java" timestamp="1547097475274" />
       <file name="E:/workspace/likingWear/likingwear-service/pom.xml" timestamp="1521030435999">
         <mark key="[" line="52" column="21" />
       </file>
@@ -269,6 +250,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
+      <file name="E:/code/.m2/repository/com/github/binarywang/weixin-java-pay/3.3.0/weixin-java-pay-3.3.0-sources.jar!/com/github/binarywang/wxpay/service/WxPayService.java" timestamp="1547097385659" />
       <file name="E:/workspace/likingWearWeApp/src/api/api.js" timestamp="1524214766458">
         <mark key="[" line="43" column="101" />
       </file>
@@ -330,18 +312,21 @@
       <file name="E:/workspace/spring-cloud-demo/producer-server/src/main/java/com/zkane/ProducerServerApplication.java" timestamp="1541138647315">
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-wx-api/src/main/java/com/voyageone/dms/wx/endpoint/impl/WxUserOrderEndpointImpl.java" timestamp="1547098926839">
+        <mark key="'" line="172" column="18" />
+        <mark key="[" line="150" column="67" />
+        <mark key="]" line="150" column="67" />
+        <mark key="." line="150" column="67" />
+        <mark key="^" line="150" column="74" />
+      </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/BaseMongoDao.java" timestamp="1521526073376">
         <mark key="[" line="109" column="5" />
       </file>
       <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-model/src/main/java/com/voyageone/likingwear/dao/bean/OrderModel.java" timestamp="1527761061360">
         <mark key="[" line="113" column="6" />
       </file>
-      <file name="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/service/OrderReturnLogisticsSendService.java" timestamp="1539234036182">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="86" column="11" />
-        <mark key="]" line="103" column="11" />
-        <mark key="^" line="103" column="11" />
-        <mark key="." line="103" column="11" />
+      <file name="/ActivityController.java" timestamp="1547099064763">
+        <mark key="[" line="653" column="5" />
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/IssueLogModel.java" timestamp="1521029407232">
         <mark key="[" line="13" column="27" />
@@ -360,6 +345,9 @@
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/IssueLogDao.java" timestamp="1521029427068">
         <mark key="[" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-common/src/main/java/com/voyageone/common/core/ResultCode.java" timestamp="1547098917439">
+        <mark key="[" line="69" column="33" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/zmxy/zhima_auth.html" timestamp="1520995706527">
         <mark key="[" line="3577" column="0" />
@@ -465,6 +453,8 @@
       <jump line="39" column="13" filename="E:/workspace/sneakerheadApp/broadleaf-core/broadleaf-profile/src/main/java/org/broadleafcommerce/profile/core/dao/CustomerDaoImpl.java" />
       <jump line="95" column="81" filename="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/service/OrderReturnLogisticsSendService.java" />
       <jump line="82" column="0" filename="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/service/OrderReturnLogisticsSendService.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/workspace/dms/dms-server/dms-wx-api/src/main/java/com/voyageone/dms/wx/endpoint/impl/WxUserOrderEndpointImpl.java" />
+      <jump line="165" column="18" filename="$USER_HOME$/workspace/dms/dms-server/dms-wx-api/src/main/java/com/voyageone/dms/wx/endpoint/impl/WxUserOrderEndpointImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -537,7 +527,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>J</text>
+        <text>不能结算非本人的订单</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -546,41 +536,30 @@
         <text encoding="base64">cm91dGVyLmdldCgiL215L29yZGVyL3Bvc3RmZWUvdmVyaWZ5IikuYmxvY2tpbmdIYW5kbGVyKHJjIC0+IHsKICAgICAgICAgICAgcmVuZGVyKHJjLCAidGVtcGxhdGVzL29yZGVyL29yZGVyX3Bvc3RmZWVfdmVyaWZ5Lmh0bWwiKTsKICAgICAgICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgIHgK</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuZ2V0ZGQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuZ2V0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaUFkZAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LyBvdGhlciBjaGVjawogICAgICAgIGZpbmFsIFd4UGF5VW5pZmllZE9yZGVyUmVxdWVzdCByZXEgPSBuZXcgV3hQYXlVbmlmaWVkT3JkZXJSZXF1ZXN0KCk7CiAgICAgICAgU3RyaW5nIGJvZHkgPSBzb2QuZ2V0U2V0dGxlT3JkZXJOdW1iZXIoKSArICJfIiArCiAgICAgICAgICAgIFN0cmluZy5qb2luKCIsIiwgc29kLmdldE9yZGVycygpLnN0cmVhbSgpLm1hcChvIC0+IG8uZ2V0T3JkZXJJZCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKTsKICAgICAgICByZXEuc2V0Qm9keShib2R5KTsKICAgICAgICByZXEuc2V0T3V0VHJhZGVObyhzb2QuZ2V0U2V0dGxlT3JkZXJOdW1iZXIoKSk7CiAgICAgICAgTW9uZXkgdG90YWwgPSBzb2QuZ2V0VG90YWwoKTsKICAgICAgICAvLyDovazmiJBDTlks5Y2V5L2N5Li65YiGCiAgICAgICAgQ3VycmVuY3lDb252ZXJzaW9uIGNjID0gTW9uZXRhcnlDb252ZXJzaW9ucy5nZXRDb252ZXJzaW9uKCJDTlkiKTsKICAgICAgICBpbnQgdG90YWxGZWUgPSB0b3RhbC53aXRoKGNjKS5tdWx0aXBseSgxMDApLmdldE51bWJlcigpLmludFZhbHVlRXhhY3QoKTsKICAgICAgICByZXEuc2V0VG90YWxGZWUodG90YWxGZWUpOwogICAgICAgIExvY2FsRGF0ZVRpbWUgbm93ID0gTG9jYWxEYXRlVGltZS5ub3coKTsKICAgICAgICByZXEuc2V0VGltZVN0YXJ0KGR0Zi5mb3JtYXQobm93KSk7CiAgICAgICAgcmVxLnNldFRpbWVFeHBpcmUoZHRmLmZvcm1hdChub3cucGx1c01pbnV0ZXMoMzApKSk7CiAgICAgICAgcmVxLnNldE9wZW5pZCgieHh4eCIpOwog</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJTZXJ2aWNlCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>, function(index){
                     //按钮【按钮二】的回调
                 })</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVxLmdldEFwcGx5RGF0ZUJlZ2luKCkgIT0gbnVsbCB8fCByZXEuZ2V0QXBwbHlEYXRlRW5kKCkgIT0gbnVsbCkgewogICAgICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IG5ldyBDcml0ZXJpYSgpOwogICAgICAgICAgICBxLmFkZENyaXRlcmlhKENyaXRlcmlhLndoZXJlKCJhcHBseURhdGUiKS5ndGUoc3RhcnQpKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">aCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIu+/ve+/ve+/ve+/ve+/vcu777+977+977+9IHt9IO+/ve+/vcuz77+977+9yqfvv73vv70iLGxvZ2lzdGljc01vZGVsLmdldE9yZGVyTnVtYmVyKCksIGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>c static CheckBean checkResult(OrderReverseServiceResp resp){
-        Constants.SendToSFStatus sendToSf= Constants.SendToSFStatus.ERROR;
-        String msg=&quot;发送退货单到SF失败&quot;;
-        String mailNo = null;
-        try {
-            ErrorInfo errorInfo = resp.getErrorInfo();
-            if (!&quot;ok&quot;.equalsIgnoreCase(resp.getHead())) {
-                // 出错了
-                msg = errorInfo.getErrMsg() + &quot;, 错误码：&quot; + errorInfo.getCode();
-            } else {
-                OrderReverseServiceResp.OrderResponse respOrder = resp.getBody().getOrderResponse();
-                if (&quot;3&quot;.equals(respOrder.getFilterResult()) || 再按一次 v 自动扩展选择一段代码。&quot;</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">UHJpY2Ug77+927jvv70g77+977+977+927zbo++/ve+/ve+/ve+/vdan77+977+977+977+9zrvQoe+/ve+/vSjvv73vv73vv73vv73It++/ve+/ve+/ve+/vSnvv73vv73vv73vv73vv73vv73vv73vv73vv73vv73vv73vv73vv73vv73OqjPOu++/ve+/ve+/ve+/vdCh77+977+977+977+9z7XNs++/ve+/ve+/vdS277+977+977+977+977+977+977+977+977+977+9Ms670KHvv73vv70KICAgICAqIEByZXR1cm4g77+93rjEve+/ve+/vQogICAgICovCiAgICBwdWJsaWMgU2t1U2FsZVByaWNlVXBkYXRlUmVzcG9uc2Ugc2t1U2FsZVByaWNlVXBkYXRlKEtvYWxhQ29uZmlnIHNob3BDb25maWcsIFN0cmluZyBrZXksIEJpZ0RlY2ltYWwgc2FsZVByaWNlKSB7CiAgICAgICAgY2hlY2tBcmd1bWVudCghU3RyaW5ncy5pc051bGxPckVtcHR5KGtleSksICLvv73vv73Gt2tlee+/ve+/ve+/ve+/vc6q77+977+9Iik7CiAgICAgICAgY2hlY2tBcmd1bWVudChzYWxlUHJpY2UgIT0gbnVsbCwgIu+/vdu477+977+977+9zqrvv73vv70iKTsKCiAgICAgICAgUGFyYW1ldGVycyBwYXJhbWV0ZXJzID0gbmV3IFBhcmFtZXRlcnMoKS5hZGQoImtleSIsIGtleSkKICAgICAgICAgICAgICAgIC5hZGQoInNhbGVfcHJpY2UiLCBTdHJpbmcudmFsdWVPZihzYWxlUHJpY2UpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLnNrdS5zYWxlLnByaWNlLnVwZGF0ZSIsIHBhcmFtZXRlcnMsCiAgICAgICAgICAgICAgICBTa3VTYWxlUHJpY2VVcGRhdGVSZXNwb25zZS5jbGFzcyk7CiAgICB9CgogICAgLyoqCiAgICAgKiDvv73vv73vv73vv73vv73vv73GtwogICAgICovCiAgICBwdWJsaWMgSXRlbUFkZFBhcnRSZXNwb25zZSBhZGRQYXJ0KEtvYWxhQ29uZmlnIHNob3BDb25maWcsIEl0ZW1BZGRQYXJ0UmVxdWVzdCByZXEpIHsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmFkZFBhcnQiLCByZXEudG9QYXJhbWV0ZXJzKCksCiAgICAgICAgICAgICAgICBJdGVtQWRkUGFydFJlc3BvbnNlLmNsYXNzKTsKICAgIH0KCiAgICAvKioKICAgICAqIO+/vc+077+977+977+9xrfNvMasCiAgICAgKgogICAgICogQHBhcmFtIHBpYyDvv73EvO+/ve+/ve+/ve+/ve+/vQogICAgICogQHJldHVybiDvv73PtO+/ve+/ve+/ve+/vQogICAgICovCiAgICBwdWJsaWMgSXRlbUltZ1VwbG9hZFJlc3BvbnNlIGltZ1VwbG9hZChLb2FsYUNvbmZpZyBzaG9wQ29uZmlnLCBieXRlW10gcGljLFN0cmluZyBmaWxlTmFtZSkgewogICAgICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChwaWMhPW51bGwgJiYgcGljLmxlbmd0aD4wICYmICFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoZmlsZU5hbWUpLCLvv73EvO+/ve+/ve+/ve+/ve+/vc6q77+91bLvv73vv73StO+/ve+/ve+/vSIpOwogICAgICAgIFBhcmFtZXRlcnMgcGFyYW1ldGVycyA9IG5ldyBQYXJhbWV0ZXJzKCkuc2V0Qm9keUZpbGUocGljKS5zZXRCb2R5RmlsZU5hbWUoZmlsZU5hbWUpOwogICAgICAgIHJldHVybiByZXFBcGkoc2hvcENvbmZpZywgImthb2xhLml0ZW0uaW1nLnVwbG9hZCIsIHBhcmFtZXRlcnMsIEl0ZW1JbWdVcGxvYWRSZXNwb25zZS5jbGFzcyk7CiAgICB9CgogICAgLyoqCiAgICAgKiDvv73vv73vv73vv73vv73Ht++/ve+/ve+/ve+/vdi877+977+967m677+977O1CiAgICAgKgogICAgICogQHBhcmFtIGtleSAgICAgICAgICAg77+977+9xrfvv73vv71rZXkKICAgICAqIEBwYXJhbSBoaWRlQWRkVG9DYXJ0IO+/vce377+977+977+977+92Lzvv73vv73rubrvv73vs7Xvv73vv73Wu++/ve+/ve+/ve+/vdax77+907nvv73vv73yo6mj77+9MO+/ve+/ve+/ve+/ve+/ve+/ve+/vdij77+9Me+/ve+/ve+/ve+/ve+/ve+/vQogICAgICovCiAgICBwdWJsaWMgSGlkZWNhcnRVcGRhdGVSZXNwb25zZSBoaWRlY2FydFVwZGF0ZShLb2FsYUNvbmZpZyBzaG9wQ29uZmlnLCBTdHJpbmcga2V5LCBpbnQgaGlkZUFkZFRvQ2FydCkgewoKICAgICAgICBjaGVja0FyZ3VtZW50KCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoa2V5KSwgIu+/ve+/vca3a2V577+977+977+977+9zqrvv73vv70iKTsKICAgICAgICBjaGVja0FyZ3VtZW50KGhpZGVBZGRUb0NhcnQgPT0gMCB8fCBoaWRlQWRkVG9DYXJ0ID09IDEsICJoaWRlQWRkVG9DYXJ0IO+/ve+/vcih1rUgMO+/ve+/ve+/ve+/ve+/ve+/ve+/vdij77+9Me+/ve+/ve+/ve+/ve+/ve+/vSIpOwogICAgICAgIFBhcmFtZXRlcnMgcGFyYW1ldGVycyA9IG5ldyBQYXJhbWV0ZXJzKCkuYWRkKCJrZXlfbGlzdCIsIGtleSkuYWRkKCJoaWRlX2FkZF90b19jYXJ0IiwgU3RyaW5nLnZhbHVlT2YoaGlkZUFkZFRvQ2FydCkpOwogICAgICAgIHJldHVybiByZXFBcGkoc2hvcENvbmZpZywgImthb2xhLml0ZW0uaGlkZWNhcnQudXBkYXRlIiwgcGFyYW1ldGVycywgSGlkZWNhcnRVcGRhdGVSZXNwb25zZS5jbGFzcyk7CiAgICAgICAgLy8KICAgIH0KCiAgICAvKioKICAgICAqIO+/ve+/ve+/ve+/ve+/ve+/vdGv77+977+9xrfvv73vv73vv73vv73Ioe+/ve+/ve+/ve+/ve+/vc+iCiAgICAgKgogICAgICogQHBhcmFtIGl0ZW1LZXlMaXN0IDEwMDk4LTMwNDksMTAwOTctMzA0OSzvv73vv73vv73cs++/ve+/ve+/vTQw77+977+9CiAgICAgKiBAcmV0dXJuIO+/ve+/vca377+977+977+977+977+977+9z6Io77+977+977+977+9KQogICAgICovCiAgICBwdWJsaWMgSXRlbUJhc2ljW10gZ2V0QmFzaWNCeUtleXMoS29hbGFDb25maWcgc2hvcENvbmZpZywgU3RyaW5nW10gaXRlbUtleUxpc3QpIHsKICAgICAgICBjaGVja0FyZ3VtZW50KGl0ZW1LZXlMaXN0ICE9IG51bGwgJiYgaXRlbUtleUxpc3QubGVuZ3RoID4gMCAmJiBpdGVtS2V5TGlzdC5sZW5ndGggPD0gNDAsCiAgICAgICAgICAgICAgICAiaXRlbUtleUxpc3Tvv73vv73vv73vv73Oqu+/ve+/ve+/vdKy77+977+93LPvv73vv73vv700MO+/ve+/vSIpOwoKICAgICAgICBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMgPSBuZXcgUGFyYW1ldGVycygpLmFkZCgiaXRlbV9rZXlfbGlzdCIsIFN0cmluZy5qb2luKCIsIiwgaXRlbUtleUxpc3QpKTsKICAgICAgICByZXR1cm4gcmVxQXBpKHNob3BDb25maWcsICJrYW9sYS5pdGVtLmdldEJhc2ljQnlLZXlzIiwKICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMsIEl0ZW1CYXNpY1tdLmNsYXNzLCAiL2thb2xhX2l0ZW1fZ2V0QmFzaWNCeUtleXNfcmVzcG9uc2UvaXRlbV9saXN0Iik7CiAgICB9CgogICAgLyoqCiAgICAgKiDvv73vv73vv73vv71za3Xvv73vv73Ioe+/ve+/ve+/ve+/ve+/vc+iCiAgICAgKgogICAgICogQHBhcmFtIHNrdUtleUxpc3Qgc2t1IGtleSDWte+/ve+/ve+/ve+/vdGv77+977+91rXvv73vv73vv73csu+/ve+/vTEwMCDvv73vv70KICAgICAqIEByZXR1cm4gU2t1IO+/ve+/ve+/ve+/ve+/vc+iCiAgICAgKi8KICAgIHB1YmxpYyBTa3VCYXNpY1tdIGdldEJhc2ljQnlTa3VLZXlzKEtvYWxhQ29uZmlnIHNob3BDb25maWcsIFN0cmluZ1tdIHNrdUtleUxpc3QpIHsKICAgICAgICBjaGVja0FyZ3VtZW50KHNrdUtleUxpc3QubGVuZ3RoID4gMCAmJiBza3VLZXlMaXN0Lmxlbmd0aCA8PSAxMDAsCiAgICAgICAgICAgICAgICAic2t1IGtleSDWte+/ve+/ve+/ve+/vc6q77+977+9LO+/vdKz77+977+9yLLvv73vv73vv73vv73vv70xMDAiKTsKICAgICAgICBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMgPSBuZXcgUGFyYW1ldGVycygpLmFkZCgic2t1X2tleV9saXN0IiwgU3RyaW5nLmpvaW4oIiwiLCBza3VLZXlMaXN0KSk7CiAgICAgICAgcmV0dXJuIHJlcUFwaShzaG9wQ29uZmlnLCAia2FvbGEuc2t1LmdldEJhc2ljQnlLZXlzIiwgcGFyYW1ldGVycywgU2t1QmFzaWNbXS5jbGFzcywKICAgICAgICAgICAgICAgICJrYW9sYV9za3VfZ2V0QmFzaWNCeUtleXNfcmVzcG9uc2Uvc2t1X2xpc3QiKTsKICAgIH0KCiAgICAvKioKICAgICAqIO+/ve+/ve+/ve+/ve+/ve+/vca317TMrO+/ve+/vdGv77+977+9xrfvv73vv73vv73vv73Ioe+/ve+/ve+/ve+/ve+/vc+iCiAgICAgKgogICAgICogQHJldHVybiDvv73vv73Gt++/vcS777+977+977+977+977+9z6Lvv73Qse+/vQogICAgICovCiAgICBwdWJsaWMgSXRlbUJhc2ljW10gc2VhcmNoQmFzaWNCeUNvbmRpdGlvbihLb2FsYUNvbmZpZyBzaG9wQ29uZmlnKSB7CiAgICAgICAgcmV0dXJuIHNlYXJjaEJhc2ljQnlDb25kaXRpb24oc2hvcENvbmZpZywgbnVsbCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDvv73vv73vv73vv73vv73vv73Gt9e0zKzvv73vv73Rr++/ve+/vca377+977+977+977+9yKHvv73vv73vv73vv73vv73PogogICAgICoKICAgICAqIEBwYXJhbSByZXF1ZXN0CiAgICAgKiBAcmV0dXJuIO+/ve+/vca377+9xLvvv73vv73vv73vv73vv73Pou+/vdCx77+9CiAgICAgKi8KICAgIHB1YmxpYyBJdGVtQmFzaWNbXSBzZWFyY2hCYXNpY0J5Q29uZGl0aW9uKEtvYWxhQ29uZmlnIHNob3BDb25maWcsIEl0ZW1TZWFyY2hCYXNpY0J5Q29uZGl0aW9uUmVxdWVzdCByZXF1ZXN0KSB7CgogICAgICAgIFBhcmFtZXRlcnMgcGFyYW1ldGVycyA9IHJlcXVlc3QgIT0gbnVsbCA/IHJlcXVlc3QudG9QYXJhbWV0ZXJzKCkgOiBuZXcgUGFyYW1ldGVycygpOwogICAgICAgIHJldHVybiByZXFBcGkoc2hvcENvbmZpZywgImthb2xhLml0ZW0uc2VhcmNoQmFzaWNCeUNvbmRpdGlvbiIsCiAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzLCBJdGVtQmFzaWNbXS5jbGFzcywgImthb2xhX2l0ZW1fc2VhcmNoQmFzaWNCeUNvbmRpdGlvbl9yZXNwb25zZS9pdGVtX2xpc3QiKTsKICAgIH0KCiAgICAvKioKICAgICAqIO+/ve+/vca377+93rjvv70KICAgICAqLwogICAgcHVibGljIEl0ZW1VcGRhdGVSZXNwb25zZSBpdGVtVXBkYXRlKEtvYWxhQ29uZmlnIHNob3BDb25maWcsSXRlbVVwZGF0ZVJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIHJldHVybiByZXFBcGkoc2hvcENvbmZpZywgImthb2xhLml0ZW0udXBkYXRlIiwgcmVxdWVzdC50b1BhcmFtZXRlcnMoKSwKICAgICAgICAgICAgICAgIEl0ZW1VcGRhdGVSZXNwb25zZS5jbGFzcywia2FvbGFfaXRlbV91cGRhdGVfcmVzcG9uc2UiKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFN0cmluZyBqc29uID0gIntcImthb2xhX2l0ZW1fdXBkYXRlX3Jlc3BvbnNlXCI6e1wicmVzdWx0XCI6dHJ1ZX19IjsKICAgICAgICBKc29uTm9kZSBub2RlID0gbmV3IE9iamVjdE1hcHBlcigpLnJlYWRUcmVlKGpzb24pOwogICAgICAgIG9tLnRyZWVUb1ZhbHVlKC4=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -636,14 +615,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">SW50ZWdlcgpJbnRlZ2VyCiAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocmVxLmdldEFwcGx5RGF0ZUJlZ2luKCkgIT0gbnVsbCB8fCByZXEuZ2V0QXBwbHlEYXRlRW5kKCkgIT0gbnVsbCkgewogICAgICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IG5ldyBDcml0ZXJpYSgpOwogICAgICAgICAgICBxLmFkZENyaXRlcmlhKENyaXRlcmlhLndoZXJlKCJhcHBseURhdGUiKS5ndGUoc3RhcnQpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBPYmplY3Q+PiBmaW5kUHJvcGVydGllcygpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action ImplementMethods</text>
       </register>
     </registers>
     <search>
@@ -685,6 +664,7 @@
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action $Paste</entry>
+        <entry>action ImplementMethods</entry>
       </history-cmd>
       <history-expr />
       <history-input />
