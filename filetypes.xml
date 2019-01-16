@@ -31,6 +31,7 @@
       <mapping ext="html_back" type="PLAIN_TEXT" />
       <mapping ext="validation" type="PLAIN_TEXT" />
       <mapping ext="xml-liking" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="vtl" type="VTL" />
       <mapping ext="wxml" type="XML" />
