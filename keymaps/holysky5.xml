@@ -94,9 +94,6 @@
     <keyboard-shortcut first-keystroke="insert" />
   </action>
   <action id="NextTab" />
-  <action id="OpenInBrowser">
-    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl o" />
-  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl i" />
   </action>
@@ -168,6 +165,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
   <action id="VcsHistory.ShowAllAffected" />
+  <action id="VimMotionPreviousTab">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
