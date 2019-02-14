@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bew" />
       <item value="in-flight" />
       <item value="Remit" />
       <item value="Obtain Via" />
@@ -50,12 +51,12 @@
       <item value="ms" />
       <item value="原地" />
       <item value="原地删除" />
-      <item value="Duplicate Key ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
+        <entry key="GERMAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
