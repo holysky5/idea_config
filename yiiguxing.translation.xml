@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cipher" />
       <item value="Compound Rate Provider" />
       <item value="bew" />
       <item value="in-flight" />
@@ -50,12 +51,11 @@
       <item value="is Assignable From" />
       <item value="ARCHIVED" />
       <item value="ms" />
-      <item value="原地" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="GERMAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
