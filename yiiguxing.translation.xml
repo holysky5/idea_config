@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Outcome" />
+      <item value=" deduce" />
       <item value="permutation" />
       <item value="cipher" />
       <item value="Compound Rate Provider" />
@@ -49,13 +51,11 @@
       <item value="Resolution" />
       <item value=":" />
       <item value="s Assignable" />
-      <item value="is Assignable From" />
-      <item value="ARCHIVED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="GERMAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
