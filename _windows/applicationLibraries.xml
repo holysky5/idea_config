@@ -46,45 +46,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.5 (sneakerheadApp) interpreter library">
-      <CLASSES>
-        <root url="file://$PYTHON_HOME$/DLLs" />
-        <root url="file://$PYTHON_HOME$/Lib" />
-        <root url="file://$PYTHON_HOME$" />
-        <root url="file://E:/workspace/sneakerheadApp/venv" />
-        <root url="file://E:/workspace/sneakerheadApp/venv/Lib/site-packages" />
-        <root url="jar://E:/workspace/sneakerheadApp/venv/Lib/site-packages/setuptools-39.1.0-py3.5.egg!/" />
-        <root url="file://E:/workspace/sneakerheadApp/venv/Lib/site-packages/pip-10.0.1-py3.5.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/1739918340" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$PYTHON_HOME$/DLLs" />
-        <root url="file://$PYTHON_HOME$/Lib" />
-        <root url="file://$PYTHON_HOME$" />
-        <root url="file://E:/workspace/sneakerheadApp/venv" />
-        <root url="file://E:/workspace/sneakerheadApp/venv/Lib/site-packages" />
-        <root url="jar://E:/workspace/sneakerheadApp/venv/Lib/site-packages/setuptools-39.1.0-py3.5.egg!/" />
-        <root url="file://E:/workspace/sneakerheadApp/venv/Lib/site-packages/pip-10.0.1-py3.5.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/1739918340" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 3.5.1 (E:\code\python35\python.exe) interpreter library">
       <CLASSES>
         <root url="file://$PYTHON_HOME$/DLLs" />
