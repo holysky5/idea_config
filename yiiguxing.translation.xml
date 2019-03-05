@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CURLY" />
       <item value="dummy" />
       <item value="Outcome" />
       <item value=" deduce" />
@@ -50,12 +51,11 @@
       <item value="Archived" />
       <item value="Adjustment" />
       <item value="Resolution" />
-      <item value=":" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="GERMAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
