@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CROSS SALE" />
       <item value="Referenced" />
       <item value="routing" />
       <item value="routingnumber" />
@@ -50,12 +51,11 @@
       <item value="y Determination" />
       <item value="tenant" />
       <item value="拓扑图" />
-      <item value="dirt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="GERMAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
