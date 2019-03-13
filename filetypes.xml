@@ -26,6 +26,7 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="g" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="exchangerateprovider" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
