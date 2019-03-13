@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Referenced" />
+      <item value="routing" />
+      <item value="routingnumber" />
       <item value="burner" />
       <item value="sole" />
       <item value="Instructs" />
@@ -48,14 +51,11 @@
       <item value="tenant" />
       <item value="拓扑图" />
       <item value="dirt" />
-      <item value="spread" />
-      <item value="Consult" />
-      <item value="claim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="GERMAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
