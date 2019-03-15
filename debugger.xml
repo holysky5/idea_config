@@ -91,13 +91,108 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="list" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.List" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.util.List" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="map" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.util.Map" />
+        <option name="SHOW_TYPE" value="false" />
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="long[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="long[]" />
+        <option name="SHOW_TYPE" value="false" />
         <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="java.util.Map" />
+          <option name="QUALIFIED_NAME" value="long[]" />
           <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="this.toString()&#13;&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="byte[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="byte[]" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="byte[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="short[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="short[]" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="short[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="Object[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.lang.Object[]" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.lang.Object[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="boolean[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="boolean[]" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="boolean[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="float[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="float[]" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="float[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="double[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="double[]" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="double[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="char[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="char[]" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="char[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
