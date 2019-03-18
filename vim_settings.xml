@@ -45,7 +45,7 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/dms/dms-server/dms-gateway/src/main/resources/logback-spring.xml" timestamp="1552888425286">
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-gateway/src/main/resources/logback-spring.xml" timestamp="1552891620163">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -170,6 +170,12 @@
       </file>
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-partener-parent/ecerp-interfaces-lazada/src/main/java/com/alibaba/normandie/api/core/response/IntUpdateResponse.java" timestamp="1521705503227">
         <mark key="[" line="11" column="32" />
+      </file>
+      <file name="E:/workspace/shop-mall/README.md" timestamp="1552891424739">
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
       </file>
       <file name="E:/workspace/likingWear/ant_rest/header.md" timestamp="1521023452915">
         <mark key="[" line="23" column="0" />
@@ -300,7 +306,7 @@
       <file name="E:/workspace/likingWearWeApp/src/api/api.js" timestamp="1524214766458">
         <mark key="[" line="43" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552886335599">
+      <file name="/Dummy.txt" timestamp="1552890792069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -424,6 +430,12 @@
       </file>
       <file name="/fragment.java" timestamp="1534733950435">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/workspace/shop-mall/.gitignore" timestamp="1552890770300">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
       </file>
       <file name="E:/workspace/ecerp-platform-parent/ecerp-platform-task/src/main/resources/context-task-cron.xml" timestamp="1521000652586">
         <mark key="[" line="22" column="90" />
