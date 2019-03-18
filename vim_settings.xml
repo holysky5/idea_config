@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/style/GroupField.java" timestamp="1521435629755">
@@ -33,7 +33,7 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivityProductStatisticsVo.java" timestamp="1552886118272">
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivityProductStatisticsVo.java" timestamp="1552907042901">
         <mark key="'" line="22" column="7" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -175,7 +175,12 @@
         <mark key="]" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivityProduct.java" timestamp="1552906596397" />
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivityProduct.java" timestamp="1552907920799">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="^" line="178" column="7" />
+        <mark key="." line="178" column="0" />
+      </file>
       <file name="E:/workspace/shop-mall/modules/mall-config/pom.xml" timestamp="1552899596991">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -211,7 +216,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivitySku.java" timestamp="1552906156814" />
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivitySku.java" timestamp="1552907932148" />
       <file name="E:/workspace/likingWear/likingwear-resource/src/main/resources/application.properties" timestamp="1521028757677">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="30" />
@@ -349,7 +354,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552906209566">
+      <file name="/Dummy.txt" timestamp="1552907517054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -571,7 +576,7 @@
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ucWluaXU8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5xaW5pdS1qYXZhLXNkazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjcuMi4xODwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic2t1IGlzOiB7fSIsIEpzb24uZW5jb2RlUXVpZW50KHRoaXMuZ2V0U2t1cygpKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
@@ -580,19 +585,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+bW9uZXRhLWNvbnZlcnQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmphdmFtb25leS5tb25ldGE8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+bW9uZXRhLWNvbnZlcnQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmphdmFtb25leS5tb25ldGE8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -649,10 +654,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBqc3IzNTQgbW9uZXkgYXBpIC0tPgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBqc3IzNTQgbW9uZXkgYXBpIC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
