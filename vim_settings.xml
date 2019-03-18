@@ -183,6 +183,12 @@
         <mark key="^" line="146" column="19" />
         <mark key="." line="146" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/dms/RunwaygoAPP/wepy.config.js" timestamp="1552889540099">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/feign/ActivityApi.java" timestamp="1547099273195">
         <mark key="[" line="153" column="0" />
       </file>
