@@ -45,6 +45,13 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivityProductStatisticsVo.java" timestamp="1552884352423">
+        <mark key="'" line="22" column="7" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="6" />
+        <mark key="." line="22" column="6" />
+        <mark key="^" line="22" column="6" />
+      </file>
       <file name="E:/workspace/likingWear/likingwear-mp/src/main/resources/templates/zmxy/bind_phone.html" timestamp="1523515872661">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="8" />
@@ -350,7 +357,7 @@
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/IssueLogModel.java" timestamp="1521029407232">
         <mark key="[" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service-provider/src/main/java/com/voyageone/dms/activity/service/StatisticsService.java" timestamp="1552883857743">
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service-provider/src/main/java/com/voyageone/dms/activity/service/StatisticsService.java" timestamp="1552884295449">
         <mark key="[" line="63" column="36" />
         <mark key="]" line="63" column="51" />
         <mark key="^" line="63" column="51" />
@@ -480,6 +487,7 @@
       <jump line="82" column="0" filename="E:/workspace/likingbox/likingbox-wear/likingWear/likingwear-task/src/main/java/com/voyageone/likingwear/task/service/OrderReturnLogisticsSendService.java" />
       <jump line="156" column="0" filename="$USER_HOME$/workspace/dms/dms-server/dms-wx-api/src/main/java/com/voyageone/dms/wx/endpoint/impl/WxUserOrderEndpointImpl.java" />
       <jump line="165" column="18" filename="$USER_HOME$/workspace/dms/dms-server/dms-wx-api/src/main/java/com/voyageone/dms/wx/endpoint/impl/WxUserOrderEndpointImpl.java" />
+      <jump line="25" column="7" filename="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivityProductStatisticsVo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -560,31 +568,35 @@
       <register name="0" type="4">
         <text encoding="base64">cm91dGVyLmdldCgiL215L29yZGVyL3Bvc3RmZWUvdmVyaWZ5IikuYmxvY2tpbmdIYW5kbGVyKHJjIC0+IHsKICAgICAgICAgICAgcmVuZGVyKHJjLCAidGVtcGxhdGVzL29yZGVyL29yZGVyX3Bvc3RmZWVfdmVyaWZ5Lmh0bWwiKTsKICAgICAgICB9KTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHgK</text>
+      <register name="1" type="4">
+        <text>*v*
+     * 销售总数
+     */
+    pria</text>
       </register>
       <register name="q" type="4">
         <text>bJj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuZ2V0ZGQK</text>
+      <register name="2" type="4">
+        <text>*
+     * 销售总数
+     */
+    pri</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuZ2V0Cg==</text>
+        <text encoding="base64">ICAgIHgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaUFkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuZ2V0ZGQK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyBvdGhlciBjaGVjawogICAgICAgIGZpbmFsIFd4UGF5VW5pZmllZE9yZGVyUmVxdWVzdCByZXEgPSBuZXcgV3hQYXlVbmlmaWVkT3JkZXJSZXF1ZXN0KCk7CiAgICAgICAgU3RyaW5nIGJvZHkgPSBzb2QuZ2V0U2V0dGxlT3JkZXJOdW1iZXIoKSArICJfIiArCiAgICAgICAgICAgIFN0cmluZy5qb2luKCIsIiwgc29kLmdldE9yZGVycygpLnN0cmVhbSgpLm1hcChvIC0+IG8uZ2V0T3JkZXJJZCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKTsKICAgICAgICByZXEuc2V0Qm9keShib2R5KTsKICAgICAgICByZXEuc2V0T3V0VHJhZGVObyhzb2QuZ2V0U2V0dGxlT3JkZXJOdW1iZXIoKSk7CiAgICAgICAgTW9uZXkgdG90YWwgPSBzb2QuZ2V0VG90YWwoKTsKICAgICAgICAvLyDovazmiJBDTlks5Y2V5L2N5Li65YiGCiAgICAgICAgQ3VycmVuY3lDb252ZXJzaW9uIGNjID0gTW9uZXRhcnlDb252ZXJzaW9ucy5nZXRDb252ZXJzaW9uKCJDTlkiKTsKICAgICAgICBpbnQgdG90YWxGZWUgPSB0b3RhbC53aXRoKGNjKS5tdWx0aXBseSgxMDApLmdldE51bWJlcigpLmludFZhbHVlRXhhY3QoKTsKICAgICAgICByZXEuc2V0VG90YWxGZWUodG90YWxGZWUpOwogICAgICAgIExvY2FsRGF0ZVRpbWUgbm93ID0gTG9jYWxEYXRlVGltZS5ub3coKTsKICAgICAgICByZXEuc2V0VGltZVN0YXJ0KGR0Zi5mb3JtYXQobm93KSk7CiAgICAgICAgcmVxLnNldFRpbWVFeHBpcmUoZHRmLmZvcm1hdChub3cucGx1c01pbnV0ZXMoMzApKSk7CiAgICAgICAgcmVxLnNldE9wZW5pZCgieHh4eCIpOwog</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaUFkZAo=</text>
       </register>
       <register name="7" type="4">
-        <text>, function(index){
-                    //按钮【按钮二】的回调
-                })</text>
+        <text encoding="base64">LyBvdGhlciBjaGVjawogICAgICAgIGZpbmFsIFd4UGF5VW5pZmllZE9yZGVyUmVxdWVzdCByZXEgPSBuZXcgV3hQYXlVbmlmaWVkT3JkZXJSZXF1ZXN0KCk7CiAgICAgICAgU3RyaW5nIGJvZHkgPSBzb2QuZ2V0U2V0dGxlT3JkZXJOdW1iZXIoKSArICJfIiArCiAgICAgICAgICAgIFN0cmluZy5qb2luKCIsIiwgc29kLmdldE9yZGVycygpLnN0cmVhbSgpLm1hcChvIC0+IG8uZ2V0T3JkZXJJZCgpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKTsKICAgICAgICByZXEuc2V0Qm9keShib2R5KTsKICAgICAgICByZXEuc2V0T3V0VHJhZGVObyhzb2QuZ2V0U2V0dGxlT3JkZXJOdW1iZXIoKSk7CiAgICAgICAgTW9uZXkgdG90YWwgPSBzb2QuZ2V0VG90YWwoKTsKICAgICAgICAvLyDovazmiJBDTlks5Y2V5L2N5Li65YiGCiAgICAgICAgQ3VycmVuY3lDb252ZXJzaW9uIGNjID0gTW9uZXRhcnlDb252ZXJzaW9ucy5nZXRDb252ZXJzaW9uKCJDTlkiKTsKICAgICAgICBpbnQgdG90YWxGZWUgPSB0b3RhbC53aXRoKGNjKS5tdWx0aXBseSgxMDApLmdldE51bWJlcigpLmludFZhbHVlRXhhY3QoKTsKICAgICAgICByZXEuc2V0VG90YWxGZWUodG90YWxGZWUpOwogICAgICAgIExvY2FsRGF0ZVRpbWUgbm93ID0gTG9jYWxEYXRlVGltZS5ub3coKTsKICAgICAgICByZXEuc2V0VGltZVN0YXJ0KGR0Zi5mb3JtYXQobm93KSk7CiAgICAgICAgcmVxLnNldFRpbWVFeHBpcmUoZHRmLmZvcm1hdChub3cucGx1c01pbnV0ZXMoMzApKSk7CiAgICAgICAgcmVxLnNldE9wZW5pZCgieHh4eCIpOwog</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -641,10 +653,12 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVxLmdldEFwcGx5RGF0ZUJlZ2luKCkgIT0gbnVsbCB8fCByZXEuZ2V0QXBwbHlEYXRlRW5kKCkgIT0gbnVsbCkgewogICAgICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IG5ldyBDcml0ZXJpYSgpOwogICAgICAgICAgICBxLmFkZENyaXRlcmlhKENyaXRlcmlhLndoZXJlKCJhcHBseURhdGUiKS5ndGUoc3RhcnQpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJTZXJ2aWNlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>, function(index){
+                    //按钮【按钮二】的回调
+                })</text>
       </register>
       <register name=":" type="4">
         <text>action ImplementMethods</text>
