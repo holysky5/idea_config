@@ -45,10 +45,11 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/dms/dms-server/dms-gateway/src/main/resources/logback-spring.xml" timestamp="1552891620163">
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-gateway/src/main/resources/logback-spring.xml" timestamp="1552892246129">
         <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service/src/main/java/com/voyageone/activity/bean/ActivityProductStatisticsVo.java" timestamp="1552886118272">
         <mark key="'" line="22" column="7" />
@@ -171,11 +172,11 @@
       <file name="E:/project/ecerp-interface-parent/ecerp-interfaces-partener-parent/ecerp-interfaces-lazada/src/main/java/com/alibaba/normandie/api/core/response/IntUpdateResponse.java" timestamp="1521705503227">
         <mark key="[" line="11" column="32" />
       </file>
-      <file name="E:/workspace/shop-mall/README.md" timestamp="1552891424739">
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
+      <file name="E:/workspace/shop-mall/README.md" timestamp="1552892277726">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="E:/workspace/likingWear/ant_rest/header.md" timestamp="1521023452915">
         <mark key="[" line="23" column="0" />
@@ -702,7 +703,7 @@
       <last-offset />
       <last-pattern>price</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
