@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/workspace/likingWear/likingwear-rest/src/main/java/com/voyageone/likingwear/rest/controller/UserController.java" timestamp="1521525070192">
@@ -112,7 +112,6 @@
         <mark key="^" line="218" column="32" />
         <mark key="." line="218" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/common-data/common-data-service-provider/src/main/java/com/voyageone/dataservice/endpoint/WxRefundNotifyRequest.java" timestamp="1551955538161" />
       <file name="E:/workspace/voyageone-distribution/distribution-web/distribution-web-search/src/main/resources/templates/order/order_postfee_verify.html" timestamp="1539247099082">
         <mark key="[" line="228" column="19" />
         <mark key="]" line="226" column="78" />
@@ -350,6 +349,12 @@
       </file>
       <file name="E:/workspace/likingWear/likingwear-service/src/main/java/com/voyageone/likingwear/dao/bean/IssueLogModel.java" timestamp="1521029407232">
         <mark key="[" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/dms/dms-server/dms-modules/ams/activity-service-provider/src/main/java/com/voyageone/dms/activity/service/StatisticsService.java" timestamp="1552879943878">
+        <mark key="[" line="209" column="4" />
+        <mark key="]" line="209" column="3" />
+        <mark key="^" line="209" column="3" />
+        <mark key="." line="209" column="3" />
       </file>
       <file name="E:/workspace/voyageone-distribution/distribution-wechat/app.json" timestamp="1520941882690">
         <mark key="[" line="23" column="7" />
