@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TEMPORARY" />
+      <item value="PASSTHROUGH" />
       <item value="Super-saver" />
       <item value="Fulfillment" />
       <item value="collation" />
@@ -49,13 +51,11 @@
       <item value="'Apparel'" />
       <item value="Manufacturer" />
       <item value="coalesce" />
-      <item value="Discrete" />
-      <item value="guess" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="GERMAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
