@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Super-saver" />
       <item value="Fulfillment" />
       <item value="collation" />
       <item value="symmetric" />
@@ -50,12 +51,11 @@
       <item value="coalesce" />
       <item value="Discrete" />
       <item value="guess" />
-      <item value="Procurement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="GERMAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
