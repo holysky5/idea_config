@@ -32,12 +32,6 @@
               <option name="commandLine" value="deploy" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean compile" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="dependency:tree" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
             <Goal>
@@ -66,9 +60,6 @@
             </Goal>
             <Goal>
               <option name="commandLine" value="release:prepare" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="dependency:tree" />
             </Goal>
             <Goal>
               <option name="commandLine" value="dependency:tree" />
@@ -113,6 +104,9 @@
             </Goal>
             <Goal>
               <option name="commandLine" value="jrebel:generate" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:tree" />
             </Goal>
           </list>
         </option>
