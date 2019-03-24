@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reserve" />
+      <item value="reconcile" />
       <item value="Treiber" />
       <item value="TEMPORARY" />
       <item value="PASSTHROUGH" />
@@ -49,13 +51,11 @@
       <item value="'Gear'" />
       <item value="'Accessories'" />
       <item value="Apparel" />
-      <item value="'Apparel'" />
-      <item value="Manufacturer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="GERMAN" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
