@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DETACHED" />
+      <item value="DETACHED CREDIT" />
+      <item value="REFUND" />
       <item value="prorated" />
       <item value="canonical" />
       <item value="Reserve" />
@@ -48,14 +51,11 @@
       <item value="promotions" />
       <item value="offers" />
       <item value="Merchandise" />
-      <item value="seed" />
-      <item value="'Underwear'" />
-      <item value="'Gear'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="GERMAN" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
