@@ -7,6 +7,7 @@
       <mapping pattern="product" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="sn-app下单流程" type="PLAIN_TEXT" />
       <mapping pattern="header" type="PLAIN_TEXT" />
       <mapping pattern="jquery_autocomplete_doc" type="PLAIN_TEXT" />
       <mapping pattern="style_subject_choose" type="PLAIN_TEXT" />
