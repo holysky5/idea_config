@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reconcile" />
       <item value="refine" />
       <item value="Capable" />
       <item value="DETACHED" />
@@ -9,7 +10,6 @@
       <item value="prorated" />
       <item value="canonical" />
       <item value="Reserve" />
-      <item value="reconcile" />
       <item value="Treiber" />
       <item value="TEMPORARY" />
       <item value="PASSTHROUGH" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="GERMAN" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
