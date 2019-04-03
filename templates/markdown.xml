@@ -30,7 +30,94 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="md_sequency" value="![Alt text](http://www.gravizo.com/svg?&#10;@startuml;&#10;&#10;actor User;&#10;participant &quot;First Class&quot; as A;&#10;participant &quot;Second Class&quot; as B;&#10;participant &quot;Last Class&quot; as C;&#10;&#10;User -&gt; A: DoWork;&#10;activate A;&#10;&#10;A -&gt; B: Create Request;&#10;activate B;&#10;&#10;B -&gt; C: DoWork;&#10;activate C;&#10;&#10;C --&gt; B: WorkDone;&#10;destroy C;&#10;&#10;B --&gt; A: Request Created;&#10;deactivate B;&#10;&#10;A --&gt; User: Done;&#10;deactivate A;&#10;&#10;@enduml)" description="plantuml sequency online" toReformat="false" toShortenFQNames="true">
+  <template name="md_sequency" value="@startuml;&#10;&#10;actor User;&#10;participant &quot;First Class&quot; as A;&#10;participant &quot;Second Class&quot; as B;&#10;participant &quot;Last Class&quot; as C;&#10;&#10;User -&gt; A: DoWork;&#10;activate A;&#10;&#10;A -&gt; B: Create Request;&#10;activate B;&#10;&#10;B -&gt; C: DoWork;&#10;activate C;&#10;&#10;C --&gt; B: WorkDone;&#10;destroy C;&#10;&#10;B --&gt; A: Request Created;&#10;deactivate B;&#10;&#10;A --&gt; User: Done;&#10;deactivate A;&#10;&#10;@enduml" description="plantuml sequency online" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ASPECTJ" value="false" />
+      <option name="Bash" value="false" />
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="RHTML" value="false" />
+      <option name="RUBY" value="false" />
+      <option name="SCALA" value="false" />
+      <option name="SQL" value="false" />
+      <option name="SSP" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="sbt" value="false" />
+    </context>
+  </template>
+  <template name="md_puml" value="![图表](https://g.gravizo.com/svg?@startuml;&#10;&#10;@enduml&#10;)" description="markdown online plantuml" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ASPECTJ" value="false" />
+      <option name="Bash" value="false" />
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="RHTML" value="false" />
+      <option name="RUBY" value="false" />
+      <option name="SCALA" value="false" />
+      <option name="SQL" value="false" />
+      <option name="SSP" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="sbt" value="false" />
+    </context>
+  </template>
+  <template name="md_uml" value="@startuml;&#10;&#10;/**&#10;*Structural Things&#10;*@opt commentname&#10;*@note Notes can&#10;*be extended to&#10;*span multiple lines&#10;*/&#10;class Structural{}&#10;&#10;/**&#10;*@opt all&#10;*@note Class&#10;*/&#10;class Counter extends Structural {&#10;        static public int counter;&#10;        public int getCounter%28%29;&#10;}&#10;&#10;/**&#10;*@opt shape activeclass&#10;*@opt all&#10;*@note Active Class&#10;*/&#10;class RunningCounter extends Counter{}&#10;@enduml" description="plantuml uml" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ASPECTJ" value="false" />
+      <option name="Bash" value="false" />
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="RHTML" value="false" />
+      <option name="RUBY" value="false" />
+      <option name="SCALA" value="false" />
+      <option name="SQL" value="false" />
+      <option name="SSP" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="sbt" value="false" />
+    </context>
+  </template>
+  <template name="md_activity" value="@startuml;&#10;&#10;(*) --&gt; if &quot;Some Test&quot; then;&#10;&#10;  --&gt;[true] &quot;activity 1&quot;;&#10;&#10;  if &quot;&quot; then;&#10;    -&gt; &quot;activity 3&quot; as a3;&#10;  else;&#10;    if &quot;Other test&quot; then;&#10;      -left-&gt; &quot;activity 5&quot;;&#10;    else;&#10;      --&gt; &quot;activity 6&quot;;&#10;    endif;&#10;  endif;&#10;&#10;else;&#10;&#10;  -&gt;[false] &quot;activity 2&quot;;&#10;&#10;endif;&#10;&#10;a3 --&gt; if &quot;last test&quot; then;&#10;  --&gt; &quot;activity 7&quot;;&#10;else;&#10;  -&gt; &quot;activity 8&quot;;&#10;endif;&#10;&#10;@enduml &#10;        " description="plantuml activity image" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ASPECTJ" value="false" />
       <option name="Bash" value="false" />
