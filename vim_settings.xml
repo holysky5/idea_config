@@ -20,6 +20,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="E:/workspace/sneakerheadApp/vo-core/src/main/java/com/vog/common/service/payment/IdCardAuthService.java" timestamp="1554290539847">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1552975341865">
         <mark key="[" line="0" column="0" />
       </file>
@@ -673,7 +679,7 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic2t1IGlzOiB7fSIsIEpzb24uZW5jb2RlUXVpZW50KHRoaXMuZ2V0U2t1cygpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -702,8 +708,6 @@
         <entry>action GotoAction</entry>
         <entry>action CloseActiveTab</entry>
         <entry>action GotoClass</entry>
-        <entry>split</entry>
-        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFNlbGVjdEFsbA==</entry>
         <entry>action $SelectAll</entry>
         <entry>action EditorSelectWord</entry>
@@ -715,6 +719,8 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>action Find</entry>
+        <entry>vsplit</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
