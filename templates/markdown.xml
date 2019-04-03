@@ -30,7 +30,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="md_sequency" value="@startuml;&#10;&#10;actor User;&#10;participant &quot;First Class&quot; as A;&#10;participant &quot;Second Class&quot; as B;&#10;participant &quot;Last Class&quot; as C;&#10;&#10;User -&gt; A: DoWork;&#10;activate A;&#10;&#10;A -&gt; B: Create Request;&#10;activate B;&#10;&#10;B -&gt; C: DoWork;&#10;activate C;&#10;&#10;C --&gt; B: WorkDone;&#10;destroy C;&#10;&#10;B --&gt; A: Request Created;&#10;deactivate B;&#10;&#10;A --&gt; User: Done;&#10;deactivate A;&#10;&#10;@enduml" description="plantuml sequency online" toReformat="false" toShortenFQNames="true">
+  <template name="md_sequency" value="@startuml&#10;&#10;actor User&#10;participant &quot;First Class&quot; as A&#10;participant &quot;Second Class&quot; as B&#10;participant &quot;Last Class&quot; as C&#10;&#10;User -&gt; A: DoWork&#10;activate A&#10;&#10;A -&gt; B: Create Request&#10;activate B&#10;&#10;B -&gt; C: DoWork&#10;activate C&#10;&#10;C --&gt; B: WorkDone&#10;destroy C&#10;&#10;B --&gt; A: Request Created&#10;deactivate B&#10;&#10;A --&gt; User: Done&#10;deactivate A&#10;&#10;@enduml" description="plantuml sequency online" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ASPECTJ" value="false" />
       <option name="Bash" value="false" />
@@ -117,7 +117,7 @@
       <option name="sbt" value="false" />
     </context>
   </template>
-  <template name="md_activity" value="@startuml;&#10;&#10;(*) --&gt; if &quot;Some Test&quot; then;&#10;&#10;  --&gt;[true] &quot;activity 1&quot;;&#10;&#10;  if &quot;&quot; then;&#10;    -&gt; &quot;activity 3&quot; as a3;&#10;  else;&#10;    if &quot;Other test&quot; then;&#10;      -left-&gt; &quot;activity 5&quot;;&#10;    else;&#10;      --&gt; &quot;activity 6&quot;;&#10;    endif;&#10;  endif;&#10;&#10;else;&#10;&#10;  -&gt;[false] &quot;activity 2&quot;;&#10;&#10;endif;&#10;&#10;a3 --&gt; if &quot;last test&quot; then;&#10;  --&gt; &quot;activity 7&quot;;&#10;else;&#10;  -&gt; &quot;activity 8&quot;;&#10;endif;&#10;&#10;@enduml &#10;        " description="plantuml activity image" toReformat="false" toShortenFQNames="true">
+  <template name="md_activity" value="@startuml&#10;&#10;(*) --&gt; if &quot;Some Test&quot; then&#10;&#10;  --&gt;[true] &quot;activity 1&quot;&#10;&#10;  if &quot;&quot; then&#10;    -&gt; &quot;activity 3&quot; as a3&#10;  else&#10;    if &quot;Other test&quot; then&#10;      -left-&gt; &quot;activity 5&quot;&#10;    else&#10;      --&gt; &quot;activity 6&quot;&#10;    endif&#10;  endif&#10;&#10;else&#10;&#10;  -&gt;[false] &quot;activity 2&quot;&#10;&#10;endif&#10;&#10;a3 --&gt; if &quot;last test&quot; then&#10;  --&gt; &quot;activity 7&quot;&#10;else&#10;  -&gt; &quot;activity 8&quot;&#10;endif&#10;&#10;@enduml &#10;        " description="plantuml activity image" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ASPECTJ" value="false" />
       <option name="Bash" value="false" />
