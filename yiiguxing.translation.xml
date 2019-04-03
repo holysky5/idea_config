@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The object on which the Event initially occurred" />
       <item value="reconcile" />
       <item value="refine" />
       <item value="Capable" />
@@ -50,12 +51,11 @@
       <item value="retail" />
       <item value="fulfillment" />
       <item value="Candidate" />
-      <item value="promotions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="GERMAN" value="2" />
         <entry key="SPANISH" value="1" />
       </map>
